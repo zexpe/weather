@@ -2,11 +2,12 @@
 **Edinburgh**
 
 Weather forecast for overnight:
-* 19h - 0h: :sunny: Clear
-* 1h - 6h: :cloud: Cloudy
+* 22h - 0h: :sunny: Clear
+* 1h - 9h: :cloud: Cloudy
 
 **Glasgow**
 
 Weather forecast for overnight:
-* 19h - 0h: :sunny: Clear
+* 22h - 0h: :sunny: Clear
 * 1h - 6h: :cloud: Cloudy
+* 7h - 9h: :cyclone: Windy (:cloud:)
