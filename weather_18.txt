@@ -16,7 +16,6 @@ Weather forecast for overnight:
 1h - 6h: :cloud: Cloudy
 --------------------------------------------
 Glasgow
-18h Intermittent clouds       Cloud:  59%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  7.4 kph, Gust:  9.3 kph, Vis: 16.1 km
 19h Mostly clear              Cloud:  10%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  7.4 kph, Gust: 18.5 kph, Vis: 16.1 km
 20h Mostly clear              Cloud:  10%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  9.3 kph, Gust: 20.4 kph, Vis: 16.1 km
 21h Mostly clear              Cloud:  10%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  9.3 kph, Gust: 20.4 kph, Vis: 16.1 km
@@ -28,8 +27,8 @@ Glasgow
  3h Mostly cloudy             Cloud:  76%, Precipitation:   7%, Rain:   3%, Snow:   2%, Wind: 11.1 kph, Gust: 25.9 kph, Vis: 16.1 km
  4h Mostly cloudy             Cloud:  76%, Precipitation:   7%, Rain:   4%, Snow:   2%, Wind: 11.1 kph, Gust: 27.8 kph, Vis: 16.1 km
  5h Mostly cloudy             Cloud:  76%, Precipitation:   7%, Rain:   4%, Snow:   2%, Wind: 11.1 kph, Gust: 27.8 kph, Vis: 16.1 km
+ 6h Mostly cloudy             Cloud:  83%, Precipitation:   7%, Rain:   4%, Snow:   1%, Wind: 11.1 kph, Gust: 29.6 kph, Vis: 16.1 km
 Weather forecast for overnight:
-18h: :white_sun_small_cloud: Partly Cloudy
 19h - 0h: :sunny: Clear
-1h - 5h: :cloud: Cloudy
+1h - 6h: :cloud: Cloudy
 --------------------------------------------
