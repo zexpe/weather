@@ -2,7 +2,6 @@
 **Edinburgh**
 
 Weather forecast for Wednesday 2nd March:
-* 10h: :cyclone: Windy (:cloud:) [:cloud: as of 7h, :cyclone:(:cloud:) as of 10h]
 * 11h, 12h: :cyclone: Windy (:cloud:)
 * 13h: :cloud: Cloudy
 * 14h: :umbrella: Rainy [:cloud: as of 9h]
@@ -12,11 +11,11 @@ Weather forecast for Wednesday 2nd March:
 * 18h: :umbrella: Rainy [:cyclone:(:cloud:) as of 9h]
 * 19h, 20h: :cyclone: Windy (:cloud:)
 * 21h: :umbrella: Rainy
+* 22h: :cyclone: Windy (:cloud:)
 
 **Glasgow**
 
 Weather forecast for Wednesday 2nd March:
-* 10h: :cyclone: Windy (:cloud:) [:cloud: as of 7h, :cyclone:(:cloud:) as of 8h]
 * 11h, 12h: :cyclone: Windy (:cloud:)
 * 13h: :cyclone: Windy (:cloud:) [:cloud: as of 9h]
 * 14h, 15h: :umbrella: Rainy
@@ -25,3 +24,4 @@ Weather forecast for Wednesday 2nd March:
 * 18h: :umbrella: Rainy [:cyclone:(:cloud:) as of 9h]
 * 19h: :cyclone: Windy (:cloud:) [:cloud: as of 9h]
 * 20h, 21h: :cloud: Cloudy
+* 22h: :umbrella: Rainy
