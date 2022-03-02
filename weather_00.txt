@@ -1,0 +1,36 @@
+Edinburgh
+ 1h Mostly cloudy             Cloud:  76%, Precipitation:   7%, Rain:   2%, Snow:   2%, Wind:  7.4 kph, Gust: 16.7 kph, Vis: 16.1 km
+ 2h Mostly cloudy             Cloud:  76%, Precipitation:   7%, Rain:   2%, Snow:   2%, Wind:  7.4 kph, Gust: 16.7 kph, Vis: 16.1 km
+ 3h Mostly cloudy             Cloud:  76%, Precipitation:   7%, Rain:   3%, Snow:   2%, Wind:  7.4 kph, Gust: 20.4 kph, Vis: 16.1 km
+ 4h Mostly cloudy             Cloud:  76%, Precipitation:   7%, Rain:   4%, Snow:   2%, Wind:  7.4 kph, Gust: 20.4 kph, Vis: 16.1 km
+ 5h Mostly cloudy             Cloud:  76%, Precipitation:   7%, Rain:   4%, Snow:   2%, Wind:  7.4 kph, Gust: 20.4 kph, Vis: 16.1 km
+ 6h Cloudy                    Cloud:  94%, Precipitation:   7%, Rain:   4%, Snow:   1%, Wind:  9.3 kph, Gust: 22.2 kph, Vis: 16.1 km
+ 7h Cloudy                    Cloud:  95%, Precipitation:   7%, Rain:   6%, Snow:   0%, Wind:  9.3 kph, Gust: 22.2 kph, Vis: 16.1 km
+ 8h Cloudy                    Cloud:  95%, Precipitation:   7%, Rain:   6%, Snow:   0%, Wind:  9.3 kph, Gust: 24.1 kph, Vis: 16.1 km
+ 9h Cloudy                    Cloud:  95%, Precipitation:   7%, Rain:   6%, Snow:   0%, Wind: 11.1 kph, Gust: 27.8 kph, Vis: 16.1 km
+10h Cloudy                    Cloud:  95%, Precipitation:   7%, Rain:   6%, Snow:   0%, Wind: 13.0 kph, Gust: 33.3 kph, Vis: 16.1 km
+11h Cloudy                    Cloud:  95%, Precipitation:   7%, Rain:   6%, Snow:   0%, Wind: 16.7 kph, Gust: 38.9 kph, Vis: 16.1 km
+12h Cloudy                    Cloud:  95%, Precipitation:  11%, Rain:  10%, Snow:   0%, Wind: 18.5 kph, Gust: 42.6 kph, Vis: 16.1 km
+Weather forecast for Wednesday 2nd March:
+1h - 9h: :cloud: Cloudy
+10h - 12h: :kite: Windy (:cloud:)
+Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
+--------------------------------------------
+Glasgow
+ 1h Mostly cloudy             Cloud:  76%, Precipitation:   7%, Rain:   2%, Snow:   2%, Wind:  9.3 kph, Gust: 20.4 kph, Vis: 16.1 km
+ 2h Mostly cloudy             Cloud:  76%, Precipitation:   7%, Rain:   2%, Snow:   2%, Wind:  9.3 kph, Gust: 22.2 kph, Vis: 16.1 km
+ 3h Mostly cloudy             Cloud:  76%, Precipitation:   7%, Rain:   3%, Snow:   2%, Wind: 11.1 kph, Gust: 22.2 kph, Vis: 16.1 km
+ 4h Mostly cloudy             Cloud:  76%, Precipitation:   7%, Rain:   4%, Snow:   2%, Wind: 11.1 kph, Gust: 22.2 kph, Vis: 16.1 km
+ 5h Mostly cloudy             Cloud:  76%, Precipitation:   7%, Rain:   4%, Snow:   2%, Wind: 11.1 kph, Gust: 27.8 kph, Vis: 16.1 km
+ 6h Mostly cloudy             Cloud:  83%, Precipitation:   7%, Rain:   4%, Snow:   1%, Wind: 11.1 kph, Gust: 29.6 kph, Vis: 16.1 km
+ 7h Cloudy                    Cloud:  95%, Precipitation:   7%, Rain:   5%, Snow:   0%, Wind: 13.0 kph, Gust: 31.5 kph, Vis: 16.1 km
+ 8h Cloudy                    Cloud:  95%, Precipitation:   7%, Rain:   5%, Snow:   0%, Wind: 13.0 kph, Gust: 33.3 kph, Vis: 16.1 km
+ 9h Cloudy                    Cloud:  95%, Precipitation:   7%, Rain:   5%, Snow:   0%, Wind: 14.8 kph, Gust: 35.2 kph, Vis: 16.1 km
+10h Cloudy                    Cloud:  95%, Precipitation:   7%, Rain:   6%, Snow:   0%, Wind: 14.8 kph, Gust: 37.0 kph, Vis: 16.1 km
+11h Cloudy                    Cloud:  95%, Precipitation:   7%, Rain:   6%, Snow:   0%, Wind: 16.7 kph, Gust: 42.6 kph, Vis: 16.1 km
+12h Cloudy                    Cloud:  95%, Precipitation:  11%, Rain:   9%, Snow:   0%, Wind: 18.5 kph, Gust: 46.3 kph, Vis: 16.1 km
+Weather forecast for Wednesday 2nd March:
+1h - 6h: :cloud: Cloudy
+7h - 12h: :kite: Windy (:cloud:)
+Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
+--------------------------------------------
