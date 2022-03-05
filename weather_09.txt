@@ -1,45 +1,47 @@
 Glasgow
-10h Mostly cloudy             Cloud:  76%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind:  9.3 kph, Gust: 18.5 kph, Vis: 16.1 km
-11h Mostly cloudy             Cloud:  76%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind:  9.3 kph, Gust: 22.2 kph, Vis: 16.1 km
-12h Mostly cloudy             Cloud:  76%, Precipitation:  33%, Rain:  33%, Snow:   0%, Wind: 11.1 kph, Gust: 22.2 kph, Vis: 16.1 km
-13h Mostly cloudy             Cloud:  76%, Precipitation:  33%, Rain:  33%, Snow:   0%, Wind: 11.1 kph, Gust: 22.2 kph, Vis: 16.1 km
-14h Mostly cloudy             Cloud:  76%, Precipitation:  33%, Rain:  33%, Snow:   0%, Wind: 11.1 kph, Gust: 27.8 kph, Vis: 16.1 km
-15h Mostly cloudy             Cloud:  76%, Precipitation:  36%, Rain:  36%, Snow:   0%, Wind: 11.1 kph, Gust: 27.8 kph, Vis: 16.1 km
-16h Mostly cloudy             Cloud:  76%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis: 16.1 km
-17h Showers                   Cloud:  76%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind:  9.3 kph, Gust: 24.1 kph, Vis: 16.1 km
-18h Mostly cloudy             Cloud:  76%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind:  9.3 kph, Gust: 22.2 kph, Vis: 16.1 km
-19h Mostly clear              Cloud:  11%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  9.3 kph, Gust: 22.2 kph, Vis: 16.1 km
-20h Mostly clear              Cloud:  11%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  9.3 kph, Gust: 22.2 kph, Vis: 16.1 km
-21h Mostly clear              Cloud:  11%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  7.4 kph, Gust: 20.4 kph, Vis: 16.1 km
-Weather forecast for Friday 4th March:
-10h: :cloud: Cloudy
-11h: :umbrella: Rainy [:cloud: as of 10h]
-12h: :cloud: Cloudy
-13h, 14h: :kite: Windy (:cloud:) [:cloud: as of 9h]
-15h, 16h: :cloud: Cloudy
-17h: :cloud: Cloudy [:umbrella: as of 10h]
-18h: :cloud: Cloudy
-19h - 21h: :sunny: Clear
+10h Mostly sunny              Cloud:  26%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  7.4 kph, Gust: 14.8 kph, Vis: 16.1 km
+11h Mostly sunny              Cloud:  26%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  9.3 kph, Gust: 13.0 kph, Vis: 16.1 km
+12h Partly sunny              Cloud:  30%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 22.2 kph, Vis: 16.1 km
+13h Partly sunny              Cloud:  35%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 25.9 kph, Vis: 16.1 km
+14h Partly sunny              Cloud:  40%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 31.5 kph, Vis: 16.1 km
+15h Partly sunny              Cloud:  45%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 31.5 kph, Vis: 16.1 km
+16h Partly sunny              Cloud:  32%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 27.8 kph, Vis: 16.1 km
+17h Mostly sunny              Cloud:  26%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  9.3 kph, Gust: 20.4 kph, Vis: 16.1 km
+18h Mostly clear              Cloud:  26%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  5.6 kph, Gust: 14.8 kph, Vis: 16.1 km
+19h Mostly clear              Cloud:  11%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  5.6 kph, Gust: 13.0 kph, Vis: 16.1 km
+20h Mostly clear              Cloud:  11%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  5.6 kph, Gust: 13.0 kph, Vis: 16.1 km
+21h Mostly clear              Cloud:  11%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  3.7 kph, Gust: 11.1 kph, Vis: 16.1 km
+Weather forecast for Saturday 5th March:
+10h, 11h: :sunny: Clear
+12h: :sunny: Clear [:white_sun_small_cloud: as of 9h]
+13h: :white_sun_small_cloud: Partly Cloudy [:kite:(:white_sun_small_cloud:) as of 9h, :white_sun_small_cloud: as of 10h]
+14h: :white_sun_small_cloud: Partly Cloudy [:kite:(:white_sun_small_cloud:) as of 9h]
+15h: :cloud: Cloudy [:kite:(:white_sun_small_cloud:) as of 9h]
+16h: :cloud: Cloudy [:white_sun_small_cloud: as of 9h]
+17h - 19h: :white_sun_small_cloud: Partly Cloudy [:sunny: as of 9h]
+20h, 21h: :sunny: Clear
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
 Edinburgh
-10h Rain                      Cloud:  88%, Precipitation:  56%, Rain:  56%, Snow:   0%, Wind:  5.6 kph, Gust: 14.8 kph, Vis:  9.7 km
-11h Mostly cloudy             Cloud:  77%, Precipitation:  48%, Rain:  48%, Snow:   0%, Wind:  7.4 kph, Gust: 11.1 kph, Vis: 16.1 km
-12h Rain                      Cloud:  76%, Precipitation:  56%, Rain:  56%, Snow:   0%, Wind:  7.4 kph, Gust: 18.5 kph, Vis:  9.7 km
-13h Mostly cloudy             Cloud:  76%, Precipitation:  25%, Rain:  25%, Snow:   0%, Wind:  9.3 kph, Gust: 13.0 kph, Vis: 16.1 km
-14h Mostly cloudy             Cloud:  76%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind:  9.3 kph, Gust: 22.2 kph, Vis: 16.1 km
-15h Mostly cloudy             Cloud:  76%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind:  9.3 kph, Gust: 22.2 kph, Vis: 16.1 km
-16h Mostly cloudy             Cloud:  76%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind:  7.4 kph, Gust: 18.5 kph, Vis: 16.1 km
-17h Mostly cloudy             Cloud:  76%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind:  5.6 kph, Gust: 14.8 kph, Vis: 16.1 km
-18h Mostly cloudy             Cloud:  76%, Precipitation:  16%, Rain:  16%, Snow:   0%, Wind:  5.6 kph, Gust: 11.1 kph, Vis: 16.1 km
-19h Intermittent clouds       Cloud:  70%, Precipitation:   7%, Rain:   7%, Snow:   2%, Wind:  5.6 kph, Gust: 13.0 kph, Vis: 16.1 km
-20h Intermittent clouds       Cloud:  70%, Precipitation:   7%, Rain:   7%, Snow:   2%, Wind:  5.6 kph, Gust: 13.0 kph, Vis: 16.1 km
-21h Intermittent clouds       Cloud:  70%, Precipitation:   7%, Rain:   7%, Snow:   2%, Wind:  5.6 kph, Gust: 13.0 kph, Vis: 16.1 km
-Weather forecast for Friday 4th March:
-10h: :cloud: Cloudy [:umbrella: as of 9h]
-11h: :umbrella: Rainy [:cloud: as of 9h]
-12h: :cloud: Cloudy [:umbrella: as of 9h]
-13h - 18h: :cloud: Cloudy
-19h - 21h: :white_sun_small_cloud: Partly Cloudy
+10h Sunny                     Cloud:   2%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  7.4 kph, Gust: 13.0 kph, Vis: 16.1 km
+11h Sunny                     Cloud:   4%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  9.3 kph, Gust: 13.0 kph, Vis: 16.1 km
+12h Sunny                     Cloud:   7%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 22.2 kph, Vis: 16.1 km
+13h Partly sunny              Cloud:  30%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 11.1 kph, Gust: 20.4 kph, Vis: 16.1 km
+14h Intermittent clouds       Cloud:  70%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 11.1 kph, Gust: 27.8 kph, Vis: 16.1 km
+15h Mostly cloudy             Cloud:  76%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis: 16.1 km
+16h Intermittent clouds       Cloud:  59%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind:  9.3 kph, Gust: 24.1 kph, Vis: 16.1 km
+17h Partly sunny              Cloud:  41%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind:  7.4 kph, Gust: 18.5 kph, Vis: 16.1 km
+18h Mostly clear              Cloud:  24%, Precipitation:   5%, Rain:   5%, Snow:   0%, Wind:  5.6 kph, Gust: 16.7 kph, Vis: 16.1 km
+19h Mostly clear              Cloud:  25%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  5.6 kph, Gust: 14.8 kph, Vis: 16.1 km
+20h Mostly clear              Cloud:  25%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  5.6 kph, Gust: 13.0 kph, Vis: 16.1 km
+21h Mostly clear              Cloud:  25%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  5.6 kph, Gust: 13.0 kph, Vis: 16.1 km
+Weather forecast for Saturday 5th March:
+10h, 11h: :sunny: Clear
+12h: :white_sun_small_cloud: Partly Cloudy [:sunny: as of 9h]
+13h, 14h: :white_sun_small_cloud: Partly Cloudy
+15h: :white_sun_small_cloud: Partly Cloudy [:cloud: as of 9h]
+16h: :white_sun_small_cloud: Partly Cloudy
+17h: :sunny: Clear [:white_sun_small_cloud: as of 9h]
+18h - 21h: :sunny: Clear
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
