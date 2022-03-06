@@ -1,9 +1,9 @@
-*Updated: Sunday 6th March 17:30*
+*Updated: Sunday 6th March 18:30*
 
 **Glasgow**
 
-* 18h - 5h: :sunny: Clear
+* 19h - 6h: :sunny: Clear
 
 **Edinburgh**
 
-* 18h - 5h: :sunny: Clear
+* 19h - 6h: :sunny: Clear
