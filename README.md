@@ -1,12 +1,13 @@
-*Updated: Monday 7th March 16:30*
+*Updated: Monday 7th March 17:30*
 
 **Glasgow**
 
-* 17h, 18h: :sunny: Clear
-* 19h - 4h: :cloud: Cloudy
+* 18h: :sunny: Clear
+* 19h - 5h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 17h, 18h: :sunny: Clear
+* 18h: :sunny: Clear
 * 19h - 1h: :cloud: Cloudy
 * 2h - 4h: :cyclone: Windy (:cloud:)
+* 5h: :cloud: Cloudy
