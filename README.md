@@ -1,8 +1,7 @@
-*Updated: Monday 14th March 07:30*
+*Updated: Monday 14th March 08:30*
 
 **Glasgow**
 
-* 8h: :umbrella: Rainy [:cyclone:(:cloud:) as of 8h]
 * 9h: :cloud: Cloudy [:cyclone:(:cloud:) as of 8h]
 * 10h: :umbrella: Rainy
 * 11h: :cyclone: Windy (:cloud:)
@@ -12,13 +11,12 @@
 * 16h: :cyclone: Windy (:partly_sunny:) [:partly_sunny: as of 8h]
 * 17h: :cyclone: Windy (:partly_sunny:)
 * 18h: :cyclone: Windy (:sunny:)
-* 19h: :partly_sunny: Partly Cloudy
+* 19h, 20h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 8h: :cloud: Cloudy [:umbrella: as of 8h]
-* 9h: :umbrella: Rainy [:cyclone:(:cloud:) as of 8h]
-* 10h: :cloud: Cloudy [:cyclone:(:cloud:) as of 8h]
+* 9h: :umbrella: Rainy [:cyclone:(:cloud:) as of 8h, :cloud: as of 9h]
+* 10h: :cloud: Cloudy [:cyclone:(:cloud:) as of 8h, :cloud: as of 9h]
 * 11h: :umbrella: Rainy
 * 12h: :cyclone: Windy (:cloud:)
 * 13h: :cloud: Cloudy [:umbrella: as of 8h]
@@ -26,4 +24,4 @@
 * 16h: :umbrella: Rainy [:cloud: as of 8h]
 * 17h: :cyclone: Windy (:cloud:)
 * 18h: :umbrella: Rainy [:cyclone:(:cloud:) as of 8h]
-* 19h: :partly_sunny: Partly Cloudy
+* 19h, 20h: :partly_sunny: Partly Cloudy
