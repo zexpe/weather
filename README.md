@@ -1,16 +1,15 @@
-*Updated: Tuesday 15th March 22:30*
+*Updated: Wednesday 16th March 23:30*
 
 **Glasgow**
 
-* 23h: :umbrella: Rainy
 * 0h: :cyclone: Windy (:cloud:)
 * 1h, 2h: :cloud: Cloudy
 * 3h - 5h: :umbrella: Rainy
-* 6h - 10h: :cloud: Cloudy
+* 6h - 11h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 23h - 2h: :cloud: Cloudy
+* 0h - 2h: :cloud: Cloudy
 * 3h - 5h: :umbrella: Rainy
 * 6h - 8h: :cloud: Cloudy
-* 9h, 10h: :umbrella: Rainy
+* 9h - 11h: :umbrella: Rainy
