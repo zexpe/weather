@@ -1,10 +1,10 @@
-*Updated: Thursday 17th March 22:30*
+*Updated: Friday 18th March 23:30*
 
 **Glasgow**
 
-* 23h - 10h: :partly_sunny: Partly Cloudy
+* 0h - 11h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 23h, 0h: :sunny: Clear
-* 1h - 10h: :partly_sunny: Partly Cloudy
+* 0h: :sunny: Clear
+* 1h - 11h: :partly_sunny: Partly Cloudy
