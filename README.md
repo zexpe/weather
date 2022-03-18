@@ -1,10 +1,11 @@
-*Updated: Friday 18th March 00:30*
+*Updated: Friday 18th March 01:30*
 
 **Glasgow**
 
-* 1h - 11h: :partly_sunny: Partly Cloudy
+* 2h - 11h: :partly_sunny: Partly Cloudy
 * 12h: :cyclone: Windy (:partly_sunny:)
+* 13h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 1h - 12h: :partly_sunny: Partly Cloudy
+* 2h - 13h: :partly_sunny: Partly Cloudy
