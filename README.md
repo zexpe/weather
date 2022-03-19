@@ -1,11 +1,11 @@
-*Updated: Saturday 19th March 01:30*
+*Updated: Saturday 19th March 02:30*
 
 **Glasgow**
 
-* 2h - 11h: :sunny: Clear
+* 3h - 11h: :sunny: Clear
 * 12h: :cyclone: Windy (:sunny:)
-* 13h: :sunny: Clear
+* 13h, 14h: :sunny: Clear
 
 **Edinburgh**
 
-* 2h - 13h: :sunny: Clear
+* 3h - 14h: :sunny: Clear
