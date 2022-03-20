@@ -1,11 +1,11 @@
-*Updated: Sunday 20th March 20:30*
+*Updated: Sunday 20th March 21:30*
 
 **Glasgow**
 
-* 20h - 7h: :sunny: Clear
+* 22h - 9h: :sunny: Clear
 
 **Edinburgh**
 
-* 21h - 4h: :sunny: Clear
+* 22h - 4h: :sunny: Clear
 * 5h, 6h: :partly_sunny: Partly Cloudy
-* 7h, 8h: :sunny: Clear
+* 7h - 9h: :sunny: Clear
