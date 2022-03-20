@@ -1,13 +1,14 @@
-*Updated: Sunday 20th March 23:30*
+*Updated: Sunday 20th March 00:30*
 
 **Glasgow**
 
-* 0h - 7h: :sunny: Clear
-* 8h - 11h: :cyclone: Windy (:sunny:)
+* 1h: :sunny: Clear [:cyclone:(:sunny:) as of 1h]
+* 2h - 7h: :sunny: Clear
+* 8h - 12h: :cyclone: Windy (:sunny:)
 
 **Edinburgh**
 
-* 0h: :cyclone: Windy (:sunny:) [:sunny: as of 21h, :cyclone:(:sunny:) as of 23h, :sunny: as of 0h]
 * 1h - 7h: :sunny: Clear
 * 8h - 10h: :partly_sunny: Partly Cloudy
 * 11h: :sunny: Clear
+* 12h: :cyclone: Windy (:sunny:)
