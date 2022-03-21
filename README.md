@@ -1,11 +1,13 @@
-*Updated: Monday 21st March 09:30*
+*Updated: Monday 21st March 10:30*
 
 **Glasgow**
 
-* 10h - 18h: :sunny: Clear
+* 11h - 18h: :sunny: Clear
 * 19h: :partly_sunny: Partly Cloudy [:cloud: as of 9h]
-* 20h, 21h: :partly_sunny: Partly Cloudy
+* 20h - 22h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 10h - 21h: :sunny: Clear
+* 11h - 18h: :sunny: Clear
+* 19h - 21h: :sunny: Clear [:partly_sunny: as of 11h]
+* 22h: :partly_sunny: Partly Cloudy
