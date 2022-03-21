@@ -1,11 +1,11 @@
-*Updated: Monday 21st March 00:30*
+*Updated: Monday 21st March 01:30*
 
 **Glasgow**
 
-* 1h - 12h: :sunny: Clear
+* 2h - 13h: :sunny: Clear
 
 **Edinburgh**
 
-* 1h - 4h: :sunny: Clear
+* 2h - 4h: :sunny: Clear
 * 5h, 6h: :partly_sunny: Partly Cloudy
-* 7h - 12h: :sunny: Clear
+* 7h - 13h: :sunny: Clear
