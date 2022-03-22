@@ -1,12 +1,12 @@
-*Updated: Tuesday 22nd March 01:30*
+*Updated: Tuesday 22nd March 02:30*
 
 **Glasgow**
 
-* 2h - 4h: :sunny: Clear
+* 3h, 4h: :sunny: Clear
 * 5h - 12h: :partly_sunny: Partly Cloudy
-* 13h: :sunny: Clear
+* 13h, 14h: :sunny: Clear
 
 **Edinburgh**
 
-* 2h - 12h: :partly_sunny: Partly Cloudy
-* 13h: :sunny: Clear
+* 3h - 12h: :partly_sunny: Partly Cloudy
+* 13h, 14h: :sunny: Clear
