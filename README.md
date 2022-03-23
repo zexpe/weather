@@ -1,12 +1,13 @@
-*Updated: Wednesday 23rd March 03:30*
+*Updated: Wednesday 23rd March 04:30*
 
 **Glasgow**
 
-* 4h - 12h: :cloud: Cloudy
+* 5h - 12h: :cloud: Cloudy
 * 13h, 14h: :sunny: Clear
 * 15h: :cyclone: Windy (:sunny:)
+* 16h: :sunny: Clear
 
 **Edinburgh**
 
-* 4h - 12h: :cloud: Cloudy
-* 13h - 15h: :sunny: Clear
+* 5h - 12h: :cloud: Cloudy
+* 13h - 16h: :sunny: Clear
