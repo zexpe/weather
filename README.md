@@ -1,11 +1,11 @@
-*Updated: Saturday 26th March 08:30*
+*Updated: Saturday 26th March 09:30*
 
 **Glasgow**
 
-* 9h - 18h: :partly_sunny: Partly Cloudy
-* 19h, 20h: :sunny: Clear
+* 10h - 18h: :partly_sunny: Partly Cloudy
+* 19h - 21h: :sunny: Clear
 
 **Edinburgh**
 
-* 9h - 18h: :partly_sunny: Partly Cloudy
-* 19h, 20h: :sunny: Clear
+* 10h - 18h: :partly_sunny: Partly Cloudy
+* 19h - 21h: :sunny: Clear
