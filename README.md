@@ -1,11 +1,11 @@
-*Updated: Sunday 27th March 10:30*
+*Updated: Sunday 27th March 11:30*
 
 **Glasgow**
 
-* 11h - 13h: :cloud: Cloudy
-* 14h - 22h: :sunny: Clear
+* 12h, 13h: :cloud: Cloudy
+* 14h - 23h: :sunny: Clear
 
 **Edinburgh**
 
-* 11h - 13h: :cloud: Cloudy
-* 14h - 22h: :sunny: Clear
+* 12h, 13h: :cloud: Cloudy
+* 14h - 23h: :sunny: Clear
