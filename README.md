@@ -1,9 +1,10 @@
-*Updated: Thursday 31st March 23:30*
+*Updated: Thursday 31st March 00:30*
 
 **Glasgow**
 
-* 0h - 11h: :sunny: Clear
+* 1h - 12h: :sunny: Clear
 
 **Edinburgh**
 
-* 0h - 11h: :sunny: Clear
+* 1h - 11h: :sunny: Clear
+* 12h: :cloud: Cloudy
