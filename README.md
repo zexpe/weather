@@ -1,10 +1,12 @@
-*Updated: Thursday 31st March 20:30*
+*Updated: Thursday 31st March 21:30*
 
 **Glasgow**
 
-* 21h - 8h: :sunny: Clear
+* 22h - 8h: :sunny: Clear
+* 9h: :partly_sunny: Partly Cloudy
 
 **Kissonerga**
 
-* 23h - 7h: :cloud: Cloudy
+* 0h - 7h: :cloud: Cloudy
 * 8h - 10h: :partly_sunny: Partly Cloudy
+* 11h: :cloud: Cloudy
