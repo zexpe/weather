@@ -1,10 +1,12 @@
-*Updated: Thursday 31st March 00:30*
+*Updated: Thursday 31st March 01:30*
 
 **Glasgow**
 
-* 1h - 12h: :sunny: Clear
+* 2h - 12h: :sunny: Clear
+* 13h: :cyclone: Windy (:sunny:)
 
 **Edinburgh**
 
-* 1h - 11h: :sunny: Clear
+* 2h - 11h: :sunny: Clear
 * 12h: :cloud: Cloudy
+* 13h: :cyclone: Windy (:partly_sunny:)
