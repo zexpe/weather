@@ -1,11 +1,13 @@
-*Updated: Saturday 2nd April 23:30*
+*Updated: Saturday 2nd April 00:30*
 
 **Glasgow**
 
-* 0h, 1h: :cloud: Cloudy
+* 1h: :cloud: Cloudy
 * 2h - 5h: :partly_sunny: Partly Cloudy
 * 6h - 11h: :cloud: Cloudy
+* 12h: :umbrella: Rainy
 
 **Kissonerga**
 
-* 2h - 13h: :sunny: Clear
+* 3h - 13h: :sunny: Clear
+* 14h: :partly_sunny: Partly Cloudy
