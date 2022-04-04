@@ -1,8 +1,7 @@
-*Updated: Monday 4th April 06:30*
+*Updated: Monday 4th April 07:30*
 
 **Glasgow**
 
-* 7h: :cyclone: Windy (:cloud:) [:cloud: as of 4h, :cyclone:(:cloud:) as of 7h]
 * 8h: :cyclone: Windy (:cloud:)
 * 9h: :cyclone: Windy (:cloud:) [:cloud: as of 7h]
 * 10h: :umbrella: Rainy
@@ -11,12 +10,13 @@
 * 14h - 16h: :cyclone: Windy (:cloud:)
 * 17h: :umbrella: Rainy
 * 18h: :cyclone: Windy (:cloud:)
+* 19h: :umbrella: Rainy
 
 **Kissonerga**
 
-* 9h, 10h: :sunny: Clear
+* 10h: :sunny: Clear [:partly_sunny: as of 10h]
 * 11h: :partly_sunny: Partly Cloudy
 * 12h, 13h: :cyclone: Windy (:cloud:) [:cloud: as of 9h]
-* 14h, 15h: :cyclone: Windy (:cloud:)
+* 14h, 15h: :cyclone: Windy (:cloud:) [:cloud: as of 10h]
 * 16h, 17h: :partly_sunny: Partly Cloudy
-* 18h - 20h: :sunny: Clear
+* 18h - 21h: :sunny: Clear
