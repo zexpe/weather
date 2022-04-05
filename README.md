@@ -1,11 +1,11 @@
-*Updated: Tuesday 5th April 09:30*
+*Updated: Tuesday 5th April 10:30*
 
 **Glasgow**
 
-* 10h - 19h: :umbrella: Rainy
+* 11h - 19h: :umbrella: Rainy
 * 20h: :cloud: Cloudy [:umbrella: as of 10h]
-* 21h: :umbrella: Rainy
+* 21h, 22h: :umbrella: Rainy
 
 **Kissonerga**
 
-* 12h - 23h: :cloud: Cloudy
+* 13h - 0h: :cloud: Cloudy
