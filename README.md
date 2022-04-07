@@ -1,10 +1,11 @@
-*Updated: Thursday 7th April 19:30*
+*Updated: Thursday 7th April 20:30*
 
 **Glasgow**
 
-* 20h: :sunny: Clear [:cyclone:(:sunny:) as of 19h]
 * 21h - 7h: :sunny: Clear
+* 8h: :partly_sunny: Partly Cloudy
 
 **Kissonerga**
 
-* 22h - 9h: :cloud: Cloudy
+* 23h - 9h: :cloud: Cloudy
+* 10h: :cyclone: Windy (:cloud:)
