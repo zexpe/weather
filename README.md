@@ -1,8 +1,7 @@
-*Updated: Friday 8th April 08:30*
+*Updated: Friday 8th April 09:30*
 
 **Glasgow**
 
-* 9h: :partly_sunny: Partly Cloudy [:sunny: as of 9h]
 * 10h, 11h: :sunny: Clear
 * 12h: :cloud: Cloudy
 * 13h: :cyclone: Windy (:sunny:) [:partly_sunny: as of 9h]
@@ -12,10 +11,10 @@
 * 18h: :cyclone: Windy (:partly_sunny:) [:cyclone:(:sunny:) as of 9h]
 * 19h: :cyclone: Windy (:sunny:)
 * 20h: :partly_sunny: Partly Cloudy
+* 21h: :sunny: Clear
 
 **Kissonerga**
 
-* 11h: :cyclone: Windy (:partly_sunny:) [:partly_sunny: as of 8h]
 * 12h - 18h: :cyclone: Windy (:partly_sunny:)
 * 19h: :partly_sunny: Partly Cloudy
-* 20h - 22h: :sunny: Clear
+* 20h - 23h: :sunny: Clear
