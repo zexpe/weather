@@ -1,12 +1,12 @@
-*Updated: Friday 8th April 19:30*
+*Updated: Friday 8th April 20:30*
 
 **Glasgow**
 
-* 20h: :partly_sunny: Partly Cloudy
 * 21h - 23h: :sunny: Clear
 * 0h - 2h: :partly_sunny: Partly Cloudy
 * 3h - 7h: :cloud: Cloudy
+* 8h: :partly_sunny: Partly Cloudy
 
 **Kissonerga**
 
-* 22h - 9h: :sunny: Clear
+* 23h - 10h: :sunny: Clear
