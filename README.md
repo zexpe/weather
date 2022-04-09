@@ -1,12 +1,13 @@
-*Updated: Saturday 9th April 02:30*
+*Updated: Saturday 9th April 03:30*
 
 **Glasgow**
 
-* 3h - 7h: :cloud: Cloudy
+* 4h - 7h: :cloud: Cloudy
 * 8h - 10h: :partly_sunny: Partly Cloudy
 * 11h - 13h: :cyclone: Windy (:partly_sunny:)
 * 14h: :umbrella: Rainy
+* 15h: :cyclone: Windy (:cloud:)
 
 **Kissonerga**
 
-* 5h - 16h: :sunny: Clear
+* 6h - 17h: :sunny: Clear
