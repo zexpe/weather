@@ -1,10 +1,10 @@
-*Updated: Sunday 10th April 09:30*
+*Updated: Sunday 10th April 10:30*
 
 **Glasgow**
 
-* 10h - 13h: :partly_sunny: Partly Cloudy
-* 14h - 21h: :cloud: Cloudy
+* 11h - 13h: :partly_sunny: Partly Cloudy
+* 14h - 22h: :cloud: Cloudy
 
 **Kissonerga**
 
-* 12h - 23h: :sunny: Clear
+* 13h - 0h: :sunny: Clear
