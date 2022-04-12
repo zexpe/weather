@@ -1,47 +1,44 @@
 Glasgow
-10h Cloudy                    Cloud: 100%, Precipitation:   6%, Rain:   6%, Snow:   0%, Wind: 16.7 kph, Gust: 25.9 kph, Vis: 16.1 km
-11h Cloudy                    Cloud: 100%, Precipitation:   5%, Rain:   5%, Snow:   0%, Wind: 18.5 kph, Gust: 27.8 kph, Vis: 16.1 km
-12h Cloudy                    Cloud: 100%, Precipitation:   5%, Rain:   5%, Snow:   0%, Wind: 18.5 kph, Gust: 37.0 kph, Vis: 16.1 km
-13h Cloudy                    Cloud: 100%, Precipitation:   8%, Rain:   8%, Snow:   0%, Wind: 20.4 kph, Gust: 40.7 kph, Vis: 16.1 km
-14h Cloudy                    Cloud: 100%, Precipitation:  43%, Rain:  43%, Snow:   0%, Wind: 20.4 kph, Gust: 22.2 kph, Vis: 16.1 km
-15h Cloudy                    Cloud: 100%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 22.2 kph, Gust: 24.1 kph, Vis: 16.1 km
-16h Showers                   Cloud: 100%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind: 22.2 kph, Gust: 25.9 kph, Vis:  9.7 km
-17h Cloudy                    Cloud: 100%, Precipitation:  24%, Rain:  24%, Snow:   0%, Wind: 22.2 kph, Gust: 25.9 kph, Vis: 16.1 km
-18h Cloudy                    Cloud: 100%, Precipitation:  19%, Rain:  19%, Snow:   0%, Wind: 18.5 kph, Gust: 38.9 kph, Vis: 16.1 km
-19h Cloudy                    Cloud: 100%, Precipitation:  24%, Rain:  24%, Snow:   0%, Wind: 16.7 kph, Gust: 40.7 kph, Vis: 16.1 km
-20h Cloudy                    Cloud:  94%, Precipitation:  43%, Rain:  43%, Snow:   0%, Wind: 14.8 kph, Gust: 37.0 kph, Vis: 16.1 km
-21h Cloudy                    Cloud:  94%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 13.0 kph, Gust: 31.5 kph, Vis: 16.1 km
-Weather forecast for Monday 11th April:
-10h, 11h: :kite: Windy (:cloud:) [:cloud: as of 9h]
-12h, 13h: :kite: Windy (:cloud:)
-14h, 15h: :kite: Windy (:cloud:) [:cloud: as of 9h]
-16h: :umbrella: Rainy
-17h: :kite: Windy (:cloud:) [:cloud: as of 9h]
-18h - 21h: :kite: Windy (:cloud:)
+10h Cloudy                    Cloud:  94%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 16.7 kph, Gust: 37.0 kph, Vis: 16.1 km
+11h Cloudy                    Cloud:  94%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 16.7 kph, Gust: 31.5 kph, Vis: 16.1 km
+12h Cloudy                    Cloud:  94%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 18.5 kph, Gust: 33.3 kph, Vis: 16.1 km
+13h Cloudy                    Cloud:  94%, Precipitation:  39%, Rain:  39%, Snow:   0%, Wind: 18.5 kph, Gust: 37.0 kph, Vis: 16.1 km
+14h Cloudy                    Cloud:  94%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 16.7 kph, Gust: 18.5 kph, Vis: 16.1 km
+15h Rain                      Cloud:  94%, Precipitation:  75%, Rain:  75%, Snow:   0%, Wind: 16.7 kph, Gust: 18.5 kph, Vis:  8.0 km
+16h Rain                      Cloud:  94%, Precipitation:  75%, Rain:  75%, Snow:   0%, Wind: 16.7 kph, Gust: 22.2 kph, Vis:  8.0 km
+17h Rain                      Cloud:  94%, Precipitation:  75%, Rain:  75%, Snow:   0%, Wind: 14.8 kph, Gust: 22.2 kph, Vis:  8.0 km
+18h Rain                      Cloud:  94%, Precipitation:  75%, Rain:  75%, Snow:   0%, Wind: 14.8 kph, Gust: 31.5 kph, Vis:  8.0 km
+19h Cloudy                    Cloud:  94%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 13.0 kph, Gust: 33.3 kph, Vis: 16.1 km
+20h Rain                      Cloud:  76%, Precipitation:  62%, Rain:  62%, Snow:   0%, Wind: 11.1 kph, Gust: 27.8 kph, Vis:  9.7 km
+21h Rain                      Cloud:  76%, Precipitation:  62%, Rain:  62%, Snow:   0%, Wind:  9.3 kph, Gust: 22.2 kph, Vis:  9.7 km
+Weather forecast for Tuesday 12th April:
+10h: :umbrella: Rainy [:kite:(:cloud:) as of 10h]
+11h: :umbrella: Rainy [:cloud: as of 9h, :kite:(:cloud:) as of 10h]
+12h: :umbrella: Rainy [:kite:(:cloud:) as of 9h]
+13h: :umbrella: Rainy [:kite:(:cloud:) as of 10h]
+14h: :umbrella: Rainy [:cloud: as of 9h]
+15h - 17h: :cloud: Cloudy [:umbrella: as of 9h]
+18h: :umbrella: Rainy
+19h: :umbrella: Rainy [:kite:(:cloud:) as of 9h]
+20h: :cloud: Cloudy [:umbrella: as of 10h]
+21h: :umbrella: Rainy
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
 Kissonerga
-12h Intermittent clouds       Cloud:  70%, Precipitation:  15%, Rain:  15%, Snow:   0%, Wind: 24.1 kph, Gust: 40.7 kph, Vis:  9.7 km
-13h Partly sunny              Cloud:  48%, Precipitation:  19%, Rain:  19%, Snow:   0%, Wind: 25.9 kph, Gust: 44.4 kph, Vis: 16.1 km
-14h Partly sunny              Cloud:  36%, Precipitation:  32%, Rain:  32%, Snow:   0%, Wind: 25.9 kph, Gust: 46.3 kph, Vis: 16.1 km
-15h Mostly sunny              Cloud:  24%, Precipitation:  32%, Rain:  32%, Snow:   0%, Wind: 25.9 kph, Gust: 50.0 kph, Vis: 16.1 km
-16h Partly sunny              Cloud:  35%, Precipitation:  36%, Rain:  36%, Snow:   0%, Wind: 27.8 kph, Gust: 53.7 kph, Vis: 16.1 km
-17h Mostly cloudy w/ showers  Cloud:  70%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 27.8 kph, Gust: 55.6 kph, Vis:  9.7 km
-18h Intermittent clouds       Cloud:  57%, Precipitation:  37%, Rain:  37%, Snow:   0%, Wind: 25.9 kph, Gust: 59.3 kph, Vis: 16.1 km
-19h Intermittent clouds       Cloud:  70%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 24.1 kph, Gust: 55.6 kph, Vis: 16.1 km
-20h Showers                   Cloud:  84%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind: 18.5 kph, Gust: 48.2 kph, Vis:  9.7 km
-21h Cloudy                    Cloud:  97%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 16.7 kph, Gust: 40.7 kph, Vis: 16.1 km
-22h Intermittent clouds       Cloud:  72%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 14.8 kph, Gust: 35.2 kph, Vis: 16.1 km
-23h Partly cloudy             Cloud:  47%, Precipitation:  33%, Rain:  33%, Snow:   0%, Wind: 11.1 kph, Gust: 29.6 kph, Vis: 16.1 km
-Weather forecast for Monday 11th April:
-12h - 14h: :kite: Windy (:white_sun_small_cloud:)
-15h: :kite: Windy (:sunny:)
-16h: :kite: Windy (:white_sun_small_cloud:)
-17h: :cloud: Cloudy
-18h, 19h: :kite: Windy (:white_sun_small_cloud:)
-20h: :umbrella: Rainy
-21h: :kite: Windy (:cloud:)
-22h: :kite: Windy (:white_sun_small_cloud:)
-23h: :white_sun_small_cloud: Partly Cloudy
+12h Sunny                     Cloud:   0%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 18.5 kph, Gust: 37.0 kph, Vis: 16.1 km
+13h Sunny                     Cloud:   0%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 18.5 kph, Gust: 38.9 kph, Vis: 16.1 km
+14h Sunny                     Cloud:   0%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 18.5 kph, Gust: 40.7 kph, Vis: 16.1 km
+15h Sunny                     Cloud:   0%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 20.4 kph, Gust: 40.7 kph, Vis: 16.1 km
+16h Sunny                     Cloud:   0%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 20.4 kph, Gust: 40.7 kph, Vis: 16.1 km
+17h Sunny                     Cloud:   0%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 20.4 kph, Gust: 38.9 kph, Vis: 16.1 km
+18h Sunny                     Cloud:   0%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 18.5 kph, Gust: 35.2 kph, Vis: 16.1 km
+19h Sunny                     Cloud:   0%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 16.7 kph, Gust: 31.5 kph, Vis: 16.1 km
+20h Clear                     Cloud:   0%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 27.8 kph, Vis: 16.1 km
+21h Clear                     Cloud:   0%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 24.1 kph, Vis: 16.1 km
+22h Clear                     Cloud:   0%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 22.2 kph, Vis: 16.1 km
+23h Clear                     Cloud:   0%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 22.2 kph, Vis: 16.1 km
+Weather forecast for Tuesday 12th April:
+12h - 19h: :kite: Windy (:sunny:)
+20h - 23h: :sunny: Clear
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
