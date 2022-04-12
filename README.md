@@ -1,8 +1,7 @@
-*Updated: Tuesday 12th April 12:30*
+*Updated: Tuesday 12th April 13:30*
 
 **Glasgow**
 
-* 13h: :umbrella: Rainy [:cyclone:(:cloud:) as of 10h]
 * 14h: :umbrella: Rainy [:cloud: as of 9h]
 * 15h - 17h: :cloud: Cloudy [:umbrella: as of 9h]
 * 18h: :umbrella: Rainy
@@ -10,9 +9,9 @@
 * 20h: :cloud: Cloudy [:umbrella: as of 10h]
 * 21h: :umbrella: Rainy
 * 22h, 23h: :cloud: Cloudy
-* 0h: :umbrella: Rainy
+* 0h, 1h: :umbrella: Rainy
 
 **Kissonerga**
 
-* 15h - 19h: :cyclone: Windy (:sunny:)
-* 20h - 2h: :sunny: Clear
+* 16h - 19h: :cyclone: Windy (:sunny:)
+* 20h - 3h: :sunny: Clear
