@@ -1,9 +1,9 @@
-*Updated: Wednesday 13th April 20:30*
+*Updated: Wednesday 13th April 21:30*
 
 **Glasgow**
 
-* 21h - 8h: :cloud: Cloudy
+* 22h - 9h: :cloud: Cloudy
 
 **Kissonerga**
 
-* 23h - 10h: :sunny: Clear
+* 0h - 11h: :sunny: Clear
