@@ -1,10 +1,11 @@
-*Updated: Thursday 14th April 02:30*
+*Updated: Thursday 14th April 03:30*
 
 **Glasgow**
 
-* 3h - 14h: :cloud: Cloudy
+* 4h - 15h: :cloud: Cloudy
 
 **Kissonerga**
 
-* 5h - 11h: :sunny: Clear
+* 6h - 11h: :sunny: Clear
 * 12h - 16h: :cyclone: Windy (:sunny:)
+* 17h: :sunny: Clear
