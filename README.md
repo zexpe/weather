@@ -1,17 +1,21 @@
-*Updated: Thursday 14th April 20:30*
+*Updated: Thursday 14th April 21:30*
 
 **Glasgow**
 
-* 21h - 23h: :cloud: Cloudy
+* 22h, 23h: :cloud: Cloudy
 * 0h: :umbrella: Rainy
 * 1h, 2h: :cloud: Cloudy
 * 3h, 4h: :umbrella: Rainy
-* 5h - 8h: :cloud: Cloudy
+* 5h - 9h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 21h, 22h: :cloud: Cloudy
+* 22h: :cloud: Cloudy
 * 23h: :umbrella: Rainy
-* 0h - 4h: :cloud: Cloudy
+* 0h: :cloud: Cloudy
+* 1h: :cloud: Cloudy [:umbrella: as of 22h]
+* 2h - 4h: :cloud: Cloudy
 * 5h: :umbrella: Rainy
-* 6h - 8h: :cloud: Cloudy
+* 6h: :cloud: Cloudy
+* 7h: :cloud: Cloudy [:umbrella: as of 22h]
+* 8h, 9h: :cloud: Cloudy
