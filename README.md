@@ -1,11 +1,11 @@
-*Updated: Saturday 16th April 03:30*
+*Updated: Saturday 16th April 04:30*
 
 **Glasgow**
 
-* 4h - 10h: :cloud: Cloudy
+* 5h - 10h: :cloud: Cloudy
 * 11h - 13h: :cyclone: Windy (:cloud:)
-* 14h, 15h: :cloud: Cloudy
+* 14h - 16h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 4h - 15h: :cloud: Cloudy
+* 5h - 16h: :cloud: Cloudy
