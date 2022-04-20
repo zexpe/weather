@@ -1,13 +1,13 @@
-*Updated: Wednesday 20th April 14:30*
+*Updated: Wednesday 20th April 15:30*
 
 **Glasgow**
 
-* 15h - 17h: :partly_sunny: Partly Cloudy
+* 16h, 17h: :partly_sunny: Partly Cloudy
 * 18h: :cloud: Cloudy
-* 19h - 2h: :partly_sunny: Partly Cloudy
+* 19h - 3h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 15h: :partly_sunny: Partly Cloudy
 * 16h: :partly_sunny: Partly Cloudy [:cyclone:(:partly_sunny:) as of 15h]
-* 17h - 2h: :partly_sunny: Partly Cloudy
+* 17h: :partly_sunny: Partly Cloudy [:cyclone:(:partly_sunny:) as of 16h]
+* 18h - 3h: :partly_sunny: Partly Cloudy
