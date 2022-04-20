@@ -1,12 +1,11 @@
-*Updated: Wednesday 20th April 06:30*
+*Updated: Wednesday 20th April 07:30*
 
 **Glasgow**
 
-* 7h: :sunny: Clear
 * 8h - 17h: :partly_sunny: Partly Cloudy
 * 18h: :cloud: Cloudy
+* 19h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 7h: :sunny: Clear
-* 8h - 18h: :partly_sunny: Partly Cloudy
+* 8h - 19h: :partly_sunny: Partly Cloudy
