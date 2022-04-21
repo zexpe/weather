@@ -1,13 +1,13 @@
-*Updated: Thursday 21st April 02:30*
+*Updated: Thursday 21st April 03:30*
 
 **Glasgow**
 
-* 3h - 10h: :partly_sunny: Partly Cloudy
+* 4h - 10h: :partly_sunny: Partly Cloudy
 * 11h - 13h: :cyclone: Windy (:partly_sunny:)
-* 14h: :sunny: Clear
+* 14h, 15h: :sunny: Clear
 
 **Edinburgh**
 
-* 3h - 11h: :partly_sunny: Partly Cloudy
+* 4h - 11h: :partly_sunny: Partly Cloudy
 * 12h, 13h: :cyclone: Windy (:partly_sunny:)
-* 14h: :sunny: Clear
+* 14h, 15h: :sunny: Clear
