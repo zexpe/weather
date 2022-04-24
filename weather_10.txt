@@ -1,42 +1,45 @@
 Glasgow
-11h Mostly sunny              Cloud:  11%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 20.4 kph, Gust: 29.6 kph, Vis: 16.1 km
-12h Mostly sunny              Cloud:  11%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 22.2 kph, Gust: 40.7 kph, Vis: 16.1 km
-13h Mostly sunny              Cloud:  11%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 24.1 kph, Gust: 50.0 kph, Vis: 16.1 km
-14h Mostly sunny              Cloud:  11%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 25.9 kph, Gust: 27.8 kph, Vis: 16.1 km
-15h Mostly sunny              Cloud:  11%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 25.9 kph, Gust: 27.8 kph, Vis: 16.1 km
-16h Mostly sunny              Cloud:  11%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 24.1 kph, Gust: 27.8 kph, Vis: 16.1 km
-17h Mostly sunny              Cloud:  11%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 24.1 kph, Gust: 29.6 kph, Vis: 16.1 km
-18h Mostly sunny              Cloud:  11%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 22.2 kph, Gust: 40.7 kph, Vis: 16.1 km
-19h Mostly sunny              Cloud:  11%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 20.4 kph, Gust: 51.9 kph, Vis: 16.1 km
-20h Partly sunny              Cloud:  46%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 18.5 kph, Gust: 22.2 kph, Vis: 16.1 km
-21h Partly cloudy             Cloud:  46%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 16.7 kph, Gust: 18.5 kph, Vis: 16.1 km
-22h Partly cloudy             Cloud:  46%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 14.8 kph, Gust: 24.1 kph, Vis: 16.1 km
-Weather forecast for Saturday 23rd April:
-11h: :kite: Windy (:sunny:) [:sunny: as of 9h]
-12h, 13h: :kite: Windy (:sunny:)
-14h - 17h: :sunny: Clear
-18h, 19h: :kite: Windy (:sunny:)
-20h - 22h: :white_sun_small_cloud: Partly Cloudy
+11h Partly sunny              Cloud:  46%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 18.5 kph, Gust: 31.5 kph, Vis: 16.1 km
+12h Intermittent clouds       Cloud:  58%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 18.5 kph, Gust: 40.7 kph, Vis: 16.1 km
+13h Intermittent clouds       Cloud:  70%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 20.4 kph, Gust: 40.7 kph, Vis: 16.1 km
+14h Mostly cloudy w/ showers  Cloud:  70%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 18.5 kph, Gust: 22.2 kph, Vis: 16.1 km
+15h Intermittent clouds       Cloud:  65%, Precipitation:  37%, Rain:  37%, Snow:   0%, Wind: 18.5 kph, Gust: 20.4 kph, Vis: 16.1 km
+16h Intermittent clouds       Cloud:  57%, Precipitation:  25%, Rain:  25%, Snow:   0%, Wind: 18.5 kph, Gust: 20.4 kph, Vis: 16.1 km
+17h Partly sunny              Cloud:  46%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 16.7 kph, Gust: 25.9 kph, Vis: 16.1 km
+18h Partly sunny              Cloud:  46%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 16.7 kph, Gust: 37.0 kph, Vis: 16.1 km
+19h Partly sunny              Cloud:  46%, Precipitation:   5%, Rain:   5%, Snow:   0%, Wind: 16.7 kph, Gust: 42.6 kph, Vis: 16.1 km
+20h Intermittent clouds       Cloud:  70%, Precipitation:   1%, Rain:   1%, Snow:   0%, Wind: 14.8 kph, Gust: 38.9 kph, Vis: 16.1 km
+21h Intermittent clouds       Cloud:  70%, Precipitation:   1%, Rain:   1%, Snow:   0%, Wind: 14.8 kph, Gust: 35.2 kph, Vis: 16.1 km
+22h Intermittent clouds       Cloud:  70%, Precipitation:   1%, Rain:   1%, Snow:   0%, Wind: 13.0 kph, Gust: 31.5 kph, Vis: 16.1 km
+Weather forecast for Sunday 24th April:
+11h: :kite: Windy (:white_sun_small_cloud:) [:white_sun_small_cloud: as of 10h, :kite:(:white_sun_small_cloud:) as of 11h]
+12h, 13h: :kite: Windy (:white_sun_small_cloud:)
+14h: :white_sun_small_cloud: Partly Cloudy [:cloud: as of 10h]
+15h - 17h: :white_sun_small_cloud: Partly Cloudy
+18h, 19h: :kite: Windy (:white_sun_small_cloud:)
+20h: :white_sun_small_cloud: Partly Cloudy [:kite:(:white_sun_small_cloud:) as of 10h]
+21h, 22h: :kite: Windy (:white_sun_small_cloud:)
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
 Edinburgh
-11h Mostly sunny              Cloud:  25%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 24.1 kph, Gust: 37.0 kph, Vis: 16.1 km
-12h Mostly sunny              Cloud:  25%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 24.1 kph, Gust: 42.6 kph, Vis: 16.1 km
-13h Mostly sunny              Cloud:  17%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 22.2 kph, Gust: 48.2 kph, Vis: 16.1 km
-14h Mostly sunny              Cloud:  15%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 22.2 kph, Gust: 25.9 kph, Vis: 16.1 km
-15h Mostly sunny              Cloud:  14%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 22.2 kph, Gust: 24.1 kph, Vis: 16.1 km
-16h Mostly sunny              Cloud:  12%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 22.2 kph, Gust: 24.1 kph, Vis: 16.1 km
-17h Mostly sunny              Cloud:  18%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 20.4 kph, Gust: 27.8 kph, Vis: 16.1 km
-18h Mostly sunny              Cloud:  23%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 20.4 kph, Gust: 37.0 kph, Vis: 16.1 km
-19h Mostly sunny              Cloud:  25%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 18.5 kph, Gust: 44.4 kph, Vis: 16.1 km
-20h Mostly cloudy             Cloud:  76%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 16.7 kph, Gust: 18.5 kph, Vis: 16.1 km
-21h Mostly cloudy             Cloud:  76%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 14.8 kph, Gust: 16.7 kph, Vis: 16.1 km
-22h Mostly cloudy             Cloud:  76%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 14.8 kph, Vis: 16.1 km
-Weather forecast for Saturday 23rd April:
-11h: :sunny: Clear [:kite:(:sunny:) as of 11h]
-12h, 13h: :kite: Windy (:sunny:)
-14h - 17h: :sunny: Clear
-18h, 19h: :kite: Windy (:sunny:)
-20h - 22h: :cloud: Cloudy
+11h Intermittent clouds       Cloud:  70%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 18.5 kph, Gust: 31.5 kph, Vis: 16.1 km
+12h Intermittent clouds       Cloud:  65%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 18.5 kph, Gust: 37.0 kph, Vis: 16.1 km
+13h Intermittent clouds       Cloud:  58%, Precipitation:   1%, Rain:   1%, Snow:   0%, Wind: 18.5 kph, Gust: 40.7 kph, Vis: 16.1 km
+14h Partly sunny w/ showers   Cloud:  46%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 18.5 kph, Gust: 22.2 kph, Vis: 16.1 km
+15h Partly sunny              Cloud:  46%, Precipitation:  37%, Rain:  37%, Snow:   0%, Wind: 18.5 kph, Gust: 20.4 kph, Vis: 16.1 km
+16h Partly sunny              Cloud:  46%, Precipitation:  25%, Rain:  25%, Snow:   0%, Wind: 18.5 kph, Gust: 20.4 kph, Vis: 16.1 km
+17h Partly sunny              Cloud:  46%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 16.7 kph, Gust: 18.5 kph, Vis: 16.1 km
+18h Partly sunny              Cloud:  46%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 16.7 kph, Gust: 27.8 kph, Vis: 16.1 km
+19h Partly sunny              Cloud:  46%, Precipitation:   6%, Rain:   6%, Snow:   0%, Wind: 16.7 kph, Gust: 38.9 kph, Vis: 16.1 km
+20h Partly sunny              Cloud:  36%, Precipitation:   3%, Rain:   3%, Snow:   0%, Wind: 16.7 kph, Gust: 29.6 kph, Vis: 16.1 km
+21h Intermittent clouds       Cloud:  68%, Precipitation:   3%, Rain:   3%, Snow:   0%, Wind: 14.8 kph, Gust: 25.9 kph, Vis: 16.1 km
+22h Cloudy                    Cloud: 100%, Precipitation:   3%, Rain:   3%, Snow:   0%, Wind: 13.0 kph, Gust: 24.1 kph, Vis: 16.1 km
+Weather forecast for Sunday 24th April:
+11h: :kite: Windy (:white_sun_small_cloud:) [:white_sun_small_cloud: as of 10h, :kite:(:white_sun_small_cloud:) as of 11h]
+12h, 13h: :kite: Windy (:white_sun_small_cloud:)
+14h - 18h: :white_sun_small_cloud: Partly Cloudy
+19h: :kite: Windy (:white_sun_small_cloud:)
+20h, 21h: :white_sun_small_cloud: Partly Cloudy
+22h: :cloud: Cloudy
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
