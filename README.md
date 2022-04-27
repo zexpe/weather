@@ -1,11 +1,11 @@
-*Updated: Wednesday 27th April 17:30*
+*Updated: Wednesday 27th April 18:30*
 
 **Glasgow**
 
-* 18h, 19h: :cloud: Cloudy
-* 20h - 5h: :sunny: Clear
+* 19h: :cloud: Cloudy
+* 20h - 6h: :sunny: Clear
 
 **Edinburgh**
 
-* 18h, 19h: :cloud: Cloudy
-* 20h - 5h: :sunny: Clear
+* 19h: :cloud: Cloudy
+* 20h - 6h: :sunny: Clear
