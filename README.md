@@ -1,13 +1,13 @@
-*Updated: Thursday 28th April 04:30*
+*Updated: Thursday 28th April 05:30*
 
 **Glasgow**
 
-* 5h - 7h: :sunny: Clear
+* 6h, 7h: :sunny: Clear
 * 8h - 13h: :cloud: Cloudy
-* 14h - 16h: :partly_sunny: Partly Cloudy
+* 14h - 17h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 5h - 7h: :sunny: Clear
+* 6h, 7h: :sunny: Clear
 * 8h - 13h: :cloud: Cloudy
-* 14h - 16h: :partly_sunny: Partly Cloudy
+* 14h - 17h: :partly_sunny: Partly Cloudy
