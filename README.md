@@ -1,9 +1,9 @@
-*Updated: Friday 29th April 07:30*
+*Updated: Friday 29th April 08:30*
 
 **Glasgow**
 
-* 8h - 19h: :partly_sunny: Partly Cloudy
+* 9h - 20h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 8h - 19h: :partly_sunny: Partly Cloudy
+* 9h - 20h: :partly_sunny: Partly Cloudy
