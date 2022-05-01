@@ -1,10 +1,11 @@
-*Updated: Sunday 1st May 22:30*
+*Updated: Monday 2nd May 23:30*
 
 **Glasgow**
 
-* 23h - 4h: :cloud: Cloudy
+* 0h - 4h: :cloud: Cloudy
 * 5h - 10h: :foggy: Foggy
+* 11h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 23h - 10h: :cloud: Cloudy
+* 0h - 11h: :cloud: Cloudy
