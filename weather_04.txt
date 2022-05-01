@@ -1,44 +1,41 @@
 Glasgow
- 5h Intermittent clouds       Cloud:  71%, Precipitation:   5%, Rain:   5%, Snow:   0%, Wind:  3.7 kph, Gust:  7.4 kph, Vis: 16.1 km
- 6h Intermittent clouds       Cloud:  72%, Precipitation:   5%, Rain:   5%, Snow:   0%, Wind:  3.7 kph, Gust:  9.3 kph, Vis: 16.1 km
- 7h Mostly cloudy             Cloud:  80%, Precipitation:   8%, Rain:   8%, Snow:   0%, Wind:  3.7 kph, Gust: 11.1 kph, Vis: 16.1 km
- 8h Cloudy                    Cloud:  95%, Precipitation:  44%, Rain:  44%, Snow:   0%, Wind:  7.4 kph, Gust: 16.7 kph, Vis: 16.1 km
- 9h Cloudy                    Cloud:  95%, Precipitation:  48%, Rain:  48%, Snow:   0%, Wind:  9.3 kph, Gust: 22.2 kph, Vis: 16.1 km
-10h Showers                   Cloud: 100%, Precipitation:  52%, Rain:  52%, Snow:   0%, Wind: 11.1 kph, Gust: 27.8 kph, Vis: 11.3 km
-11h Cloudy                    Cloud: 100%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 13.0 kph, Gust: 29.6 kph, Vis: 16.1 km
-12h Cloudy                    Cloud: 100%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 14.8 kph, Gust: 29.6 kph, Vis: 16.1 km
-13h Showers                   Cloud: 100%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind: 14.8 kph, Gust: 29.6 kph, Vis:  9.7 km
-14h Rain                      Cloud: 100%, Precipitation:  59%, Rain:  59%, Snow:   0%, Wind: 14.8 kph, Gust: 37.0 kph, Vis:  8.0 km
-15h Rain                      Cloud: 100%, Precipitation:  59%, Rain:  59%, Snow:   0%, Wind: 16.7 kph, Gust: 38.9 kph, Vis:  8.0 km
-16h Cloudy                    Cloud: 100%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 16.7 kph, Gust: 38.9 kph, Vis: 16.1 km
-Weather forecast for Saturday 30th April:
-5h, 6h: :white_sun_small_cloud: Partly Cloudy
-7h - 9h: :cloud: Cloudy
-10h: :umbrella: Rainy
-11h, 12h: :cloud: Cloudy
-13h - 15h: :umbrella: Rainy
-16h: :kite: Windy (:cloud:)
+ 5h Cloudy                    Cloud:  94%, Precipitation:  44%, Rain:  44%, Snow:   0%, Wind:  9.3 kph, Gust: 16.7 kph, Vis: 16.1 km
+ 6h Cloudy                    Cloud:  94%, Precipitation:  48%, Rain:  48%, Snow:   0%, Wind:  7.4 kph, Gust: 16.7 kph, Vis: 16.1 km
+ 7h Showers                   Cloud:  94%, Precipitation:  52%, Rain:  52%, Snow:   0%, Wind:  7.4 kph, Gust: 16.7 kph, Vis:  9.7 km
+ 8h Cloudy                    Cloud:  90%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind:  7.4 kph, Gust: 20.4 kph, Vis: 16.1 km
+ 9h Cloudy                    Cloud:  90%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind:  9.3 kph, Gust: 20.4 kph, Vis: 16.1 km
+10h Cloudy                    Cloud:  90%, Precipitation:  39%, Rain:  39%, Snow:   0%, Wind:  9.3 kph, Gust: 22.2 kph, Vis: 16.1 km
+11h Cloudy                    Cloud:  90%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 11.1 kph, Gust: 20.4 kph, Vis: 16.1 km
+12h Showers                   Cloud:  90%, Precipitation:  59%, Rain:  59%, Snow:   0%, Wind: 11.1 kph, Gust: 22.2 kph, Vis: 11.3 km
+13h Showers                   Cloud:  90%, Precipitation:  59%, Rain:  59%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis:  9.7 km
+14h Cloudy                    Cloud:  90%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 11.1 kph, Gust: 29.6 kph, Vis: 16.1 km
+15h Showers                   Cloud:  86%, Precipitation:  60%, Rain:  60%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis:  9.7 km
+16h Showers                   Cloud:  79%, Precipitation:  60%, Rain:  60%, Snow:   0%, Wind:  9.3 kph, Gust: 25.9 kph, Vis:  9.7 km
+Weather forecast for Sunday 1st May:
+5h, 6h: :cloud: Cloudy
+7h: :umbrella: Rainy
+8h - 11h: :cloud: Cloudy
+12h, 13h: :umbrella: Rainy
+14h: :cloud: Cloudy
+15h, 16h: :umbrella: Rainy
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
 Edinburgh
- 5h Intermittent clouds       Cloud:  65%, Precipitation:   3%, Rain:   3%, Snow:   0%, Wind:  5.6 kph, Gust: 11.1 kph, Vis: 16.1 km
- 6h Intermittent clouds       Cloud:  72%, Precipitation:   3%, Rain:   3%, Snow:   0%, Wind:  5.6 kph, Gust: 11.1 kph, Vis: 16.1 km
- 7h Cloudy                    Cloud:  90%, Precipitation:   6%, Rain:   6%, Snow:   0%, Wind:  5.6 kph, Gust: 13.0 kph, Vis: 16.1 km
- 8h Cloudy                    Cloud:  98%, Precipitation:  22%, Rain:  22%, Snow:   0%, Wind:  7.4 kph, Gust: 14.8 kph, Vis: 16.1 km
- 9h Cloudy                    Cloud:  98%, Precipitation:  22%, Rain:  22%, Snow:   0%, Wind:  7.4 kph, Gust: 20.4 kph, Vis: 16.1 km
-10h Cloudy                    Cloud:  99%, Precipitation:  27%, Rain:  27%, Snow:   0%, Wind:  9.3 kph, Gust: 24.1 kph, Vis: 16.1 km
-11h Showers                   Cloud:  99%, Precipitation:  58%, Rain:  58%, Snow:   0%, Wind: 13.0 kph, Gust: 22.2 kph, Vis:  9.7 km
-12h Cloudy                    Cloud:  99%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 14.8 kph, Gust: 20.4 kph, Vis: 16.1 km
-13h Showers                   Cloud: 100%, Precipitation:  58%, Rain:  58%, Snow:   0%, Wind: 16.7 kph, Gust: 25.9 kph, Vis:  9.7 km
-14h Rain                      Cloud: 100%, Precipitation:  52%, Rain:  52%, Snow:   0%, Wind: 14.8 kph, Gust: 29.6 kph, Vis:  8.0 km
-15h Cloudy                    Cloud: 100%, Precipitation:  48%, Rain:  48%, Snow:   0%, Wind: 13.0 kph, Gust: 35.2 kph, Vis: 16.1 km
-16h Cloudy                    Cloud: 100%, Precipitation:  46%, Rain:  46%, Snow:   0%, Wind: 13.0 kph, Gust: 31.5 kph, Vis: 16.1 km
-Weather forecast for Saturday 30th April:
-5h, 6h: :white_sun_small_cloud: Partly Cloudy
-7h - 10h: :cloud: Cloudy
-11h: :umbrella: Rainy
-12h: :cloud: Cloudy
-13h, 14h: :umbrella: Rainy
-15h, 16h: :kite: Windy (:cloud:)
+ 5h Cloudy                    Cloud:  94%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind:  3.7 kph, Gust:  7.4 kph, Vis: 16.1 km
+ 6h Cloudy                    Cloud:  93%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind:  5.6 kph, Gust:  9.3 kph, Vis: 16.1 km
+ 7h Mostly cloudy             Cloud:  89%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind:  5.6 kph, Gust: 13.0 kph, Vis: 16.1 km
+ 8h Cloudy                    Cloud:  91%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind:  7.4 kph, Gust: 14.8 kph, Vis: 16.1 km
+ 9h Cloudy                    Cloud:  94%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind:  7.4 kph, Gust: 14.8 kph, Vis: 16.1 km
+10h Cloudy                    Cloud:  96%, Precipitation:  37%, Rain:  37%, Snow:   0%, Wind:  9.3 kph, Gust: 13.0 kph, Vis: 16.1 km
+11h Mostly cloudy             Cloud:  88%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind:  9.3 kph, Gust: 14.8 kph, Vis: 16.1 km
+12h Showers                   Cloud:  80%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind:  9.3 kph, Gust: 14.8 kph, Vis:  9.7 km
+13h Intermittent clouds       Cloud:  71%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 11.1 kph, Gust: 16.7 kph, Vis: 16.1 km
+14h Intermittent clouds       Cloud:  65%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind:  9.3 kph, Gust: 18.5 kph, Vis: 16.1 km
+15h Intermittent clouds       Cloud:  58%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind:  9.3 kph, Gust: 24.1 kph, Vis: 16.1 km
+16h Intermittent clouds       Cloud:  51%, Precipitation:  37%, Rain:  37%, Snow:   0%, Wind:  9.3 kph, Gust: 24.1 kph, Vis: 16.1 km
+Weather forecast for Sunday 1st May:
+5h - 11h: :cloud: Cloudy
+12h: :umbrella: Rainy
+13h - 16h: :white_sun_small_cloud: Partly Cloudy
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
