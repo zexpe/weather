@@ -1,17 +1,17 @@
-*Updated: Monday 2nd May 04:30*
+*Updated: Monday 2nd May 05:30*
 
 **Glasgow**
 
-* 5h - 10h: :foggy: Foggy
+* 6h - 10h: :foggy: Foggy
 * 11h: :partly_sunny: Partly Cloudy
 * 12h: :cloud: Cloudy
 * 13h: :umbrella: Rainy
 * 14h: :cloud: Cloudy
 * 15h: :umbrella: Rainy
-* 16h: :cloud: Cloudy
+* 16h, 17h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 5h - 12h: :cloud: Cloudy
+* 6h - 12h: :cloud: Cloudy
 * 13h: :umbrella: Rainy
-* 14h - 16h: :cloud: Cloudy
+* 14h - 17h: :cloud: Cloudy
