@@ -1,13 +1,15 @@
-*Updated: Tuesday 3rd May 23:30*
+*Updated: Tuesday 3rd May 00:30*
 
 **Glasgow**
 
-* 0h - 4h: :cloud: Cloudy
+* 1h - 4h: :cloud: Cloudy
 * 5h: :umbrella: Rainy
 * 6h - 11h: :cloud: Cloudy
+* 12h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 0h - 5h: :cloud: Cloudy
+* 1h - 5h: :cloud: Cloudy
 * 6h: :umbrella: Rainy
 * 7h - 11h: :cloud: Cloudy
+* 12h: :umbrella: Rainy
