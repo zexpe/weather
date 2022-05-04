@@ -1,15 +1,14 @@
-*Updated: Wednesday 4th May 16:30*
+*Updated: Wednesday 4th May 17:30*
 
 **Glasgow**
 
-* 17h: :cloud: Cloudy [:cyclone:(:cloud:) as of 9h]
-* 18h - 21h: :cyclone: Windy (:cloud:)
-* 22h - 4h: :cloud: Cloudy
+* 18h - 20h: :cyclone: Windy (:cloud:)
+* 21h: :cyclone: Windy (:cloud:) [:cloud: as of 18h]
+* 22h - 5h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 17h: :sunny: Clear [:cyclone:(:partly_sunny:) as of 9h, :partly_sunny: as of 14h, :cyclone:(:partly_sunny:) as of 17h]
-* 18h: :cyclone: Windy (:sunny:) [:cyclone:(:partly_sunny:) as of 9h, :partly_sunny: as of 15h]
-* 19h: :cyclone: Windy (:sunny:) [:sunny: as of 16h]
+* 18h: :cyclone: Windy (:sunny:) [:cyclone:(:partly_sunny:) as of 9h, :partly_sunny: as of 15h, :cyclone:(:partly_sunny:) as of 18h]
+* 19h: :cyclone: Windy (:sunny:) [:sunny: as of 16h, :cyclone:(:sunny:) as of 18h]
 * 20h - 23h: :partly_sunny: Partly Cloudy
-* 0h - 4h: :cloud: Cloudy
+* 0h - 5h: :cloud: Cloudy
