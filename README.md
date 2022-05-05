@@ -1,8 +1,8 @@
-*Updated: Thursday 5th May 06:30*
+*Updated: Thursday 5th May 07:30*
 
 **Glasgow**
 
-* 7h - 10h: :cloud: Cloudy
+* 8h - 10h: :cloud: Cloudy
 * 11h: :cyclone: Windy (:cloud:) [:cloud: as of 7h]
 * 12h: :umbrella: Rainy
 * 13h: :cyclone: Windy (:cloud:)
@@ -10,10 +10,10 @@
 * 15h, 16h: :cloud: Cloudy
 * 17h: :cyclone: Windy (:cloud:)
 * 18h: :umbrella: Rainy
+* 19h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 7h: :cloud: Cloudy
 * 8h: :umbrella: Rainy
 * 9h - 11h: :cloud: Cloudy
 * 12h: :umbrella: Rainy
@@ -21,3 +21,4 @@
 * 16h: :umbrella: Rainy
 * 17h: :cyclone: Windy (:cloud:)
 * 18h: :umbrella: Rainy
+* 19h: :cyclone: Windy (:cloud:)
