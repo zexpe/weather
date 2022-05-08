@@ -1,9 +1,10 @@
-*Updated: Sunday 8th May 00:30*
+*Updated: Sunday 8th May 01:30*
 
 **Glasgow**
 
-* 1h - 12h: :cloud: Cloudy
+* 2h - 12h: :cloud: Cloudy
+* 13h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 1h - 12h: :cloud: Cloudy
+* 2h - 13h: :cloud: Cloudy
