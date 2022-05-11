@@ -1,12 +1,10 @@
-*Updated: Wednesday 11th May 18:30*
+*Updated: Wednesday 11th May 19:30*
 
 **Glasgow**
 
-* 19h: :cyclone: Windy (:sunny:)
 * 20h: :cyclone: Windy (:cloud:) [:cloud: as of 17h]
-* 21h - 6h: :cloud: Cloudy
+* 21h - 7h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 19h: :cyclone: Windy (:partly_sunny:)
-* 20h - 6h: :cloud: Cloudy
+* 20h - 7h: :cloud: Cloudy
