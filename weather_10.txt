@@ -1,48 +1,46 @@
 Glasgow
-11h Showers                   Cloud:  94%, Precipitation:  60%, Rain:  60%, Snow:   0%, Wind: 24.1 kph, Gust: 44.4 kph, Vis:  9.7 km
-12h Cloudy                    Cloud:  94%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 24.1 kph, Gust: 46.3 kph, Vis: 16.1 km
-13h Showers                   Cloud:  94%, Precipitation:  60%, Rain:  60%, Snow:   0%, Wind: 24.1 kph, Gust: 48.2 kph, Vis: 11.3 km
-14h Cloudy                    Cloud:  94%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 22.2 kph, Gust: 29.6 kph, Vis: 16.1 km
-15h Cloudy                    Cloud:  94%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 22.2 kph, Gust: 27.8 kph, Vis: 16.1 km
-16h Cloudy                    Cloud:  94%, Precipitation:  37%, Rain:  37%, Snow:   0%, Wind: 22.2 kph, Gust: 29.6 kph, Vis: 16.1 km
-17h Cloudy                    Cloud:  94%, Precipitation:  48%, Rain:  48%, Snow:   0%, Wind: 20.4 kph, Gust: 37.0 kph, Vis: 16.1 km
-18h Showers                   Cloud:  94%, Precipitation:  52%, Rain:  52%, Snow:   0%, Wind: 20.4 kph, Gust: 46.3 kph, Vis:  9.7 km
-19h Cloudy                    Cloud:  94%, Precipitation:  48%, Rain:  48%, Snow:   0%, Wind: 20.4 kph, Gust: 50.0 kph, Vis: 16.1 km
-20h Cloudy                    Cloud:  94%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 22.2 kph, Gust: 53.7 kph, Vis: 16.1 km
-21h Cloudy                    Cloud:  94%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 24.1 kph, Gust: 55.6 kph, Vis: 16.1 km
-22h Cloudy                    Cloud:  94%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 25.9 kph, Gust: 55.6 kph, Vis: 16.1 km
-Weather forecast for Thursday 12th May:
-11h: :umbrella: Rainy
-12h: :kite: Windy (:cloud:)
-13h: :umbrella: Rainy
-14h: :cloud: Cloudy
-15h: :umbrella: Rainy [:cloud: as of 9h]
-16h: :kite: Windy (:cloud:) [:cloud: as of 9h]
-17h: :umbrella: Rainy [:kite:(:cloud:) as of 9h]
-18h: :kite: Windy (:cloud:) [:umbrella: as of 9h]
-19h - 22h: :kite: Windy (:cloud:)
+11h Showers                   Cloud:  94%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind: 29.6 kph, Gust: 42.6 kph, Vis:  9.7 km
+12h Cloudy                    Cloud:  94%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 29.6 kph, Gust: 57.4 kph, Vis: 16.1 km
+13h Cloudy                    Cloud:  94%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 29.6 kph, Gust: 59.3 kph, Vis: 16.1 km
+14h Showers                   Cloud:  94%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind: 27.8 kph, Gust: 31.5 kph, Vis:  9.7 km
+15h Cloudy                    Cloud:  94%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 25.9 kph, Gust: 31.5 kph, Vis: 16.1 km
+16h Cloudy                    Cloud:  94%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 24.1 kph, Gust: 37.0 kph, Vis: 16.1 km
+17h Cloudy                    Cloud:  94%, Precipitation:  33%, Rain:  33%, Snow:   0%, Wind: 22.2 kph, Gust: 44.4 kph, Vis: 16.1 km
+18h Cloudy                    Cloud:  94%, Precipitation:  33%, Rain:  33%, Snow:   0%, Wind: 20.4 kph, Gust: 51.9 kph, Vis: 16.1 km
+19h Cloudy                    Cloud:  94%, Precipitation:  22%, Rain:  22%, Snow:   0%, Wind: 20.4 kph, Gust: 50.0 kph, Vis: 16.1 km
+20h Partly sunny              Cloud:  45%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 18.5 kph, Gust: 42.6 kph, Vis: 16.1 km
+21h Partly sunny              Cloud:  45%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 16.7 kph, Gust: 42.6 kph, Vis: 16.1 km
+22h Partly cloudy             Cloud:  45%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 14.8 kph, Gust: 38.9 kph, Vis: 16.1 km
+Weather forecast for Friday 13th May:
+11h: :kite: Windy (:cloud:) [:umbrella: as of 9h]
+12h: :umbrella: Rainy [:kite:(:cloud:) as of 9h]
+13h: :umbrella: Rainy [:kite:(:cloud:) as of 5h]
+14h: :umbrella: Rainy
+15h: :kite: Windy (:cloud:) [:umbrella: as of 5h, :kite:(:cloud:) as of 9h]
+16h - 19h: :kite: Windy (:cloud:)
+20h - 22h: :kite: Windy (:white_sun_small_cloud:)
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
 Edinburgh
-11h Cloudy                    Cloud:  94%, Precipitation:   5%, Rain:   5%, Snow:   0%, Wind: 20.4 kph, Gust: 31.5 kph, Vis: 16.1 km
-12h Cloudy                    Cloud:  94%, Precipitation:   5%, Rain:   5%, Snow:   0%, Wind: 20.4 kph, Gust: 37.0 kph, Vis: 16.1 km
-13h Cloudy                    Cloud:  94%, Precipitation:   8%, Rain:   8%, Snow:   0%, Wind: 20.4 kph, Gust: 44.4 kph, Vis: 16.1 km
-14h Cloudy                    Cloud:  94%, Precipitation:  37%, Rain:  37%, Snow:   0%, Wind: 22.2 kph, Gust: 24.1 kph, Vis: 16.1 km
-15h Cloudy                    Cloud:  94%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 22.2 kph, Gust: 24.1 kph, Vis: 16.1 km
-16h Showers                   Cloud:  94%, Precipitation:  44%, Rain:  44%, Snow:   0%, Wind: 22.2 kph, Gust: 24.1 kph, Vis: 16.1 km
-17h Showers                   Cloud:  94%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 22.2 kph, Gust: 33.3 kph, Vis: 16.1 km
-18h Cloudy                    Cloud:  94%, Precipitation:  37%, Rain:  37%, Snow:   0%, Wind: 20.4 kph, Gust: 42.6 kph, Vis: 16.1 km
-19h Cloudy                    Cloud:  94%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 20.4 kph, Gust: 51.9 kph, Vis: 16.1 km
-20h Showers                   Cloud:  94%, Precipitation:  56%, Rain:  56%, Snow:   0%, Wind: 20.4 kph, Gust: 48.2 kph, Vis:  9.7 km
-21h Showers                   Cloud:  94%, Precipitation:  56%, Rain:  56%, Snow:   0%, Wind: 20.4 kph, Gust: 48.2 kph, Vis:  9.7 km
-22h Cloudy                    Cloud:  94%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 18.5 kph, Gust: 44.4 kph, Vis: 16.1 km
-Weather forecast for Thursday 12th May:
+11h Cloudy                    Cloud:  94%, Precipitation:  28%, Rain:  28%, Snow:   0%, Wind: 31.5 kph, Gust: 40.7 kph, Vis: 16.1 km
+12h Cloudy                    Cloud:  94%, Precipitation:  28%, Rain:  28%, Snow:   0%, Wind: 31.5 kph, Gust: 51.9 kph, Vis: 16.1 km
+13h Cloudy                    Cloud:  94%, Precipitation:  33%, Rain:  33%, Snow:   0%, Wind: 31.5 kph, Gust: 64.8 kph, Vis: 16.1 km
+14h Cloudy                    Cloud:  94%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 31.5 kph, Gust: 35.2 kph, Vis: 16.1 km
+15h Showers                   Cloud:  94%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind: 27.8 kph, Gust: 31.5 kph, Vis:  9.7 km
+16h Cloudy                    Cloud:  94%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 25.9 kph, Gust: 35.2 kph, Vis: 16.1 km
+17h Cloudy                    Cloud:  94%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 24.1 kph, Gust: 44.4 kph, Vis: 16.1 km
+18h Cloudy                    Cloud:  94%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 22.2 kph, Gust: 55.6 kph, Vis: 16.1 km
+19h Cloudy                    Cloud:  94%, Precipitation:  22%, Rain:  22%, Snow:   0%, Wind: 20.4 kph, Gust: 51.9 kph, Vis: 16.1 km
+20h Partly sunny              Cloud:  45%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 20.4 kph, Gust: 33.3 kph, Vis: 16.1 km
+21h Partly sunny              Cloud:  45%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 18.5 kph, Gust: 35.2 kph, Vis: 16.1 km
+22h Partly cloudy             Cloud:  45%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 16.7 kph, Gust: 38.9 kph, Vis: 16.1 km
+Weather forecast for Friday 13th May:
 11h: :kite: Windy (:cloud:) [:cloud: as of 9h, :kite:(:cloud:) as of 11h]
-12h, 13h: :kite: Windy (:cloud:)
-14h, 15h: :cloud: Cloudy
-16h, 17h: :umbrella: Rainy
-18h, 19h: :kite: Windy (:cloud:)
-20h, 21h: :umbrella: Rainy
-22h: :kite: Windy (:cloud:)
+12h: :kite: Windy (:cloud:)
+13h: :umbrella: Rainy [:kite:(:cloud:) as of 5h]
+14h: :kite: Windy (:cloud:)
+15h: :umbrella: Rainy
+16h - 19h: :kite: Windy (:cloud:)
+20h - 22h: :kite: Windy (:white_sun_small_cloud:)
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
