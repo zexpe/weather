@@ -1,13 +1,13 @@
-*Updated: Sunday 22nd May 19:30*
+*Updated: Sunday 22nd May 20:30*
 
 **Glasgow**
 
-* 20h, 21h: :umbrella: Rainy
+* 21h: :umbrella: Rainy
 * 22h - 3h: :cloud: Cloudy
 * 4h: :umbrella: Rainy
 * 5h - 7h: :cloud: Cloudy
+* 8h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 20h: :cloud: Cloudy [:cyclone:(:cloud:) as of 18h]
-* 21h - 7h: :cloud: Cloudy
+* 21h - 8h: :cloud: Cloudy
