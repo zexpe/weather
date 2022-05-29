@@ -1,13 +1,13 @@
-*Updated: Sunday 29th May 15:30*
+*Updated: Sunday 29th May 16:30*
 
 **Glasgow**
 
-* 16h - 18h: :cloud: Cloudy
+* 17h, 18h: :cloud: Cloudy
 * 19h: :cyclone: Windy (:cloud:) [:cloud: as of 16h]
 * 20h: :cloud: Cloudy
 * 21h - 2h: :partly_sunny: Partly Cloudy
-* 3h: :cloud: Cloudy
+* 3h, 4h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 16h - 3h: :cloud: Cloudy
+* 17h - 4h: :cloud: Cloudy
