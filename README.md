@@ -1,13 +1,14 @@
-*Updated: Tuesday 31st May 19:30*
+*Updated: Tuesday 31st May 20:30*
 
 **Glasgow**
 
-* 20h - 23h: :cloud: Cloudy
+* 21h - 23h: :cloud: Cloudy
 * 0h: :umbrella: Rainy
 * 1h - 7h: :cloud: Cloudy
+* 8h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 20h - 0h: :cloud: Cloudy
+* 21h - 0h: :cloud: Cloudy
 * 1h: :umbrella: Rainy
-* 2h - 7h: :cloud: Cloudy
+* 2h - 8h: :cloud: Cloudy
