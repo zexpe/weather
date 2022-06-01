@@ -1,11 +1,13 @@
-*Updated: Wednesday 1st June 22:30*
+*Updated: Thursday 2nd June 23:30*
 
 **Glasgow**
 
-* 23h - 7h: :sunny: Clear
+* 0h - 7h: :sunny: Clear
 * 8h - 10h: :cloud: Cloudy
+* 11h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 23h - 7h: :sunny: Clear
+* 0h - 7h: :sunny: Clear
 * 8h - 10h: :partly_sunny: Partly Cloudy
+* 11h: :cloud: Cloudy
