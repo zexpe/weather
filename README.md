@@ -1,9 +1,11 @@
-*Updated: Wednesday 1st June 19:30*
+*Updated: Wednesday 1st June 20:30*
 
 **Glasgow**
 
-* 20h - 7h: :sunny: Clear
+* 21h - 7h: :sunny: Clear
+* 8h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 20h - 7h: :sunny: Clear
+* 21h - 7h: :sunny: Clear
+* 8h: :partly_sunny: Partly Cloudy
