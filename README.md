@@ -1,14 +1,15 @@
-*Updated: Thursday 2nd June 22:30*
+*Updated: Friday 3rd June 23:30*
 
 **Glasgow**
 
-* 23h - 7h: :cloud: Cloudy
+* 0h - 7h: :cloud: Cloudy
 * 8h: :umbrella: Rainy
 * 9h: :cloud: Cloudy
 * 10h: :umbrella: Rainy
+* 11h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 23h - 3h: :cloud: Cloudy
+* 0h - 3h: :cloud: Cloudy
 * 4h: :cyclone: Windy (:cloud:)
-* 5h - 10h: :cloud: Cloudy
+* 5h - 11h: :cloud: Cloudy
