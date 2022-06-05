@@ -1,11 +1,9 @@
-*Updated: Sunday 5th June 18:30*
+*Updated: Sunday 5th June 19:30*
 
 **Glasgow**
 
-* 19h: :cyclone: Windy (:partly_sunny:) [:cyclone:(:sunny:) as of 9h]
-* 20h - 6h: :cloud: Cloudy
+* 20h - 7h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 19h: :cyclone: Windy (:partly_sunny:) [:cyclone:(:sunny:) as of 9h]
-* 20h - 6h: :cloud: Cloudy
+* 20h - 7h: :cloud: Cloudy
