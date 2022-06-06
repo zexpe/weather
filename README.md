@@ -1,11 +1,11 @@
-*Updated: Monday 6th June 09:30*
+*Updated: Monday 6th June 10:30*
 
 **Glasgow**
 
-* 10h - 21h: :cloud: Cloudy
+* 11h - 22h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 10h - 15h: :cloud: Cloudy
+* 11h - 15h: :cloud: Cloudy
 * 16h: :cyclone: Windy (:cloud:) [:cloud: as of 10h]
-* 17h - 21h: :cloud: Cloudy
+* 17h - 22h: :cloud: Cloudy
