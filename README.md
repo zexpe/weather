@@ -1,12 +1,12 @@
-*Updated: Tuesday 7th June 04:30*
+*Updated: Tuesday 7th June 05:30*
 
 **Glasgow**
 
-* 5h - 7h: :cloud: Cloudy
+* 6h, 7h: :cloud: Cloudy
 * 8h - 15h: :partly_sunny: Partly Cloudy
-* 16h: :sunny: Clear
+* 16h, 17h: :sunny: Clear
 
 **Edinburgh**
 
-* 5h - 7h: :cloud: Cloudy
-* 8h - 16h: :partly_sunny: Partly Cloudy
+* 6h, 7h: :cloud: Cloudy
+* 8h - 17h: :partly_sunny: Partly Cloudy
