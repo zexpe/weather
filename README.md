@@ -1,21 +1,20 @@
-*Updated: Thursday 9th June 05:30*
+*Updated: Thursday 9th June 06:30*
 
 **Glasgow**
 
-* 6h, 7h: :cloud: Cloudy
+* 7h: :cloud: Cloudy
 * 8h, 9h: :partly_sunny: Partly Cloudy
 * 10h: :cloud: Cloudy
 * 11h - 15h: :partly_sunny: Partly Cloudy
 * 16h: :cyclone: Windy (:partly_sunny:)
-* 17h: :partly_sunny: Partly Cloudy
+* 17h, 18h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 6h: :umbrella: Rainy [:cloud: as of 21h]
 * 7h: :cloud: Cloudy
 * 8h: :partly_sunny: Partly Cloudy
 * 9h: :cloud: Cloudy
-* 10h: :cyclone: Windy (:partly_sunny:)
+* 10h: :cyclone: Windy (:partly_sunny:) [:partly_sunny: as of 7h]
 * 11h - 15h: :partly_sunny: Partly Cloudy
 * 16h: :cyclone: Windy (:partly_sunny:)
-* 17h: :partly_sunny: Partly Cloudy
+* 17h, 18h: :partly_sunny: Partly Cloudy
