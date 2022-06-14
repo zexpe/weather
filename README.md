@@ -1,12 +1,12 @@
-*Updated: Tuesday 14th June 02:30*
+*Updated: Tuesday 14th June 03:30*
 
 **Glasgow**
 
-* 3h - 8h: :cloud: Cloudy
-* 9h - 14h: :cyclone: Windy (:cloud:)
+* 4h - 8h: :cloud: Cloudy
+* 9h - 15h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 3h - 9h: :cloud: Cloudy
+* 4h - 9h: :cloud: Cloudy
 * 10h - 12h: :cyclone: Windy (:cloud:)
-* 13h, 14h: :cloud: Cloudy
+* 13h - 15h: :cloud: Cloudy
