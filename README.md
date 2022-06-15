@@ -1,15 +1,16 @@
-*Updated: Wednesday 15th June 05:30*
+*Updated: Wednesday 15th June 06:30*
 
 **Glasgow**
 
-* 6h, 7h: :cloud: Cloudy
+* 7h: :cloud: Cloudy
 * 8h: :partly_sunny: Partly Cloudy
-* 9h - 13h: :cyclone: Windy (:partly_sunny:)
-* 14h - 17h: :partly_sunny: Partly Cloudy
+* 9h, 10h: :cyclone: Windy (:partly_sunny:) [:partly_sunny: as of 7h]
+* 11h - 13h: :cyclone: Windy (:partly_sunny:)
+* 14h - 18h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 6h, 7h: :cloud: Cloudy
+* 7h: :cloud: Cloudy
 * 8h, 9h: :partly_sunny: Partly Cloudy
-* 10h: :cyclone: Windy (:partly_sunny:)
-* 11h - 17h: :partly_sunny: Partly Cloudy
+* 10h: :cyclone: Windy (:partly_sunny:) [:partly_sunny: as of 7h]
+* 11h - 18h: :partly_sunny: Partly Cloudy
