@@ -1,10 +1,10 @@
-*Updated: Saturday 18th June 14:30*
+*Updated: Saturday 18th June 15:30*
 
 **Glasgow**
 
-* 15h: :partly_sunny: Partly Cloudy [:cyclone:(:partly_sunny:) as of 9h]
 * 16h - 2h: :cyclone: Windy (:partly_sunny:)
+* 3h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 15h - 2h: :cyclone: Windy (:partly_sunny:)
+* 16h - 3h: :cyclone: Windy (:partly_sunny:)
