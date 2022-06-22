@@ -1,13 +1,14 @@
-*Updated: Wednesday 22nd June 05:30*
+*Updated: Wednesday 22nd June 06:30*
 
 **Glasgow**
 
-* 6h - 8h: :cloud: Cloudy
+* 7h, 8h: :cloud: Cloudy
 * 9h - 13h: :cyclone: Windy (:cloud:)
-* 14h - 17h: :cloud: Cloudy
+* 14h - 18h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 6h, 7h: :cloud: Cloudy
+* 7h: :cloud: Cloudy
 * 8h - 13h: :cyclone: Windy (:cloud:)
 * 14h - 17h: :cloud: Cloudy
+* 18h: :partly_sunny: Partly Cloudy
