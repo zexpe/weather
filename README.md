@@ -1,9 +1,10 @@
-*Updated: Thursday 23rd June 19:30*
+*Updated: Thursday 23rd June 20:30*
 
 **Glasgow**
 
-* 20h - 7h: :cloud: Cloudy
+* 21h - 8h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 20h - 7h: :cloud: Cloudy
+* 21h - 7h: :cloud: Cloudy
+* 8h: :umbrella: Rainy
