@@ -1,8 +1,7 @@
-*Updated: Friday 24th June 15:30*
+*Updated: Friday 24th June 16:30*
 
 **Glasgow**
 
-* 16h: :umbrella: Rainy [:cloud: as of 9h]
 * 17h: :umbrella: Rainy
 * 18h: :umbrella: Rainy [:cyclone:(:cloud:) as of 11h, :cloud: as of 15h]
 * 19h: :cyclone: Windy (:cloud:) [:umbrella: as of 9h, :cloud: as of 11h]
@@ -12,10 +11,11 @@
 * 0h: :partly_sunny: Partly Cloudy
 * 1h, 2h: :cloud: Cloudy
 * 3h: :partly_sunny: Partly Cloudy
+* 4h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 16h, 17h: :cloud: Cloudy [:partly_sunny: as of 9h]
+* 17h: :cloud: Cloudy [:partly_sunny: as of 9h]
 * 18h: :cloud: Cloudy [:partly_sunny: as of 11h]
 * 19h: :umbrella: Rainy [:cyclone:(:cloud:) as of 9h]
 * 20h: :cyclone: Windy (:partly_sunny:)
@@ -25,3 +25,4 @@
 * 0h: :partly_sunny: Partly Cloudy
 * 1h: :cloud: Cloudy
 * 2h, 3h: :partly_sunny: Partly Cloudy
+* 4h: :cloud: Cloudy
