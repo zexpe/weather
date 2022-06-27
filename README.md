@@ -1,8 +1,8 @@
-*Updated: Monday 27th June 04:30*
+*Updated: Monday 27th June 05:30*
 
 **Glasgow**
 
-* 5h, 6h: :cloud: Cloudy
+* 6h: :cloud: Cloudy
 * 7h: :umbrella: Rainy
 * 8h, 9h: :cloud: Cloudy
 * 10h: :umbrella: Rainy
@@ -10,13 +10,14 @@
 * 13h: :umbrella: Rainy
 * 14h, 15h: :cloud: Cloudy
 * 16h: :partly_sunny: Partly Cloudy
+* 17h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 5h - 7h: :partly_sunny: Partly Cloudy
+* 6h, 7h: :partly_sunny: Partly Cloudy
 * 8h: :cloud: Cloudy
 * 9h: :umbrella: Rainy
 * 10h - 12h: :cloud: Cloudy
 * 13h, 14h: :umbrella: Rainy
 * 15h: :cloud: Cloudy
-* 16h: :partly_sunny: Partly Cloudy
+* 16h, 17h: :partly_sunny: Partly Cloudy
