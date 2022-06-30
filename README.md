@@ -1,13 +1,15 @@
-*Updated: Friday 1st July 23:30*
+*Updated: Friday 1st July 00:30*
 
 **Glasgow**
 
-* 0h - 8h: :cloud: Cloudy
+* 1h - 8h: :cloud: Cloudy
 * 9h: :umbrella: Rainy
 * 10h: :cyclone: Windy (:cloud:)
 * 11h: :cloud: Cloudy
+* 12h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 0h - 8h: :cloud: Cloudy
+* 1h - 8h: :cloud: Cloudy
 * 9h - 11h: :partly_sunny: Partly Cloudy
+* 12h: :cloud: Cloudy
