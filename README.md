@@ -1,11 +1,11 @@
-*Updated: Sunday 3rd July 20:30*
+*Updated: Sunday 3rd July 21:30*
 
 **Glasgow**
 
-* 21h - 7h: :cyclone: Windy (:cloud:)
-* 8h: :cyclone: Windy (:partly_sunny:)
+* 22h - 7h: :cyclone: Windy (:cloud:)
+* 8h, 9h: :cyclone: Windy (:partly_sunny:)
 
 **Edinburgh**
 
-* 21h - 7h: :cyclone: Windy (:cloud:)
-* 8h: :cyclone: Windy (:partly_sunny:)
+* 22h - 7h: :cyclone: Windy (:cloud:)
+* 8h, 9h: :cyclone: Windy (:partly_sunny:)
