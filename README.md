@@ -1,10 +1,9 @@
-*Updated: Sunday 3rd July 18:30*
+*Updated: Sunday 3rd July 19:30*
 
 **Glasgow**
 
-* 19h: :umbrella: Rainy
-* 20h - 6h: :cyclone: Windy (:cloud:)
+* 20h - 7h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 19h - 6h: :cyclone: Windy (:cloud:)
+* 20h - 7h: :cyclone: Windy (:cloud:)
