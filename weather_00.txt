@@ -1,38 +1,41 @@
 Glasgow
- 1h Cloudy                    Cloud:  90%, Precipitation:  16%, Rain:  16%, Snow:   0%, Wind: 20.4 kph, Gust: 40.7 kph, Vis: 16.1 km
- 2h Cloudy                    Cloud:  90%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 18.5 kph, Gust: 35.2 kph, Vis: 16.1 km
- 3h Cloudy                    Cloud:  90%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 16.7 kph, Gust: 35.2 kph, Vis: 16.1 km
- 4h Cloudy                    Cloud:  90%, Precipitation:   6%, Rain:   6%, Snow:   0%, Wind: 14.8 kph, Gust: 33.3 kph, Vis: 16.1 km
- 5h Cloudy                    Cloud:  90%, Precipitation:   5%, Rain:   5%, Snow:   0%, Wind: 14.8 kph, Gust: 38.9 kph, Vis: 16.1 km
- 6h Cloudy                    Cloud:  90%, Precipitation:   5%, Rain:   5%, Snow:   0%, Wind: 14.8 kph, Gust: 38.9 kph, Vis: 16.1 km
- 7h Cloudy                    Cloud:  90%, Precipitation:   8%, Rain:   8%, Snow:   0%, Wind: 16.7 kph, Gust: 40.7 kph, Vis: 16.1 km
- 8h Intermittent clouds       Cloud:  70%, Precipitation:  43%, Rain:  43%, Snow:   0%, Wind: 20.4 kph, Gust: 37.0 kph, Vis: 16.1 km
- 9h Intermittent clouds       Cloud:  70%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 22.2 kph, Gust: 40.7 kph, Vis: 16.1 km
-10h Mostly cloudy w/ showers  Cloud:  70%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind: 22.2 kph, Gust: 42.6 kph, Vis:  9.7 km
-11h Intermittent clouds       Cloud:  70%, Precipitation:  18%, Rain:  18%, Snow:   0%, Wind: 24.1 kph, Gust: 44.4 kph, Vis: 16.1 km
-12h Intermittent clouds       Cloud:  70%, Precipitation:  14%, Rain:  14%, Snow:   0%, Wind: 25.9 kph, Gust: 46.3 kph, Vis: 16.1 km
-Weather forecast for Monday 4th July:
-1h - 7h: :kite: Windy (:cloud:)
-8h, 9h: :kite: Windy (:white_sun_small_cloud:)
-10h: :cloud: Cloudy
-11h, 12h: :kite: Windy (:white_sun_small_cloud:)
+ 1h Mostly cloudy w/ showers  Cloud:  70%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind: 13.0 kph, Gust: 24.1 kph, Vis:  9.7 km
+ 2h Intermittent clouds       Cloud:  70%, Precipitation:  43%, Rain:  43%, Snow:   0%, Wind: 11.1 kph, Gust: 22.2 kph, Vis: 16.1 km
+ 3h Mostly cloudy w/ showers  Cloud:  70%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind:  9.3 kph, Gust: 22.2 kph, Vis:  9.7 km
+ 4h Intermittent clouds       Cloud:  70%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind:  9.3 kph, Gust: 22.2 kph, Vis: 16.1 km
+ 5h Intermittent clouds       Cloud:  70%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind:  9.3 kph, Gust: 24.1 kph, Vis: 16.1 km
+ 6h Intermittent clouds       Cloud:  70%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind:  9.3 kph, Gust: 24.1 kph, Vis: 16.1 km
+ 7h Intermittent clouds       Cloud:  70%, Precipitation:  29%, Rain:  29%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis: 16.1 km
+ 8h Mostly cloudy             Cloud:  76%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 11.1 kph, Gust: 27.8 kph, Vis: 16.1 km
+ 9h Mostly cloudy             Cloud:  84%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 13.0 kph, Gust: 31.5 kph, Vis: 16.1 km
+10h Cloudy                    Cloud:  94%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 14.8 kph, Gust: 35.2 kph, Vis: 16.1 km
+11h Cloudy                    Cloud:  94%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 16.7 kph, Gust: 40.7 kph, Vis: 16.1 km
+12h Cloudy                    Cloud:  94%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 18.5 kph, Gust: 35.2 kph, Vis: 16.1 km
+Weather forecast for Tuesday 5th July:
+1h: :cloud: Cloudy
+2h: :white_sun_small_cloud: Partly Cloudy
+3h: :cloud: Cloudy
+4h - 7h: :white_sun_small_cloud: Partly Cloudy
+8h: :cloud: Cloudy
+9h - 12h: :kite: Windy (:cloud:)
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
 Edinburgh
- 1h Cloudy                    Cloud:  90%, Precipitation:  16%, Rain:  16%, Snow:   0%, Wind: 22.2 kph, Gust: 37.0 kph, Vis: 16.1 km
- 2h Cloudy                    Cloud:  90%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 22.2 kph, Gust: 35.2 kph, Vis: 16.1 km
- 3h Cloudy                    Cloud:  90%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 20.4 kph, Gust: 35.2 kph, Vis: 16.1 km
- 4h Cloudy                    Cloud:  90%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 20.4 kph, Gust: 33.3 kph, Vis: 16.1 km
- 5h Cloudy                    Cloud:  90%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 20.4 kph, Gust: 37.0 kph, Vis: 16.1 km
- 6h Cloudy                    Cloud:  90%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 20.4 kph, Gust: 38.9 kph, Vis: 16.1 km
- 7h Cloudy                    Cloud:  90%, Precipitation:   5%, Rain:   5%, Snow:   0%, Wind: 20.4 kph, Gust: 40.7 kph, Vis: 16.1 km
- 8h Intermittent clouds       Cloud:  70%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 22.2 kph, Gust: 42.6 kph, Vis: 16.1 km
- 9h Intermittent clouds       Cloud:  70%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 24.1 kph, Gust: 44.4 kph, Vis: 16.1 km
-10h Intermittent clouds       Cloud:  70%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 25.9 kph, Gust: 46.3 kph, Vis: 16.1 km
-11h Intermittent clouds       Cloud:  70%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 25.9 kph, Gust: 48.2 kph, Vis: 16.1 km
-12h Intermittent clouds       Cloud:  70%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 25.9 kph, Gust: 48.2 kph, Vis: 16.1 km
-Weather forecast for Monday 4th July:
-1h - 7h: :kite: Windy (:cloud:)
-8h - 12h: :kite: Windy (:white_sun_small_cloud:)
+ 1h Intermittent clouds       Cloud:  70%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 25.9 kph, Vis: 16.1 km
+ 2h Intermittent clouds       Cloud:  70%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis: 16.1 km
+ 3h Intermittent clouds       Cloud:  70%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 22.2 kph, Vis: 16.1 km
+ 4h Intermittent clouds       Cloud:  70%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  9.3 kph, Gust: 22.2 kph, Vis: 16.1 km
+ 5h Intermittent clouds       Cloud:  70%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  9.3 kph, Gust: 24.1 kph, Vis: 16.1 km
+ 6h Intermittent clouds       Cloud:  70%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  9.3 kph, Gust: 25.9 kph, Vis: 16.1 km
+ 7h Intermittent clouds       Cloud:  70%, Precipitation:   1%, Rain:   1%, Snow:   0%, Wind:  9.3 kph, Gust: 24.1 kph, Vis: 16.1 km
+ 8h Intermittent clouds       Cloud:  65%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind:  9.3 kph, Gust: 25.9 kph, Vis: 16.1 km
+ 9h Mostly cloudy             Cloud:  80%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis: 16.1 km
+10h Cloudy                    Cloud:  96%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 11.1 kph, Gust: 27.8 kph, Vis: 16.1 km
+11h Cloudy                    Cloud:  97%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 11.1 kph, Gust: 29.6 kph, Vis: 16.1 km
+12h Cloudy                    Cloud:  98%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 13.0 kph, Gust: 31.5 kph, Vis: 16.1 km
+Weather forecast for Tuesday 5th July:
+1h - 8h: :white_sun_small_cloud: Partly Cloudy
+9h - 11h: :cloud: Cloudy
+12h: :kite: Windy (:cloud:)
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
