@@ -1,9 +1,9 @@
-*Updated: Monday 11th July 23:30*
+*Updated: Monday 11th July 00:30*
 
 **Glasgow**
 
-* 0h - 11h: :partly_sunny: Partly Cloudy
+* 1h - 12h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 0h - 11h: :partly_sunny: Partly Cloudy
+* 1h - 12h: :partly_sunny: Partly Cloudy
