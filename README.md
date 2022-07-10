@@ -1,11 +1,10 @@
-*Updated: Sunday 10th July 20:30*
+*Updated: Sunday 10th July 21:30*
 
 **Glasgow**
 
-* 21h - 8h: :partly_sunny: Partly Cloudy
+* 22h - 9h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 21h: :cyclone: Windy (:partly_sunny:) [:partly_sunny: as of 18h]
 * 22h: :cyclone: Windy (:partly_sunny:) [:partly_sunny: as of 19h]
-* 23h - 8h: :partly_sunny: Partly Cloudy
+* 23h - 9h: :partly_sunny: Partly Cloudy
