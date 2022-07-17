@@ -1,11 +1,11 @@
-*Updated: Sunday 17th July 17:30*
+*Updated: Sunday 17th July 18:30*
 
 **Glasgow**
 
-* 18h: :partly_sunny: Partly Cloudy [:cyclone:(:partly_sunny:) as of 17h]
-* 19h - 5h: :cloud: Cloudy
+* 19h - 6h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 18h: :partly_sunny: Partly Cloudy
-* 19h - 5h: :cloud: Cloudy
+* 19h: :cloud: Cloudy
+* 20h: :cloud: Cloudy [:cyclone:(:cloud:) as of 19h]
+* 21h - 6h: :cloud: Cloudy
