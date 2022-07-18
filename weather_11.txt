@@ -1,43 +1,39 @@
 Glasgow
-12h Intermittent clouds       Cloud:  70%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 14.8 kph, Gust: 25.9 kph, Vis: 16.1 km
-13h Mostly cloudy w/ showers  Cloud:  70%, Precipitation:  60%, Rain:  60%, Snow:   0%, Wind: 16.7 kph, Gust: 31.5 kph, Vis: 11.3 km
-14h Intermittent clouds       Cloud:  70%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 18.5 kph, Gust: 18.5 kph, Vis: 16.1 km
-15h Intermittent clouds       Cloud:  70%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 18.5 kph, Gust: 20.4 kph, Vis: 16.1 km
-16h Intermittent clouds       Cloud:  70%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 18.5 kph, Gust: 20.4 kph, Vis: 16.1 km
-17h Mostly cloudy w/ showers  Cloud:  70%, Precipitation:  60%, Rain:  60%, Snow:   0%, Wind: 16.7 kph, Gust: 22.2 kph, Vis:  9.7 km
-18h Intermittent clouds       Cloud:  70%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 14.8 kph, Gust: 27.8 kph, Vis: 16.1 km
-19h Mostly cloudy w/ showers  Cloud:  70%, Precipitation:  60%, Rain:  60%, Snow:   0%, Wind: 13.0 kph, Gust: 33.3 kph, Vis:  9.7 km
-20h Cloudy                    Cloud: 100%, Precipitation:  16%, Rain:  16%, Snow:   0%, Wind: 11.1 kph, Gust: 27.8 kph, Vis: 16.1 km
-21h Cloudy                    Cloud: 100%, Precipitation:  12%, Rain:  12%, Snow:   0%, Wind:  9.3 kph, Gust: 24.1 kph, Vis: 16.1 km
-22h Cloudy                    Cloud: 100%, Precipitation:  12%, Rain:  12%, Snow:   0%, Wind:  7.4 kph, Gust: 18.5 kph, Vis: 16.1 km
-23h Cloudy                    Cloud:  99%, Precipitation:  12%, Rain:  12%, Snow:   0%, Wind:  5.6 kph, Gust: 14.8 kph, Vis: 16.1 km
-Weather forecast for Sunday 17th July:
+12h Partly sunny              Cloud:  46%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 20.4 kph, Vis: 16.1 km
+13h Partly sunny              Cloud:  46%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 29.6 kph, Vis: 16.1 km
+14h Partly sunny              Cloud:  46%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 14.8 kph, Gust: 18.5 kph, Vis: 16.1 km
+15h Partly sunny              Cloud:  46%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 16.7 kph, Gust: 18.5 kph, Vis: 16.1 km
+16h Partly sunny              Cloud:  46%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 16.7 kph, Gust: 22.2 kph, Vis: 16.1 km
+17h Partly sunny              Cloud:  46%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 14.8 kph, Gust: 24.1 kph, Vis: 16.1 km
+18h Partly sunny              Cloud:  46%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 25.9 kph, Vis: 16.1 km
+19h Partly sunny              Cloud:  46%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 29.6 kph, Vis: 16.1 km
+20h Partly sunny              Cloud:  35%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis: 16.1 km
+21h Partly sunny              Cloud:  45%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  9.3 kph, Gust: 22.2 kph, Vis: 16.1 km
+22h Partly cloudy             Cloud:  45%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  7.4 kph, Gust: 16.7 kph, Vis: 16.1 km
+23h Partly cloudy             Cloud:  45%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  5.6 kph, Gust: 14.8 kph, Vis: 16.1 km
+Weather forecast for Monday 18th July:
 12h: :white_sun_small_cloud: Partly Cloudy
-13h: :cloud: Cloudy
-14h - 16h: :white_sun_small_cloud: Partly Cloudy
-17h: :cloud: Cloudy
-18h: :white_sun_small_cloud: Partly Cloudy
-19h - 23h: :cloud: Cloudy
+13h: :white_sun_small_cloud: Partly Cloudy [:kite:(:white_sun_small_cloud:) as of 9h, :white_sun_small_cloud: as of 11h]
+14h, 15h: :kite: Windy (:white_sun_small_cloud:) [:white_sun_small_cloud: as of 9h]
+16h - 23h: :white_sun_small_cloud: Partly Cloudy
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
 Edinburgh
-12h Mostly cloudy w/ showers  Cloud:  70%, Precipitation:  52%, Rain:  52%, Snow:   0%, Wind: 16.7 kph, Gust: 22.2 kph, Vis: 11.3 km
-13h Intermittent clouds       Cloud:  70%, Precipitation:  48%, Rain:  48%, Snow:   0%, Wind: 18.5 kph, Gust: 27.8 kph, Vis: 16.1 km
-14h Intermittent clouds       Cloud:  70%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 20.4 kph, Gust: 22.2 kph, Vis: 16.1 km
-15h Intermittent clouds       Cloud:  70%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 20.4 kph, Gust: 22.2 kph, Vis: 16.1 km
-16h Intermittent clouds       Cloud:  70%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 20.4 kph, Gust: 22.2 kph, Vis: 16.1 km
-17h Mostly cloudy w/ showers  Cloud:  70%, Precipitation:  60%, Rain:  60%, Snow:   0%, Wind: 18.5 kph, Gust: 20.4 kph, Vis:  9.7 km
-18h Intermittent clouds       Cloud:  70%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 16.7 kph, Gust: 24.1 kph, Vis: 16.1 km
-19h Mostly cloudy w/ showers  Cloud:  70%, Precipitation:  60%, Rain:  60%, Snow:   0%, Wind: 16.7 kph, Gust: 27.8 kph, Vis:  9.7 km
-20h Cloudy                    Cloud: 100%, Precipitation:   9%, Rain:   9%, Snow:   0%, Wind: 14.8 kph, Gust: 27.8 kph, Vis: 16.1 km
-21h Cloudy                    Cloud: 100%, Precipitation:   6%, Rain:   6%, Snow:   0%, Wind: 13.0 kph, Gust: 24.1 kph, Vis: 16.1 km
-22h Cloudy                    Cloud: 100%, Precipitation:   6%, Rain:   6%, Snow:   0%, Wind: 11.1 kph, Gust: 22.2 kph, Vis: 16.1 km
-23h Cloudy                    Cloud: 100%, Precipitation:   6%, Rain:   6%, Snow:   0%, Wind:  9.3 kph, Gust: 20.4 kph, Vis: 16.1 km
-Weather forecast for Sunday 17th July:
-12h: :cloud: Cloudy
-13h - 16h: :white_sun_small_cloud: Partly Cloudy
-17h: :cloud: Cloudy
-18h: :white_sun_small_cloud: Partly Cloudy
-19h - 23h: :cloud: Cloudy
+12h Partly sunny              Cloud:  46%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 14.8 kph, Vis: 16.1 km
+13h Partly sunny              Cloud:  46%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 14.8 kph, Gust: 22.2 kph, Vis: 16.1 km
+14h Partly sunny              Cloud:  46%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 16.7 kph, Gust: 18.5 kph, Vis: 16.1 km
+15h Partly sunny              Cloud:  46%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 18.5 kph, Gust: 20.4 kph, Vis: 16.1 km
+16h Partly sunny              Cloud:  46%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 20.4 kph, Gust: 22.2 kph, Vis: 16.1 km
+17h Partly sunny              Cloud:  46%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 20.4 kph, Gust: 22.2 kph, Vis: 16.1 km
+18h Partly sunny              Cloud:  46%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 18.5 kph, Gust: 20.4 kph, Vis: 16.1 km
+19h Partly sunny              Cloud:  46%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 16.7 kph, Gust: 22.2 kph, Vis: 16.1 km
+20h Mostly sunny              Cloud:  26%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 14.8 kph, Gust: 18.5 kph, Vis: 16.1 km
+21h Partly sunny              Cloud:  34%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 20.4 kph, Vis: 16.1 km
+22h Partly cloudy             Cloud:  45%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis: 16.1 km
+23h Partly cloudy             Cloud:  45%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  9.3 kph, Gust: 20.4 kph, Vis: 16.1 km
+Weather forecast for Monday 18th July:
+12h - 19h: :white_sun_small_cloud: Partly Cloudy
+20h: :sunny: Clear
+21h - 23h: :white_sun_small_cloud: Partly Cloudy
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
