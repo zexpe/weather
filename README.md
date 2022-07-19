@@ -1,10 +1,11 @@
-*Updated: Tuesday 19th July 05:30*
+*Updated: Tuesday 19th July 06:30*
 
 **Glasgow**
 
-* 6h, 7h: :cloud: Cloudy
+* 7h: :cloud: Cloudy
 * 8h - 17h: :partly_sunny: Partly Cloudy
+* 18h: :cyclone: Windy (:partly_sunny:)
 
 **Edinburgh**
 
-* 6h - 17h: :partly_sunny: Partly Cloudy
+* 7h - 18h: :partly_sunny: Partly Cloudy
