@@ -1,8 +1,7 @@
-*Updated: Sunday 24th July 23:30*
+*Updated: Sunday 24th July 00:30*
 
 **Glasgow**
 
-* 0h: :umbrella: Rainy
 * 1h: :cyclone: Windy (:cloud:)
 * 2h - 4h: :umbrella: Rainy
 * 5h: :cloud: Cloudy
@@ -11,10 +10,10 @@
 * 8h: :umbrella: Rainy
 * 9h, 10h: :cyclone: Windy (:cloud:)
 * 11h: :cloud: Cloudy
+* 12h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 0h: :umbrella: Rainy
 * 1h: :cloud: Cloudy [:cyclone:(:cloud:) as of 0h]
 * 2h: :cloud: Cloudy
 * 3h: :umbrella: Rainy
@@ -24,3 +23,4 @@
 * 9h: :cloud: Cloudy
 * 10h: :umbrella: Rainy
 * 11h: :cloud: Cloudy
+* 12h: :umbrella: Rainy
