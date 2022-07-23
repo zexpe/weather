@@ -1,12 +1,14 @@
-*Updated: Saturday 23rd July 01:30*
+*Updated: Saturday 23rd July 02:30*
 
 **Glasgow**
 
-* 2h - 7h: :partly_sunny: Partly Cloudy
+* 3h - 7h: :partly_sunny: Partly Cloudy
 * 8h - 11h: :cloud: Cloudy
 * 12h, 13h: :cyclone: Windy (:cloud:)
+* 14h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 2h - 7h: :partly_sunny: Partly Cloudy
+* 3h - 7h: :partly_sunny: Partly Cloudy
 * 8h - 13h: :cloud: Cloudy
+* 14h: :umbrella: Rainy
