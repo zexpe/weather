@@ -1,9 +1,9 @@
-*Updated: Wednesday 27th July 15:30*
+*Updated: Wednesday 27th July 16:30*
 
 **Glasgow**
 
-* 16h - 3h: :cloud: Cloudy
+* 17h - 4h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 16h - 3h: :cloud: Cloudy
+* 17h - 4h: :cloud: Cloudy
