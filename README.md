@@ -1,19 +1,19 @@
-*Updated: Thursday 28th July 04:30*
+*Updated: Thursday 28th July 05:30*
 
 **Glasgow**
 
-* 5h - 9h: :cloud: Cloudy
+* 6h - 9h: :cloud: Cloudy
 * 10h: :umbrella: Rainy
 * 11h: :cloud: Cloudy
 * 12h: :umbrella: Rainy
 * 13h, 14h: :cloud: Cloudy
 * 15h: :umbrella: Rainy
-* 16h: :cloud: Cloudy
+* 16h, 17h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 5h - 11h: :cloud: Cloudy
+* 6h - 11h: :cloud: Cloudy
 * 12h: :umbrella: Rainy
 * 13h, 14h: :cloud: Cloudy
 * 15h: :umbrella: Rainy
-* 16h: :cloud: Cloudy
+* 16h, 17h: :cloud: Cloudy
