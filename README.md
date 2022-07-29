@@ -1,13 +1,16 @@
-*Updated: Friday 29th July 03:30*
+*Updated: Friday 29th July 04:30*
 
 **Glasgow**
 
-* 4h - 12h: :partly_sunny: Partly Cloudy
-* 13h - 15h: :cloud: Cloudy
+* 5h - 7h: :partly_sunny: Partly Cloudy
+* 8h: :partly_sunny: Partly Cloudy [:cloud: as of 5h]
+* 9h - 11h: :partly_sunny: Partly Cloudy
+* 12h: :partly_sunny: Partly Cloudy [:cloud: as of 5h]
+* 13h - 16h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 4h, 5h: :partly_sunny: Partly Cloudy
+* 5h: :partly_sunny: Partly Cloudy
 * 6h: :cloud: Cloudy
 * 7h - 13h: :partly_sunny: Partly Cloudy
-* 14h, 15h: :cloud: Cloudy
+* 14h - 16h: :cloud: Cloudy
