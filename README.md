@@ -1,14 +1,15 @@
-*Updated: Saturday 30th July 20:30*
+*Updated: Saturday 30th July 21:30*
 
 **Glasgow**
 
-* 21h - 7h: :cloud: Cloudy
-* 8h: :partly_sunny: Partly Cloudy
+* 22h - 7h: :cloud: Cloudy
+* 8h, 9h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 21h, 22h: :partly_sunny: Partly Cloudy
+* 22h: :partly_sunny: Partly Cloudy
 * 23h - 2h: :cloud: Cloudy
 * 3h: :umbrella: Rainy
 * 4h - 7h: :cloud: Cloudy
 * 8h: :umbrella: Rainy
+* 9h: :partly_sunny: Partly Cloudy
