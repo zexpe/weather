@@ -1,46 +1,42 @@
 Glasgow
-12h Cloudy                    Cloud:  94%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 18.5 kph, Gust: 31.5 kph, Vis: 16.1 km
-13h Cloudy                    Cloud:  94%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 18.5 kph, Gust: 27.8 kph, Vis: 16.1 km
-14h Partly sunny w/ showers   Cloud:  45%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind: 18.5 kph, Gust: 22.2 kph, Vis: 11.3 km
-15h Partly sunny              Cloud:  45%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 18.5 kph, Gust: 22.2 kph, Vis: 16.1 km
-16h Partly sunny              Cloud:  45%, Precipitation:  44%, Rain:  44%, Snow:   0%, Wind: 18.5 kph, Gust: 24.1 kph, Vis: 16.1 km
-17h Partly sunny              Cloud:  45%, Precipitation:  44%, Rain:  44%, Snow:   0%, Wind: 16.7 kph, Gust: 27.8 kph, Vis: 16.1 km
-18h Partly sunny              Cloud:  45%, Precipitation:  48%, Rain:  48%, Snow:   0%, Wind: 14.8 kph, Gust: 31.5 kph, Vis: 16.1 km
-19h Partly sunny w/ showers   Cloud:  45%, Precipitation:  52%, Rain:  52%, Snow:   0%, Wind: 13.0 kph, Gust: 33.3 kph, Vis:  9.7 km
-20h Mostly cloudy             Cloud:  79%, Precipitation:  25%, Rain:  25%, Snow:   0%, Wind: 11.1 kph, Gust: 29.6 kph, Vis: 16.1 km
-21h Mostly cloudy             Cloud:  82%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind:  9.3 kph, Gust: 25.9 kph, Vis: 16.1 km
-22h Mostly cloudy             Cloud:  85%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind:  9.3 kph, Gust: 24.1 kph, Vis: 16.1 km
-23h Cloudy                    Cloud:  90%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind:  9.3 kph, Gust: 24.1 kph, Vis: 16.1 km
-Weather forecast for Saturday 30th July:
-12h: :kite: Windy (:cloud:) [:cloud: as of 10h, :kite:(:cloud:) as of 11h]
-13h: :kite: Windy (:cloud:) [:cloud: as of 10h]
-14h - 17h: :white_sun_small_cloud: Partly Cloudy
-18h: :white_sun_small_cloud: Partly Cloudy [:kite:(:white_sun_small_cloud:) as of 10h]
-19h: :white_sun_small_cloud: Partly Cloudy
-20h - 23h: :cloud: Cloudy
+12h Cloudy                    Cloud:  90%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  9.3 kph, Gust: 18.5 kph, Vis: 16.1 km
+13h Cloudy                    Cloud:  90%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 20.4 kph, Vis: 16.1 km
+14h Mostly sunny              Cloud:  25%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 24.1 kph, Vis: 16.1 km
+15h Mostly sunny              Cloud:  25%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis: 16.1 km
+16h Mostly sunny              Cloud:  25%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 27.8 kph, Vis: 16.1 km
+17h Mostly sunny              Cloud:  25%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 24.1 kph, Vis: 16.1 km
+18h Mostly sunny              Cloud:  25%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  7.4 kph, Gust: 18.5 kph, Vis: 16.1 km
+19h Mostly sunny              Cloud:  25%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  7.4 kph, Gust: 14.8 kph, Vis: 16.1 km
+20h Intermittent clouds       Cloud:  59%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  7.4 kph, Gust: 16.7 kph, Vis: 16.1 km
+21h Partly sunny              Cloud:  32%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  9.3 kph, Gust: 16.7 kph, Vis: 16.1 km
+22h Clear                     Cloud:   6%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  9.3 kph, Gust: 18.5 kph, Vis: 16.1 km
+23h Clear                     Cloud:   9%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  9.3 kph, Gust: 18.5 kph, Vis: 16.1 km
+Weather forecast for Sunday 31st July:
+12h, 13h: :white_sun_small_cloud: Partly Cloudy [:cloud: as of 10h]
+14h - 19h: :sunny: Clear
+20h, 21h: :white_sun_small_cloud: Partly Cloudy
+22h, 23h: :sunny: Clear
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
 Edinburgh
-12h Showers                   Cloud:  81%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind: 22.2 kph, Gust: 38.9 kph, Vis: 11.3 km
-13h Mostly cloudy             Cloud:  77%, Precipitation:  43%, Rain:  43%, Snow:   0%, Wind: 22.2 kph, Gust: 35.2 kph, Vis: 16.1 km
-14h Partly sunny w/ showers   Cloud:  45%, Precipitation:  58%, Rain:  58%, Snow:   0%, Wind: 20.4 kph, Gust: 25.9 kph, Vis:  9.7 km
-15h Partly sunny              Cloud:  45%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 20.4 kph, Gust: 25.9 kph, Vis: 16.1 km
-16h Partly sunny w/ showers   Cloud:  45%, Precipitation:  58%, Rain:  58%, Snow:   0%, Wind: 20.4 kph, Gust: 24.1 kph, Vis:  9.7 km
-17h Partly sunny              Cloud:  45%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 18.5 kph, Gust: 29.6 kph, Vis: 16.1 km
-18h Partly sunny              Cloud:  33%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 18.5 kph, Gust: 33.3 kph, Vis: 16.1 km
-19h Mostly sunny              Cloud:  26%, Precipitation:  33%, Rain:  33%, Snow:   0%, Wind: 16.7 kph, Gust: 37.0 kph, Vis: 16.1 km
-20h Mostly sunny              Cloud:  29%, Precipitation:  32%, Rain:  32%, Snow:   0%, Wind: 14.8 kph, Gust: 29.6 kph, Vis: 16.1 km
-21h Partly sunny              Cloud:  39%, Precipitation:  32%, Rain:  32%, Snow:   0%, Wind: 13.0 kph, Gust: 29.6 kph, Vis: 16.1 km
-22h Partly cloudy             Cloud:  49%, Precipitation:  36%, Rain:  36%, Snow:   0%, Wind: 11.1 kph, Gust: 27.8 kph, Vis: 16.1 km
-23h Mostly cloudy w/ showers  Cloud:  65%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind:  9.3 kph, Gust: 24.1 kph, Vis: 16.1 km
-Weather forecast for Saturday 30th July:
-12h: :cloud: Cloudy [:umbrella: as of 10h]
-13h: :umbrella: Rainy [:kite:(:cloud:) as of 10h]
-14h - 17h: :white_sun_small_cloud: Partly Cloudy
-18h: :white_sun_small_cloud: Partly Cloudy [:kite:(:white_sun_small_cloud:) as of 10h]
-19h: :white_sun_small_cloud: Partly Cloudy [:kite:(:sunny:) as of 10h]
-20h: :cloud: Cloudy [:sunny: as of 10h]
-21h, 22h: :white_sun_small_cloud: Partly Cloudy
-23h: :cloud: Cloudy
+12h Showers                   Cloud:  90%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind: 13.0 kph, Gust: 20.4 kph, Vis:  9.7 km
+13h Cloudy                    Cloud:  90%, Precipitation:  43%, Rain:  43%, Snow:   0%, Wind: 13.0 kph, Gust: 27.8 kph, Vis: 16.1 km
+14h Partly sunny w/ showers   Cloud:  25%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 13.0 kph, Gust: 18.5 kph, Vis: 16.1 km
+15h Mostly sunny              Cloud:  25%, Precipitation:  37%, Rain:  37%, Snow:   0%, Wind: 13.0 kph, Gust: 20.4 kph, Vis: 16.1 km
+16h Mostly sunny              Cloud:  25%, Precipitation:  33%, Rain:  33%, Snow:   0%, Wind: 11.1 kph, Gust: 27.8 kph, Vis: 16.1 km
+17h Mostly sunny              Cloud:  25%, Precipitation:  33%, Rain:  33%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis: 16.1 km
+18h Mostly sunny              Cloud:  25%, Precipitation:  33%, Rain:  33%, Snow:   0%, Wind:  9.3 kph, Gust: 20.4 kph, Vis: 16.1 km
+19h Mostly sunny              Cloud:  25%, Precipitation:  23%, Rain:  23%, Snow:   0%, Wind:  9.3 kph, Gust: 16.7 kph, Vis: 16.1 km
+20h Cloudy                    Cloud:  92%, Precipitation:   3%, Rain:   3%, Snow:   0%, Wind:  7.4 kph, Gust: 16.7 kph, Vis:  9.7 km
+21h Mostly cloudy             Cloud:  86%, Precipitation:   3%, Rain:   3%, Snow:   0%, Wind:  5.6 kph, Gust: 13.0 kph, Vis:  9.7 km
+22h Mostly cloudy             Cloud:  81%, Precipitation:   3%, Rain:   3%, Snow:   0%, Wind:  1.9 kph, Gust:  7.4 kph, Vis:  9.7 km
+23h Mostly cloudy             Cloud:  85%, Precipitation:   3%, Rain:   3%, Snow:   0%, Wind:  5.6 kph, Gust: 13.0 kph, Vis:  9.7 km
+Weather forecast for Sunday 31st July:
+12h: :white_sun_small_cloud: Partly Cloudy [:umbrella: as of 10h]
+13h: :cloud: Cloudy
+14h: :white_sun_small_cloud: Partly Cloudy
+15h - 19h: :sunny: Clear
+20h: :white_sun_small_cloud: Partly Cloudy [:cloud: as of 10h]
+21h - 23h: :cloud: Cloudy
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
