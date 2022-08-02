@@ -1,48 +1,44 @@
 Glasgow
- 0h Rain                      Cloud: 100%, Precipitation:  62%, Rain:  62%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis:  8.0 km
- 1h Cloudy                    Cloud: 100%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 13.0 kph, Gust: 25.9 kph, Vis: 16.1 km
- 2h Rain                      Cloud: 100%, Precipitation:  56%, Rain:  56%, Snow:   0%, Wind: 14.8 kph, Gust: 16.7 kph, Vis:  9.7 km
- 3h Cloudy                    Cloud: 100%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 16.7 kph, Gust: 18.5 kph, Vis: 16.1 km
- 4h Cloudy                    Cloud: 100%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 16.7 kph, Gust: 18.5 kph, Vis: 16.1 km
- 5h Cloudy                    Cloud: 100%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 16.7 kph, Gust: 20.4 kph, Vis: 16.1 km
- 6h Rain                      Cloud: 100%, Precipitation:  63%, Rain:  63%, Snow:   0%, Wind: 16.7 kph, Gust: 31.5 kph, Vis:  9.7 km
- 7h Rain                      Cloud: 100%, Precipitation:  63%, Rain:  63%, Snow:   0%, Wind: 16.7 kph, Gust: 42.6 kph, Vis:  9.7 km
- 8h Cloudy                    Cloud: 100%, Precipitation:  43%, Rain:  43%, Snow:   0%, Wind: 18.5 kph, Gust: 22.2 kph, Vis: 16.1 km
- 9h Showers                   Cloud: 100%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind: 20.4 kph, Gust: 22.2 kph, Vis:  9.7 km
-10h Cloudy                    Cloud: 100%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 22.2 kph, Gust: 24.1 kph, Vis: 16.1 km
-11h Cloudy                    Cloud: 100%, Precipitation:  48%, Rain:  48%, Snow:   0%, Wind: 22.2 kph, Gust: 25.9 kph, Vis: 16.1 km
-Weather forecast for Tuesday 2nd August:
-0h: :umbrella: Rainy
-1h: :kite: Windy (:cloud:) [:cloud: as of 21h]
-2h: :umbrella: Rainy
-3h - 5h: :cloud: Cloudy
-6h, 7h: :umbrella: Rainy
+ 0h Cloudy                    Cloud:  95%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 16.7 kph, Gust: 31.5 kph, Vis: 16.1 km
+ 1h Cloudy                    Cloud:  95%, Precipitation:  16%, Rain:  16%, Snow:   0%, Wind: 18.5 kph, Gust: 35.2 kph, Vis: 16.1 km
+ 2h Cloudy                    Cloud:  95%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 18.5 kph, Gust: 24.1 kph, Vis: 16.1 km
+ 3h Cloudy                    Cloud:  95%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 18.5 kph, Gust: 24.1 kph, Vis: 16.1 km
+ 4h Cloudy                    Cloud:  95%, Precipitation:   6%, Rain:   6%, Snow:   0%, Wind: 20.4 kph, Gust: 25.9 kph, Vis: 16.1 km
+ 5h Cloudy                    Cloud:  95%, Precipitation:   5%, Rain:   5%, Snow:   0%, Wind: 22.2 kph, Gust: 33.3 kph, Vis: 16.1 km
+ 6h Cloudy                    Cloud:  95%, Precipitation:   5%, Rain:   5%, Snow:   0%, Wind: 24.1 kph, Gust: 42.6 kph, Vis: 16.1 km
+ 7h Cloudy                    Cloud: 100%, Precipitation:   8%, Rain:   8%, Snow:   0%, Wind: 24.1 kph, Gust: 50.0 kph, Vis: 16.1 km
+ 8h Mostly cloudy w/ showers  Cloud:  70%, Precipitation:  59%, Rain:  59%, Snow:   0%, Wind: 24.1 kph, Gust: 25.9 kph, Vis:  9.7 km
+ 9h Intermittent clouds       Cloud:  70%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 22.2 kph, Gust: 24.1 kph, Vis: 16.1 km
+10h Mostly cloudy w/ showers  Cloud:  70%, Precipitation:  59%, Rain:  59%, Snow:   0%, Wind: 20.4 kph, Gust: 22.2 kph, Vis:  9.7 km
+11h Intermittent clouds       Cloud:  70%, Precipitation:  27%, Rain:  27%, Snow:   0%, Wind: 22.2 kph, Gust: 29.6 kph, Vis: 16.1 km
+Weather forecast for Wednesday 3rd August:
+0h, 1h: :kite: Windy (:cloud:)
+2h - 4h: :cloud: Cloudy
+5h - 7h: :kite: Windy (:cloud:)
 8h: :cloud: Cloudy
-9h: :umbrella: Rainy
-10h, 11h: :cloud: Cloudy
+9h: :white_sun_small_cloud: Partly Cloudy
+10h: :cloud: Cloudy
+11h: :white_sun_small_cloud: Partly Cloudy
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
 Edinburgh
- 0h Cloudy                    Cloud: 100%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis: 16.1 km
- 1h Showers                   Cloud: 100%, Precipitation:  63%, Rain:  63%, Snow:   0%, Wind: 13.0 kph, Gust: 27.8 kph, Vis:  9.7 km
- 2h Cloudy                    Cloud: 100%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 13.0 kph, Gust: 16.7 kph, Vis:  9.7 km
- 3h Cloudy                    Cloud: 100%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 14.8 kph, Gust: 16.7 kph, Vis: 16.1 km
- 4h Cloudy                    Cloud: 100%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 14.8 kph, Gust: 16.7 kph, Vis: 16.1 km
- 5h Rain                      Cloud: 100%, Precipitation:  56%, Rain:  56%, Snow:   0%, Wind: 14.8 kph, Gust: 20.4 kph, Vis:  9.7 km
- 6h Rain                      Cloud: 100%, Precipitation:  56%, Rain:  56%, Snow:   0%, Wind: 14.8 kph, Gust: 29.6 kph, Vis:  9.7 km
- 7h Cloudy                    Cloud: 100%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 14.8 kph, Gust: 37.0 kph, Vis: 16.1 km
- 8h Cloudy                    Cloud:  90%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 16.7 kph, Gust: 22.2 kph, Vis: 16.1 km
- 9h Cloudy                    Cloud:  90%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 18.5 kph, Gust: 20.4 kph, Vis: 16.1 km
-10h Cloudy                    Cloud:  90%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 20.4 kph, Gust: 24.1 kph, Vis: 16.1 km
-11h Showers                   Cloud:  89%, Precipitation:  53%, Rain:  53%, Snow:   0%, Wind: 20.4 kph, Gust: 22.2 kph, Vis:  8.0 km
-Weather forecast for Tuesday 2nd August:
-0h: :cloud: Cloudy
-1h: :umbrella: Rainy
-2h: :umbrella: Rainy [:cloud: as of 16h]
-3h, 4h: :cloud: Cloudy
-5h, 6h: :umbrella: Rainy
-7h: :kite: Windy (:cloud:)
-8h - 10h: :cloud: Cloudy
-11h: :umbrella: Rainy
+ 0h Cloudy                    Cloud:  95%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 22.2 kph, Gust: 35.2 kph, Vis: 16.1 km
+ 1h Cloudy                    Cloud:  95%, Precipitation:   6%, Rain:   6%, Snow:   0%, Wind: 22.2 kph, Gust: 35.2 kph, Vis: 16.1 km
+ 2h Cloudy                    Cloud:  95%, Precipitation:   3%, Rain:   3%, Snow:   0%, Wind: 22.2 kph, Gust: 27.8 kph, Vis: 16.1 km
+ 3h Cloudy                    Cloud:  95%, Precipitation:   3%, Rain:   3%, Snow:   0%, Wind: 22.2 kph, Gust: 29.6 kph, Vis: 16.1 km
+ 4h Cloudy                    Cloud:  95%, Precipitation:   3%, Rain:   3%, Snow:   0%, Wind: 24.1 kph, Gust: 31.5 kph, Vis: 16.1 km
+ 5h Cloudy                    Cloud:  95%, Precipitation:   3%, Rain:   3%, Snow:   0%, Wind: 24.1 kph, Gust: 35.2 kph, Vis: 16.1 km
+ 6h Cloudy                    Cloud:  95%, Precipitation:   3%, Rain:   3%, Snow:   0%, Wind: 24.1 kph, Gust: 38.9 kph, Vis: 16.1 km
+ 7h Cloudy                    Cloud:  95%, Precipitation:   4%, Rain:   4%, Snow:   0%, Wind: 22.2 kph, Gust: 42.6 kph, Vis: 16.1 km
+ 8h Intermittent clouds       Cloud:  70%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 22.2 kph, Gust: 25.9 kph, Vis: 16.1 km
+ 9h Mostly cloudy             Cloud:  79%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 22.2 kph, Gust: 25.9 kph, Vis: 16.1 km
+10h Cloudy                    Cloud:  90%, Precipitation:   6%, Rain:   6%, Snow:   0%, Wind: 24.1 kph, Gust: 25.9 kph, Vis: 16.1 km
+11h Mostly cloudy             Cloud:  87%, Precipitation:   5%, Rain:   5%, Snow:   0%, Wind: 24.1 kph, Gust: 25.9 kph, Vis: 16.1 km
+Weather forecast for Wednesday 3rd August:
+0h, 1h: :kite: Windy (:cloud:)
+2h, 3h: :cloud: Cloudy
+4h - 7h: :kite: Windy (:cloud:)
+8h: :white_sun_small_cloud: Partly Cloudy
+9h - 11h: :cloud: Cloudy
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
