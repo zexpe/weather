@@ -1,12 +1,13 @@
-*Updated: Thursday 4th August 20:30*
+*Updated: Thursday 4th August 21:30*
 
 **Glasgow**
 
-* 21h - 0h: :partly_sunny: Partly Cloudy
+* 22h - 0h: :partly_sunny: Partly Cloudy
 * 1h, 2h: :sunny: Clear
-* 3h - 8h: :partly_sunny: Partly Cloudy
+* 3h - 9h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 21h - 7h: :sunny: Clear
+* 22h - 7h: :sunny: Clear
 * 8h: :partly_sunny: Partly Cloudy
+* 9h: :cyclone: Windy (:partly_sunny:)
