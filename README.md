@@ -1,10 +1,11 @@
-*Updated: Friday 5th August 19:30*
+*Updated: Friday 5th August 20:30*
 
 **Glasgow**
 
-* 20h - 7h: :sunny: Clear
+* 21h - 7h: :sunny: Clear
+* 8h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 20h: :sunny: Clear [:cyclone:(:sunny:) as of 20h]
 * 21h - 7h: :sunny: Clear
+* 8h: :cloud: Cloudy
