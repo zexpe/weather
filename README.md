@@ -1,14 +1,14 @@
-*Updated: Tuesday 9th August 13:30*
+*Updated: Tuesday 9th August 14:30*
 
 **Glasgow**
 
-* 14h - 19h: :cyclone: Windy (:partly_sunny:) [:partly_sunny: as of 10h]
+* 15h - 19h: :cyclone: Windy (:partly_sunny:) [:partly_sunny: as of 10h]
 * 20h: :cloud: Cloudy [:sunny: as of 10h]
-* 21h - 1h: :sunny: Clear
+* 21h - 2h: :sunny: Clear
 
 **Edinburgh**
 
-* 14h - 18h: :cyclone: Windy (:cloud:) [:cloud: as of 9h]
+* 15h - 18h: :cyclone: Windy (:cloud:) [:cloud: as of 9h]
 * 19h: :cyclone: Windy (:cloud:)
 * 20h, 21h: :partly_sunny: Partly Cloudy
-* 22h - 1h: :sunny: Clear
+* 22h - 2h: :sunny: Clear
