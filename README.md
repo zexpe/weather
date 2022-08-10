@@ -1,8 +1,7 @@
-*Updated: Wednesday 10th August 09:30*
+*Updated: Wednesday 10th August 10:30*
 
 **Glasgow**
 
-* 10h: :sunny: Clear
 * 11h: :cyclone: Windy (:sunny:) [:sunny: as of 8h]
 * 12h: :sunny: Clear
 * 13h: :sunny: Clear [:cyclone:(:sunny:) as of 10h]
@@ -12,14 +11,13 @@
 * 17h: :sunny: Clear [:partly_sunny: as of 9h]
 * 18h: :cyclone: Windy (:sunny:) [:sunny: as of 10h]
 * 19h: :cyclone: Windy (:sunny:)
-* 20h, 21h: :sunny: Clear
+* 20h - 22h: :sunny: Clear
 
 **Edinburgh**
 
-* 10h: :cyclone: Windy (:sunny:) [:sunny: as of 6h]
 * 11h: :cyclone: Windy (:sunny:) [:sunny: as of 8h]
 * 12h: :sunny: Clear
-* 13h: :sunny: Clear [:cyclone:(:sunny:) as of 10h]
+* 13h: :sunny: Clear [:cyclone:(:sunny:) as of 10h, :sunny: as of 11h]
 * 14h: :sunny: Clear
 * 15h: :partly_sunny: Partly Cloudy [:sunny: as of 9h]
 * 16h: :partly_sunny: Partly Cloudy [:sunny: as of 9h, :cyclone:(:sunny:) as of 10h]
@@ -27,4 +25,4 @@
 * 18h: :sunny: Clear
 * 19h: :cyclone: Windy (:sunny:)
 * 20h: :cyclone: Windy (:sunny:) [:sunny: as of 10h]
-* 21h: :sunny: Clear
+* 21h, 22h: :sunny: Clear
