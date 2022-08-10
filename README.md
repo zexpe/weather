@@ -1,9 +1,9 @@
-*Updated: Wednesday 10th August 22:30*
+*Updated: Thursday 11th August 23:30*
 
 **Glasgow**
 
-* 23h - 10h: :sunny: Clear
+* 0h - 11h: :sunny: Clear
 
 **Edinburgh**
 
-* 23h - 10h: :sunny: Clear
+* 0h - 11h: :sunny: Clear
