@@ -1,15 +1,17 @@
-*Updated: Wednesday 10th August 04:30*
+*Updated: Wednesday 10th August 05:30*
 
 **Glasgow**
 
-* 5h - 10h: :sunny: Clear
+* 6h - 10h: :sunny: Clear
 * 11h: :cyclone: Windy (:sunny:)
 * 12h - 15h: :sunny: Clear
 * 16h: :partly_sunny: Partly Cloudy
+* 17h: :sunny: Clear
 
 **Edinburgh**
 
-* 5h - 9h: :sunny: Clear
-* 10h, 11h: :cyclone: Windy (:sunny:)
+* 6h - 9h: :sunny: Clear
+* 10h: :cyclone: Windy (:sunny:) [:sunny: as of 6h]
+* 11h: :cyclone: Windy (:sunny:)
 * 12h - 14h: :sunny: Clear
-* 15h, 16h: :partly_sunny: Partly Cloudy
+* 15h - 17h: :partly_sunny: Partly Cloudy
