@@ -1,13 +1,13 @@
-*Updated: Thursday 11th August 07:30*
+*Updated: Thursday 11th August 08:30*
 
 **Glasgow**
 
-* 8h - 13h: :sunny: Clear
+* 9h - 13h: :sunny: Clear
 * 14h - 16h: :cyclone: Windy (:sunny:)
-* 17h - 19h: :sunny: Clear
+* 17h - 20h: :sunny: Clear
 
 **Edinburgh**
 
-* 8h - 14h: :sunny: Clear
+* 9h - 14h: :sunny: Clear
 * 15h, 16h: :cyclone: Windy (:sunny:)
-* 17h - 19h: :sunny: Clear
+* 17h - 20h: :sunny: Clear
