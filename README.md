@@ -1,11 +1,11 @@
-*Updated: Thursday 11th August 19:30*
+*Updated: Thursday 11th August 20:30*
 
 **Glasgow**
 
-* 20h - 7h: :sunny: Clear
+* 21h - 7h: :sunny: Clear
+* 8h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 20h: :sunny: Clear [:cyclone:(:sunny:) as of 17h, :sunny: as of 18h]
 * 21h: :cyclone: Windy (:sunny:) [:sunny: as of 18h]
-* 22h - 7h: :sunny: Clear
+* 22h - 8h: :sunny: Clear
