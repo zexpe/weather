@@ -1,10 +1,9 @@
-*Updated: Friday 12th August 08:30*
+*Updated: Friday 12th August 09:30*
 
 **Glasgow**
 
-* 9h: :partly_sunny: Partly Cloudy
-* 10h - 20h: :sunny: Clear
+* 10h - 21h: :sunny: Clear
 
 **Edinburgh**
 
-* 9h - 20h: :sunny: Clear
+* 10h - 21h: :sunny: Clear
