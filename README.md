@@ -1,9 +1,9 @@
-*Updated: Friday 12th August 13:30*
+*Updated: Friday 12th August 14:30*
 
 **Glasgow**
 
-* 14h - 1h: :sunny: Clear
+* 15h - 2h: :sunny: Clear
 
 **Edinburgh**
 
-* 14h - 1h: :sunny: Clear
+* 15h - 2h: :sunny: Clear
