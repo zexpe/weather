@@ -1,12 +1,13 @@
-*Updated: Saturday 13th August 22:30*
+*Updated: Sunday 14th August 23:30*
 
 **Glasgow**
 
-* 23h - 5h: :sunny: Clear
+* 0h - 5h: :sunny: Clear
 * 6h - 9h: :partly_sunny: Partly Cloudy
 * 10h: :sunny: Clear
+* 11h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 23h - 1h: :sunny: Clear
-* 2h - 10h: :partly_sunny: Partly Cloudy
+* 0h, 1h: :sunny: Clear
+* 2h - 11h: :partly_sunny: Partly Cloudy
