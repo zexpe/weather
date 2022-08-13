@@ -1,11 +1,11 @@
-*Updated: Saturday 13th August 04:30*
+*Updated: Saturday 13th August 05:30*
 
 **Glasgow**
 
-* 5h - 7h: :sunny: Clear
-* 8h - 16h: :cloud: Cloudy
+* 6h, 7h: :sunny: Clear
+* 8h - 17h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 5h - 7h: :sunny: Clear
-* 8h - 16h: :cloud: Cloudy
+* 6h, 7h: :sunny: Clear
+* 8h - 17h: :cloud: Cloudy
