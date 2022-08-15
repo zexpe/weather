@@ -1,42 +1,44 @@
 Glasgow
-11h Partly sunny              Cloud:  46%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  9.3 kph, Gust: 20.4 kph, Vis: 16.1 km
-12h Intermittent clouds       Cloud:  68%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  9.3 kph, Gust: 16.7 kph, Vis: 16.1 km
-13h Intermittent clouds       Cloud:  70%, Precipitation:   2%, Rain:   2%, Snow:   0%, Wind:  9.3 kph, Gust: 18.5 kph, Vis: 16.1 km
-14h Intermittent clouds       Cloud:  70%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind:  9.3 kph, Gust: 22.2 kph, Vis: 16.1 km
-15h Mostly cloudy w/ t-storms Cloud:  70%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind: 11.1 kph, Gust: 29.6 kph, Vis:  9.7 km
-16h Intermittent clouds       Cloud:  70%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 11.1 kph, Gust: 29.6 kph, Vis: 16.1 km
-17h Intermittent clouds       Cloud:  70%, Precipitation:  10%, Rain:  10%, Snow:   0%, Wind: 11.1 kph, Gust: 18.5 kph, Vis: 16.1 km
-18h Intermittent clouds       Cloud:  70%, Precipitation:  10%, Rain:  10%, Snow:   0%, Wind:  9.3 kph, Gust: 16.7 kph, Vis: 16.1 km
-19h Intermittent clouds       Cloud:  70%, Precipitation:  14%, Rain:  14%, Snow:   0%, Wind:  7.4 kph, Gust: 16.7 kph, Vis: 16.1 km
-20h Cloudy                    Cloud:  94%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind:  7.4 kph, Gust: 20.4 kph, Vis: 16.1 km
-21h Thunderstorms             Cloud:  94%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind:  7.4 kph, Gust: 20.4 kph, Vis:  8.0 km
-22h Cloudy                    Cloud:  94%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind:  7.4 kph, Gust: 18.5 kph, Vis: 16.1 km
-Weather forecast for Sunday 14th August:
-11h - 14h: :white_sun_small_cloud: Partly Cloudy
-15h: :umbrella: Rainy [:cloud: as of 9h]
-16h - 19h: :cloud: Cloudy [:white_sun_small_cloud: as of 9h]
-20h: :cloud: Cloudy
-21h: :umbrella: Rainy
-22h: :cloud: Cloudy
+11h Thunderstorms             Cloud:  76%, Precipitation:  75%, Rain:  75%, Snow:   0%, Wind:  9.3 kph, Gust: 20.4 kph, Vis:  9.7 km
+12h Thunderstorms             Cloud:  76%, Precipitation:  75%, Rain:  75%, Snow:   0%, Wind:  9.3 kph, Gust: 20.4 kph, Vis:  9.7 km
+13h Thunderstorms             Cloud:  76%, Precipitation:  75%, Rain:  75%, Snow:   0%, Wind: 11.1 kph, Gust: 22.2 kph, Vis:  9.7 km
+14h Mostly cloudy             Cloud:  76%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind:  9.3 kph, Gust: 22.2 kph, Vis: 16.1 km
+15h Thunderstorms             Cloud:  76%, Precipitation:  73%, Rain:  73%, Snow:   0%, Wind:  9.3 kph, Gust: 22.2 kph, Vis:  8.0 km
+16h Thunderstorms             Cloud:  76%, Precipitation:  73%, Rain:  73%, Snow:   0%, Wind:  7.4 kph, Gust: 20.4 kph, Vis:  8.0 km
+17h Mostly cloudy             Cloud:  76%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind:  7.4 kph, Gust: 20.4 kph, Vis: 16.1 km
+18h Thunderstorms             Cloud:  76%, Precipitation:  73%, Rain:  73%, Snow:   0%, Wind:  7.4 kph, Gust: 20.4 kph, Vis:  8.0 km
+19h Thunderstorms             Cloud:  76%, Precipitation:  73%, Rain:  73%, Snow:   0%, Wind:  7.4 kph, Gust: 18.5 kph, Vis:  8.0 km
+20h Rain                      Cloud: 100%, Precipitation:  68%, Rain:  68%, Snow:   0%, Wind:  7.4 kph, Gust: 20.4 kph, Vis:  9.7 km
+21h Rain                      Cloud: 100%, Precipitation:  68%, Rain:  68%, Snow:   0%, Wind:  7.4 kph, Gust: 20.4 kph, Vis:  9.7 km
+22h Rain                      Cloud: 100%, Precipitation:  68%, Rain:  68%, Snow:   0%, Wind:  7.4 kph, Gust: 18.5 kph, Vis:  9.7 km
+Weather forecast for Monday 15th August:
+11h: :white_sun_small_cloud: Partly Cloudy [:cloud: as of 9h, :umbrella: as of 11h]
+12h: :white_sun_small_cloud: Partly Cloudy [:umbrella: as of 11h]
+13h: :cloud: Cloudy [:white_sun_small_cloud: as of 9h, :umbrella: as of 11h]
+14h: :white_sun_small_cloud: Partly Cloudy [:cloud: as of 11h]
+15h, 16h: :white_sun_small_cloud: Partly Cloudy [:umbrella: as of 11h]
+17h: :white_sun_small_cloud: Partly Cloudy [:cloud: as of 11h]
+18h: :cloud: Cloudy [:umbrella: as of 11h]
+19h: :white_sun_small_cloud: Partly Cloudy [:umbrella: as of 11h]
+20h - 22h: :umbrella: Rainy
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
 Edinburgh
-11h Intermittent clouds       Cloud:  70%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 18.5 kph, Vis: 16.1 km
-12h Intermittent clouds       Cloud:  70%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 16.7 kph, Vis: 16.1 km
-13h Intermittent clouds       Cloud:  70%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 20.4 kph, Vis: 16.1 km
-14h Intermittent clouds       Cloud:  70%, Precipitation:   2%, Rain:   2%, Snow:   0%, Wind: 13.0 kph, Gust: 16.7 kph, Vis: 16.1 km
-15h Intermittent clouds       Cloud:  70%, Precipitation:   2%, Rain:   2%, Snow:   0%, Wind: 14.8 kph, Gust: 24.1 kph, Vis: 16.1 km
-16h Intermittent clouds       Cloud:  70%, Precipitation:   3%, Rain:   3%, Snow:   0%, Wind: 14.8 kph, Gust: 35.2 kph, Vis: 16.1 km
-17h Intermittent clouds       Cloud:  70%, Precipitation:   4%, Rain:   4%, Snow:   0%, Wind: 13.0 kph, Gust: 20.4 kph, Vis: 16.1 km
-18h Intermittent clouds       Cloud:  70%, Precipitation:   4%, Rain:   4%, Snow:   0%, Wind: 13.0 kph, Gust: 14.8 kph, Vis: 16.1 km
-19h Intermittent clouds       Cloud:  70%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 11.1 kph, Gust: 18.5 kph, Vis: 16.1 km
-20h Cloudy                    Cloud:  94%, Precipitation:  19%, Rain:  19%, Snow:   0%, Wind: 11.1 kph, Gust: 20.4 kph, Vis: 16.1 km
-21h Cloudy                    Cloud:  94%, Precipitation:  19%, Rain:  19%, Snow:   0%, Wind:  9.3 kph, Gust: 24.1 kph, Vis: 16.1 km
-22h Cloudy                    Cloud:  94%, Precipitation:  24%, Rain:  24%, Snow:   0%, Wind:  9.3 kph, Gust: 22.2 kph, Vis: 16.1 km
-Weather forecast for Sunday 14th August:
-11h - 15h: :white_sun_small_cloud: Partly Cloudy
-16h: :white_sun_small_cloud: Partly Cloudy [:kite:(:white_sun_small_cloud:) as of 10h]
-17h - 19h: :white_sun_small_cloud: Partly Cloudy
-20h - 22h: :cloud: Cloudy
+11h Intermittent clouds       Cloud:  70%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind:  7.4 kph, Gust: 18.5 kph, Vis: 16.1 km
+12h Intermittent clouds       Cloud:  70%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind:  7.4 kph, Gust: 11.1 kph, Vis: 16.1 km
+13h Intermittent clouds       Cloud:  70%, Precipitation:  15%, Rain:  15%, Snow:   0%, Wind:  7.4 kph, Gust: 18.5 kph, Vis: 16.1 km
+14h Intermittent clouds       Cloud:  70%, Precipitation:   5%, Rain:   5%, Snow:   0%, Wind:  9.3 kph, Gust: 16.7 kph, Vis: 16.1 km
+15h Intermittent clouds       Cloud:  70%, Precipitation:   5%, Rain:   5%, Snow:   0%, Wind:  9.3 kph, Gust: 16.7 kph, Vis: 16.1 km
+16h Intermittent clouds       Cloud:  70%, Precipitation:   6%, Rain:   6%, Snow:   0%, Wind:  9.3 kph, Gust: 16.7 kph, Vis: 16.1 km
+17h Intermittent clouds       Cloud:  70%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind:  9.3 kph, Gust: 16.7 kph, Vis: 16.1 km
+18h Intermittent clouds       Cloud:  70%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind:  9.3 kph, Gust: 18.5 kph, Vis: 16.1 km
+19h Intermittent clouds       Cloud:  70%, Precipitation:  11%, Rain:  11%, Snow:   0%, Wind:  9.3 kph, Gust: 20.4 kph, Vis: 16.1 km
+20h Cloudy                    Cloud: 100%, Precipitation:  33%, Rain:  33%, Snow:   0%, Wind:  9.3 kph, Gust: 16.7 kph, Vis: 16.1 km
+21h Cloudy                    Cloud: 100%, Precipitation:  33%, Rain:  33%, Snow:   0%, Wind: 11.1 kph, Gust: 29.6 kph, Vis: 16.1 km
+22h Cloudy                    Cloud: 100%, Precipitation:  39%, Rain:  39%, Snow:   0%, Wind: 13.0 kph, Gust: 31.5 kph, Vis: 16.1 km
+Weather forecast for Monday 15th August:
+11h - 19h: :white_sun_small_cloud: Partly Cloudy
+20h, 21h: :cloud: Cloudy
+22h: :kite: Windy (:cloud:)
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
