@@ -1,13 +1,13 @@
-*Updated: Wednesday 17th August 19:30*
+*Updated: Wednesday 17th August 20:30*
 
 **Glasgow**
 
-* 20h - 4h: :cloud: Cloudy
+* 21h - 4h: :cloud: Cloudy
 * 5h, 6h: :umbrella: Rainy
-* 7h: :cloud: Cloudy
+* 7h, 8h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 20h - 4h: :cloud: Cloudy
+* 21h - 4h: :cloud: Cloudy
 * 5h, 6h: :umbrella: Rainy
-* 7h: :cloud: Cloudy
+* 7h, 8h: :cloud: Cloudy
