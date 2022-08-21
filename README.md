@@ -1,11 +1,12 @@
-*Updated: Monday 22nd August 23:30*
+*Updated: Monday 22nd August 00:30*
 
 **Glasgow**
 
-* 0h - 8h: :cloud: Cloudy
+* 1h - 8h: :cloud: Cloudy
 * 9h: :umbrella: Rainy
 * 10h, 11h: :cloud: Cloudy
+* 12h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 0h - 11h: :cloud: Cloudy
+* 1h - 12h: :cloud: Cloudy
