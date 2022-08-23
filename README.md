@@ -1,15 +1,13 @@
-*Updated: Tuesday 23rd August 17:30*
+*Updated: Tuesday 23rd August 18:30*
 
 **Glasgow**
 
-* 18h: :umbrella: Rainy [:cloud: as of 10h]
 * 19h - 2h: :cloud: Cloudy
 * 3h: :umbrella: Rainy
 * 4h: :cloud: Cloudy
-* 5h: :umbrella: Rainy
+* 5h, 6h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 18h: :cloud: Cloudy [:umbrella: as of 10h]
 * 19h: :umbrella: Rainy
-* 20h - 5h: :cloud: Cloudy
+* 20h - 6h: :cloud: Cloudy
