@@ -1,11 +1,12 @@
-*Updated: Saturday 27th August 19:30*
+*Updated: Saturday 27th August 20:30*
 
 **Glasgow**
 
-* 20h - 7h: :partly_sunny: Partly Cloudy
+* 21h - 7h: :partly_sunny: Partly Cloudy
+* 8h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 20h - 22h: :sunny: Clear
+* 21h, 22h: :sunny: Clear
 * 23h - 1h: :partly_sunny: Partly Cloudy
-* 2h - 7h: :cloud: Cloudy
+* 2h - 8h: :cloud: Cloudy
