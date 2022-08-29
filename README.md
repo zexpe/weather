@@ -1,13 +1,14 @@
-*Updated: Monday 29th August 02:30*
+*Updated: Monday 29th August 03:30*
 
 **Glasgow**
 
-* 3h - 7h: :cloud: Cloudy
+* 4h - 7h: :cloud: Cloudy
 * 8h - 12h: :partly_sunny: Partly Cloudy
 * 13h: :cloud: Cloudy
 * 14h: :umbrella: Rainy
+* 15h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 3h - 7h: :cloud: Cloudy
-* 8h - 14h: :partly_sunny: Partly Cloudy
+* 4h - 7h: :cloud: Cloudy
+* 8h - 15h: :partly_sunny: Partly Cloudy
