@@ -1,10 +1,11 @@
-*Updated: Wednesday 31st August 19:30*
+*Updated: Wednesday 31st August 20:30*
 
 **Glasgow**
 
-* 20h - 4h: :sunny: Clear
-* 5h - 7h: :partly_sunny: Partly Cloudy
+* 21h - 4h: :sunny: Clear
+* 5h - 8h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 20h - 7h: :sunny: Clear
+* 21h - 7h: :sunny: Clear
+* 8h: :partly_sunny: Partly Cloudy
