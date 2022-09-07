@@ -1,50 +1,54 @@
 Glasgow
-12h Cloudy                    Cloud:  94%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 16.7 kph, Gust: 33.3 kph, Vis: 16.1 km
-13h Thunderstorms             Cloud:  94%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind: 16.7 kph, Gust: 33.3 kph, Vis:  8.0 km
-14h Thunderstorms             Cloud:  94%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind: 14.8 kph, Gust: 16.7 kph, Vis:  8.0 km
-15h Cloudy                    Cloud:  94%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 13.0 kph, Gust: 18.5 kph, Vis: 16.1 km
-16h Cloudy                    Cloud:  94%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 11.1 kph, Gust: 20.4 kph, Vis: 16.1 km
-17h Thunderstorms             Cloud:  94%, Precipitation:  64%, Rain:  64%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis:  8.0 km
-18h Thunderstorms             Cloud:  94%, Precipitation:  64%, Rain:  64%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis:  8.0 km
-19h Cloudy                    Cloud:  94%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis: 16.1 km
-20h Cloudy                    Cloud:  95%, Precipitation:  48%, Rain:  48%, Snow:   0%, Wind:  9.3 kph, Gust: 24.1 kph, Vis: 16.1 km
-21h Showers                   Cloud:  95%, Precipitation:  52%, Rain:  52%, Snow:   0%, Wind:  9.3 kph, Gust: 24.1 kph, Vis:  9.7 km
-22h Cloudy                    Cloud:  99%, Precipitation:  48%, Rain:  48%, Snow:   0%, Wind:  9.3 kph, Gust: 24.1 kph, Vis: 16.1 km
-23h Cloudy                    Cloud:  95%, Precipitation:  43%, Rain:  43%, Snow:   0%, Wind:  9.3 kph, Gust: 22.2 kph, Vis: 16.1 km
-Weather forecast for Tuesday 6th September:
-12h: :umbrella: Rainy [:cloud: as of 11h, :kite:(:cloud:) as of 12h]
-13h: :umbrella: Rainy
-14h: :cloud: Cloudy [:umbrella: as of 10h]
-15h: :umbrella: Rainy [:cloud: as of 11h]
-16h: :umbrella: Rainy [:cloud: as of 10h]
-17h, 18h: :umbrella: Rainy
-19h, 20h: :umbrella: Rainy [:cloud: as of 10h]
-21h: :umbrella: Rainy
-22h, 23h: :cloud: Cloudy
+12h Mostly cloudy w/ t-storms Cloud:  74%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind:  9.3 kph, Gust: 18.5 kph, Vis:  8.0 km
+13h Intermittent clouds       Cloud:  70%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 11.1 kph, Gust: 18.5 kph, Vis: 16.1 km
+14h Mostly cloudy             Cloud:  80%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 11.1 kph, Gust: 22.2 kph, Vis: 16.1 km
+15h Thunderstorms             Cloud:  90%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind: 11.1 kph, Gust: 22.2 kph, Vis:  8.0 km
+16h Cloudy                    Cloud: 100%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 11.1 kph, Gust: 27.8 kph, Vis: 16.1 km
+17h Cloudy                    Cloud:  98%, Precipitation:  48%, Rain:  48%, Snow:   0%, Wind: 11.1 kph, Gust: 27.8 kph, Vis: 16.1 km
+18h Thunderstorms             Cloud:  97%, Precipitation:  52%, Rain:  52%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis:  8.0 km
+19h Cloudy                    Cloud:  95%, Precipitation:  48%, Rain:  48%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis: 16.1 km
+20h Cloudy                    Cloud:  90%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 11.1 kph, Gust: 27.8 kph, Vis: 16.1 km
+21h Cloudy                    Cloud:  90%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 11.1 kph, Gust: 27.8 kph, Vis: 16.1 km
+22h Cloudy                    Cloud:  90%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 11.1 kph, Gust: 27.8 kph, Vis: 16.1 km
+23h Showers                   Cloud:  90%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis:  9.7 km
+Weather forecast for Wednesday 7th September:
+12h: :umbrella: Rainy [:cloud: as of 10h]
+13h: :cloud: Cloudy [:white_sun_small_cloud: as of 10h]
+14h: :cloud: Cloudy
+15h: :umbrella: Rainy
+16h, 17h: :cloud: Cloudy
+18h: :umbrella: Rainy
+19h: :cloud: Cloudy
+20h: :white_sun_small_cloud: Partly Cloudy [:cloud: as of 10h]
+21h, 22h: :cloud: Cloudy
+23h: :umbrella: Rainy
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
 Edinburgh
-12h Thunderstorms             Cloud:  94%, Precipitation:  62%, Rain:  62%, Snow:   0%, Wind: 14.8 kph, Gust: 27.8 kph, Vis:  8.0 km
-13h Thunderstorms             Cloud:  94%, Precipitation:  62%, Rain:  62%, Snow:   0%, Wind: 14.8 kph, Gust: 31.5 kph, Vis:  8.0 km
-14h Thunderstorms             Cloud:  94%, Precipitation:  57%, Rain:  57%, Snow:   0%, Wind: 14.8 kph, Gust: 16.7 kph, Vis:  8.0 km
-15h Cloudy                    Cloud:  94%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 14.8 kph, Gust: 14.8 kph, Vis: 16.1 km
-16h Thunderstorms             Cloud:  94%, Precipitation:  57%, Rain:  57%, Snow:   0%, Wind: 14.8 kph, Gust: 14.8 kph, Vis:  8.0 km
-17h Cloudy                    Cloud:  91%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 13.0 kph, Gust: 20.4 kph, Vis: 16.1 km
-18h Mostly cloudy             Cloud:  83%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 11.1 kph, Gust: 27.8 kph, Vis: 16.1 km
-19h Mostly cloudy             Cloud:  76%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind:  9.3 kph, Gust: 25.9 kph, Vis: 16.1 km
-20h Cloudy                    Cloud:  95%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind:  9.3 kph, Gust: 20.4 kph, Vis: 16.1 km
-21h Cloudy                    Cloud:  95%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind:  5.6 kph, Gust: 16.7 kph, Vis: 16.1 km
-22h Cloudy                    Cloud:  97%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind:  5.6 kph, Gust: 14.8 kph, Vis: 16.1 km
-23h Showers                   Cloud:  95%, Precipitation:  59%, Rain:  59%, Snow:   0%, Wind:  7.4 kph, Gust: 16.7 kph, Vis:  9.7 km
-Weather forecast for Tuesday 6th September:
-12h, 13h: :cloud: Cloudy [:umbrella: as of 10h]
-14h: :umbrella: Rainy
-15h: :cloud: Cloudy [:umbrella: as of 10h, :cloud: as of 11h]
-16h: :kite: Windy (:cloud:) [:umbrella: as of 10h]
-17h, 18h: :umbrella: Rainy [:cloud: as of 10h]
+12h Intermittent clouds       Cloud:  53%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 11.1 kph, Gust: 16.7 kph, Vis: 16.1 km
+13h Intermittent clouds       Cloud:  55%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 13.0 kph, Gust: 20.4 kph, Vis: 16.1 km
+14h Mostly cloudy w/ t-storms Cloud:  70%, Precipitation:  60%, Rain:  60%, Snow:   0%, Wind: 13.0 kph, Gust: 22.2 kph, Vis:  8.0 km
+15h Mostly cloudy             Cloud:  85%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 14.8 kph, Gust: 27.8 kph, Vis: 16.1 km
+16h Thunderstorms             Cloud: 100%, Precipitation:  60%, Rain:  60%, Snow:   0%, Wind: 14.8 kph, Gust: 35.2 kph, Vis:  8.0 km
+17h Cloudy                    Cloud:  99%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 13.0 kph, Gust: 25.9 kph, Vis: 16.1 km
+18h Cloudy                    Cloud:  99%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 11.1 kph, Gust: 24.1 kph, Vis: 16.1 km
+19h Cloudy                    Cloud:  98%, Precipitation:  37%, Rain:  37%, Snow:   0%, Wind: 11.1 kph, Gust: 24.1 kph, Vis: 16.1 km
+20h Cloudy                    Cloud:  90%, Precipitation:  43%, Rain:  43%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis: 16.1 km
+21h Cloudy                    Cloud:  90%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind:  9.3 kph, Gust: 24.1 kph, Vis: 16.1 km
+22h Showers                   Cloud:  90%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind:  9.3 kph, Gust: 24.1 kph, Vis:  9.7 km
+23h Cloudy                    Cloud:  90%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 11.1 kph, Gust: 20.4 kph, Vis: 16.1 km
+Weather forecast for Wednesday 7th September:
+12h: :umbrella: Rainy [:white_sun_small_cloud: as of 10h]
+13h: :cloud: Cloudy [:white_sun_small_cloud: as of 10h]
+14h: :umbrella: Rainy [:cloud: as of 10h]
+15h: :cloud: Cloudy
+16h: :cloud: Cloudy [:umbrella: as of 10h]
+17h: :cloud: Cloudy
+18h: :umbrella: Rainy [:cloud: as of 10h]
 19h: :cloud: Cloudy
-20h: :umbrella: Rainy [:cloud: as of 10h]
-21h, 22h: :cloud: Cloudy
-23h: :umbrella: Rainy
+20h: :white_sun_small_cloud: Partly Cloudy [:cloud: as of 10h]
+21h: :cloud: Cloudy
+22h: :umbrella: Rainy
+23h: :cloud: Cloudy
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
