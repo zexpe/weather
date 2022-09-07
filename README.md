@@ -1,8 +1,7 @@
-*Updated: Wednesday 7th September 16:30*
+*Updated: Wednesday 7th September 17:30*
 
 **Glasgow**
 
-* 17h: :cloud: Cloudy
 * 18h: :umbrella: Rainy
 * 19h: :cloud: Cloudy
 * 20h: :partly_sunny: Partly Cloudy [:cloud: as of 10h]
@@ -10,10 +9,10 @@
 * 23h: :umbrella: Rainy
 * 0h - 3h: :cloud: Cloudy
 * 4h: :umbrella: Rainy
+* 5h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 17h: :cloud: Cloudy
 * 18h: :umbrella: Rainy [:cloud: as of 10h]
 * 19h: :cloud: Cloudy
 * 20h: :partly_sunny: Partly Cloudy [:cloud: as of 10h]
@@ -21,3 +20,4 @@
 * 22h: :umbrella: Rainy
 * 23h - 3h: :cloud: Cloudy
 * 4h: :partly_sunny: Partly Cloudy
+* 5h: :cloud: Cloudy
