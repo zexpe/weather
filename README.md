@@ -1,14 +1,13 @@
-*Updated: Friday 9th September 20:30*
+*Updated: Friday 9th September 21:30*
 
 **Glasgow**
 
-* 21h - 7h: :cloud: Cloudy
-* 8h: :partly_sunny: Partly Cloudy
+* 22h - 7h: :cloud: Cloudy
+* 8h, 9h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 21h: :cloud: Cloudy [:cyclone:(:cloud:) as of 18h, :cloud: as of 20h]
 * 22h: :cyclone: Windy (:cloud:) [:cloud: as of 21h]
-* 23h: :cyclone: Windy (:cloud:)
+* 23h: :cyclone: Windy (:cloud:) [:cloud: as of 22h]
 * 0h - 7h: :cloud: Cloudy
-* 8h: :partly_sunny: Partly Cloudy
+* 8h, 9h: :partly_sunny: Partly Cloudy
