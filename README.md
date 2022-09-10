@@ -1,13 +1,13 @@
-*Updated: Saturday 10th September 20:30*
+*Updated: Saturday 10th September 21:30*
 
 **Glasgow**
 
-* 21h - 1h: :sunny: Clear
+* 22h - 1h: :sunny: Clear
 * 2h - 7h: :partly_sunny: Partly Cloudy
-* 8h: :cloud: Cloudy
+* 8h, 9h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 21h - 1h: :sunny: Clear
+* 22h - 1h: :sunny: Clear
 * 2h - 7h: :partly_sunny: Partly Cloudy
-* 8h: :cloud: Cloudy
+* 8h, 9h: :cloud: Cloudy
