@@ -1,10 +1,11 @@
-*Updated: Sunday 11th September 07:30*
+*Updated: Sunday 11th September 08:30*
 
 **Glasgow**
 
-* 8h - 17h: :cloud: Cloudy
-* 18h, 19h: :umbrella: Rainy
+* 9h - 17h: :cloud: Cloudy
+* 18h - 20h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 8h - 19h: :cloud: Cloudy
+* 9h - 19h: :cloud: Cloudy
+* 20h: :umbrella: Rainy
