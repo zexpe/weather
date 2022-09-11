@@ -1,11 +1,12 @@
-*Updated: Sunday 11th September 05:30*
+*Updated: Sunday 11th September 06:30*
 
 **Glasgow**
 
-* 6h, 7h: :partly_sunny: Partly Cloudy
+* 7h: :partly_sunny: Partly Cloudy
 * 8h - 17h: :cloud: Cloudy
+* 18h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 6h, 7h: :partly_sunny: Partly Cloudy
-* 8h - 17h: :cloud: Cloudy
+* 7h: :partly_sunny: Partly Cloudy
+* 8h - 18h: :cloud: Cloudy
