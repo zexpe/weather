@@ -1,41 +1,44 @@
 Glasgow
-14h Intermittent clouds       Cloud:  70%, Precipitation:  29%, Rain:  29%, Snow:   0%, Wind: 13.0 kph, Gust: 20.4 kph, Vis: 16.1 km
-15h Intermittent clouds       Cloud:  70%, Precipitation:  29%, Rain:  29%, Snow:   0%, Wind: 13.0 kph, Gust: 20.4 kph, Vis: 16.1 km
-16h Intermittent clouds       Cloud:  70%, Precipitation:  35%, Rain:  35%, Snow:   0%, Wind: 11.1 kph, Gust: 24.1 kph, Vis: 16.1 km
-17h Intermittent clouds       Cloud:  70%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 11.1 kph, Gust: 22.2 kph, Vis: 16.1 km
-18h Mostly cloudy w/ showers  Cloud:  70%, Precipitation:  70%, Rain:  70%, Snow:   0%, Wind: 11.1 kph, Gust: 27.8 kph, Vis:  8.0 km
-19h Mostly cloudy w/ showers  Cloud:  70%, Precipitation:  70%, Rain:  70%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis:  8.0 km
-20h Rain                      Cloud: 100%, Precipitation:  79%, Rain:  79%, Snow:   0%, Wind:  9.3 kph, Gust: 14.8 kph, Vis:  8.0 km
-21h Rain                      Cloud: 100%, Precipitation:  79%, Rain:  79%, Snow:   0%, Wind:  9.3 kph, Gust: 13.0 kph, Vis:  8.0 km
-22h Rain                      Cloud: 100%, Precipitation:  79%, Rain:  79%, Snow:   0%, Wind:  9.3 kph, Gust: 14.8 kph, Vis:  8.0 km
-23h Rain                      Cloud: 100%, Precipitation:  60%, Rain:  60%, Snow:   0%, Wind:  7.4 kph, Gust: 20.4 kph, Vis:  8.0 km
- 0h Cloudy                    Cloud: 100%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind:  7.4 kph, Gust: 16.7 kph, Vis: 16.1 km
- 1h Cloudy                    Cloud: 100%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind:  5.6 kph, Gust: 16.7 kph, Vis: 16.1 km
+14h Partly sunny              Cloud:  45%, Precipitation:  25%, Rain:  25%, Snow:   0%, Wind: 22.2 kph, Gust: 25.9 kph, Vis: 16.1 km
+15h Partly sunny              Cloud:  44%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 22.2 kph, Gust: 22.2 kph, Vis: 16.1 km
+16h Mostly sunny              Cloud:  26%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 22.2 kph, Gust: 24.1 kph, Vis: 16.1 km
+17h Mostly sunny              Cloud:  26%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 22.2 kph, Gust: 25.9 kph, Vis: 16.1 km
+18h Mostly sunny              Cloud:  26%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 20.4 kph, Gust: 38.9 kph, Vis: 16.1 km
+19h Mostly sunny              Cloud:  26%, Precipitation:  13%, Rain:  13%, Snow:   0%, Wind: 18.5 kph, Gust: 44.4 kph, Vis: 16.1 km
+20h Mostly clear              Cloud:  26%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 16.7 kph, Gust: 38.9 kph, Vis: 16.1 km
+21h Mostly clear              Cloud:  26%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 33.3 kph, Vis: 16.1 km
+22h Mostly clear              Cloud:  26%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 31.5 kph, Vis: 16.1 km
+23h Mostly clear              Cloud:  26%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 29.6 kph, Vis: 16.1 km
+ 0h Mostly clear              Cloud:  26%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 27.8 kph, Vis: 16.1 km
+ 1h Mostly clear              Cloud:  28%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 27.8 kph, Vis: 16.1 km
 Weather forecast for overnight:
-14h - 17h: :cloud: Cloudy [:white_sun_small_cloud: as of 13h]
-18h, 19h: :umbrella: Rainy [:cloud: as of 13h]
-20h - 23h: :umbrella: Rainy
-0h, 1h: :cloud: Cloudy
+14h, 15h: :white_sun_small_cloud: Partly Cloudy
+16h, 17h: :white_sun_small_cloud: Partly Cloudy [:sunny: as of 10h]
+18h, 19h: :kite: Windy (:white_sun_small_cloud:) [:kite:(:sunny:) as of 10h]
+20h: :white_sun_small_cloud: Partly Cloudy [:kite:(:sunny:) as of 10h]
+21h, 22h: :kite: Windy (:sunny:)
+23h - 1h: :sunny: Clear
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
 Edinburgh
-14h Intermittent clouds       Cloud:  70%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 13.0 kph, Gust: 20.4 kph, Vis: 16.1 km
-15h Intermittent clouds       Cloud:  70%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 13.0 kph, Gust: 20.4 kph, Vis: 16.1 km
-16h Intermittent clouds       Cloud:  70%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 13.0 kph, Gust: 22.2 kph, Vis: 16.1 km
-17h Intermittent clouds       Cloud:  70%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 11.1 kph, Gust: 20.4 kph, Vis: 16.1 km
-18h Intermittent clouds       Cloud:  70%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 11.1 kph, Gust: 18.5 kph, Vis: 16.1 km
-19h Intermittent clouds       Cloud:  70%, Precipitation:  10%, Rain:  10%, Snow:   0%, Wind:  9.3 kph, Gust: 20.4 kph, Vis: 16.1 km
-20h Rain                      Cloud: 100%, Precipitation:  58%, Rain:  58%, Snow:   0%, Wind:  9.3 kph, Gust: 16.7 kph, Vis:  8.0 km
-21h Rain                      Cloud: 100%, Precipitation:  58%, Rain:  58%, Snow:   0%, Wind: 11.1 kph, Gust: 13.0 kph, Vis:  8.0 km
-22h Cloudy                    Cloud: 100%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind:  9.3 kph, Gust: 14.8 kph, Vis: 16.1 km
-23h Rain                      Cloud: 100%, Precipitation:  58%, Rain:  58%, Snow:   0%, Wind:  9.3 kph, Gust: 16.7 kph, Vis:  8.0 km
- 0h Rain                      Cloud: 100%, Precipitation:  58%, Rain:  58%, Snow:   0%, Wind:  7.4 kph, Gust: 18.5 kph, Vis:  8.0 km
- 1h Cloudy                    Cloud: 100%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind:  7.4 kph, Gust: 16.7 kph, Vis: 16.1 km
+14h Intermittent clouds       Cloud:  56%, Precipitation:  25%, Rain:  25%, Snow:   0%, Wind: 24.1 kph, Gust: 31.5 kph, Vis: 16.1 km
+15h Intermittent clouds       Cloud:  54%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 24.1 kph, Gust: 29.6 kph, Vis: 16.1 km
+16h Intermittent clouds       Cloud:  52%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 24.1 kph, Gust: 27.8 kph, Vis: 16.1 km
+17h Partly sunny              Cloud:  36%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 22.2 kph, Gust: 25.9 kph, Vis: 16.1 km
+18h Mostly sunny              Cloud:  21%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 22.2 kph, Gust: 33.3 kph, Vis: 16.1 km
+19h Sunny                     Cloud:   5%, Precipitation:  13%, Rain:  13%, Snow:   0%, Wind: 22.2 kph, Gust: 46.3 kph, Vis: 16.1 km
+20h Mostly clear              Cloud:  26%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 20.4 kph, Gust: 38.9 kph, Vis: 16.1 km
+21h Mostly clear              Cloud:  26%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 16.7 kph, Gust: 37.0 kph, Vis: 16.1 km
+22h Mostly clear              Cloud:  26%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 14.8 kph, Gust: 37.0 kph, Vis: 16.1 km
+23h Mostly clear              Cloud:  26%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 14.8 kph, Gust: 37.0 kph, Vis: 16.1 km
+ 0h Mostly clear              Cloud:  26%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 33.3 kph, Vis: 16.1 km
+ 1h Mostly clear              Cloud:  26%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 33.3 kph, Vis: 16.1 km
 Weather forecast for overnight:
-14h - 19h: :cloud: Cloudy [:white_sun_small_cloud: as of 13h]
-20h, 21h: :umbrella: Rainy
-22h: :cloud: Cloudy
-23h, 0h: :umbrella: Rainy
-1h: :cloud: Cloudy
+14h: :white_sun_small_cloud: Partly Cloudy [:kite:(:white_sun_small_cloud:) as of 14h]
+15h - 17h: :white_sun_small_cloud: Partly Cloudy
+18h: :kite: Windy (:white_sun_small_cloud:) [:kite:(:sunny:) as of 10h]
+19h: :kite: Windy (:sunny:)
+20h: :sunny: Clear [:kite:(:sunny:) as of 10h]
+21h - 1h: :kite: Windy (:sunny:)
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
