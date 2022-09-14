@@ -1,11 +1,11 @@
-*Updated: Wednesday 14th September 22:30*
+*Updated: Thursday 15th September 23:30*
 
 **Glasgow**
 
-* 23h - 10h: :partly_sunny: Partly Cloudy
+* 0h - 11h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 23h - 7h: :partly_sunny: Partly Cloudy
+* 0h - 7h: :partly_sunny: Partly Cloudy
 * 8h, 9h: :sunny: Clear
-* 10h: :partly_sunny: Partly Cloudy
+* 10h, 11h: :partly_sunny: Partly Cloudy
