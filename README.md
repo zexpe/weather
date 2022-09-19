@@ -1,11 +1,11 @@
-*Updated: Monday 19th September 05:30*
+*Updated: Monday 19th September 06:30*
 
 **Glasgow**
 
-* 6h, 7h: :cloud: Cloudy
-* 8h - 17h: :partly_sunny: Partly Cloudy
+* 7h: :cloud: Cloudy
+* 8h - 18h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 6h, 7h: :cloud: Cloudy
-* 8h - 17h: :partly_sunny: Partly Cloudy
+* 7h: :cloud: Cloudy
+* 8h - 18h: :partly_sunny: Partly Cloudy
