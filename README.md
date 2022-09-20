@@ -1,12 +1,12 @@
-*Updated: Tuesday 20th September 21:30*
+*Updated: Tuesday 20th September 22:30*
 
 **Glasgow**
 
-* 22h - 4h: :cloud: Cloudy
+* 23h - 4h: :cloud: Cloudy
 * 5h, 6h: :partly_sunny: Partly Cloudy
 * 7h: :sunny: Clear
-* 8h, 9h: :cloud: Cloudy
+* 8h - 10h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 22h - 9h: :cloud: Cloudy
+* 23h - 10h: :cloud: Cloudy
