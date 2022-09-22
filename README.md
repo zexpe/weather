@@ -1,17 +1,22 @@
-*Updated: Thursday 22nd September 08:30*
+*Updated: Thursday 22nd September 09:30*
 
 **Glasgow**
 
-* 9h: :umbrella: Rainy
-* 10h: :cyclone: Windy (:cloud:)
-* 11h, 12h: :umbrella: Rainy
+* 10h: :cyclone: Windy (:cloud:) [:cloud: as of 10h]
+* 11h: :umbrella: Rainy
+* 12h: :umbrella: Rainy [:cloud: as of 10h]
 * 13h: :cloud: Cloudy
-* 14h - 20h: :partly_sunny: Partly Cloudy
+* 14h, 15h: :partly_sunny: Partly Cloudy
+* 16h - 19h: :partly_sunny: Partly Cloudy [:sunny: as of 10h]
+* 20h, 21h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 9h - 11h: :umbrella: Rainy
-* 12h: :cloud: Cloudy
-* 13h: :umbrella: Rainy
-* 14h - 19h: :cloud: Cloudy
-* 20h: :partly_sunny: Partly Cloudy
+* 10h: :umbrella: Rainy [:cloud: as of 10h]
+* 11h: :umbrella: Rainy
+* 12h: :cloud: Cloudy [:umbrella: as of 10h]
+* 13h: :umbrella: Rainy [:cloud: as of 10h]
+* 14h - 16h: :cloud: Cloudy
+* 17h, 18h: :cloud: Cloudy [:partly_sunny: as of 10h]
+* 19h: :cloud: Cloudy [:sunny: as of 10h]
+* 20h, 21h: :partly_sunny: Partly Cloudy
