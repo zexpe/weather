@@ -1,9 +1,9 @@
-*Updated: Tuesday 27th September 20:30*
+*Updated: Tuesday 27th September 21:30*
 
 **Glasgow**
 
-* 21h - 8h: :partly_sunny: Partly Cloudy
+* 22h - 9h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 21h - 8h: :partly_sunny: Partly Cloudy
+* 22h - 9h: :partly_sunny: Partly Cloudy
