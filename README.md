@@ -1,10 +1,11 @@
-*Updated: Wednesday 28th September 00:30*
+*Updated: Wednesday 28th September 01:30*
 
 **Glasgow**
 
-* 1h - 9h: :partly_sunny: Partly Cloudy
-* 10h - 12h: :cloud: Cloudy
+* 2h - 9h: :partly_sunny: Partly Cloudy
+* 10h - 13h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 1h - 12h: :partly_sunny: Partly Cloudy
+* 2h - 12h: :partly_sunny: Partly Cloudy
+* 13h: :cyclone: Windy (:partly_sunny:)
