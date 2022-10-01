@@ -1,8 +1,7 @@
-*Updated: Saturday 1st October 20:30*
+*Updated: Saturday 1st October 21:30*
 
 **Glasgow**
 
-* 21h: :cyclone: Windy (:partly_sunny:)
 * 22h: :cloud: Cloudy
 * 23h: :cyclone: Windy (:partly_sunny:) [:partly_sunny: as of 20h]
 * 0h: :cyclone: Windy (:partly_sunny:) [:partly_sunny: as of 21h]
@@ -11,10 +10,10 @@
 * 5h: :cloud: Cloudy
 * 6h: :partly_sunny: Partly Cloudy
 * 7h: :cloud: Cloudy
-* 8h: :partly_sunny: Partly Cloudy
+* 8h, 9h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 21h - 1h: :cyclone: Windy (:partly_sunny:)
+* 22h - 1h: :cyclone: Windy (:partly_sunny:)
 * 2h - 6h: :partly_sunny: Partly Cloudy
-* 7h, 8h: :cyclone: Windy (:partly_sunny:)
+* 7h - 9h: :cyclone: Windy (:partly_sunny:)
