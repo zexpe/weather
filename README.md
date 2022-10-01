@@ -1,11 +1,11 @@
-*Updated: Saturday 1st October 06:30*
+*Updated: Saturday 1st October 07:30*
 
 **Glasgow**
 
-* 7h: :umbrella: Rainy
 * 8h - 10h: :cyclone: Windy (:cloud:)
-* 11h - 18h: :cyclone: Windy (:partly_sunny:)
+* 11h - 19h: :cyclone: Windy (:partly_sunny:)
 
 **Edinburgh**
 
-* 7h - 18h: :cyclone: Windy (:partly_sunny:)
+* 8h - 18h: :cyclone: Windy (:partly_sunny:)
+* 19h: :cyclone: Windy (:sunny:)
