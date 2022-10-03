@@ -1,11 +1,13 @@
-*Updated: Monday 3rd October 05:30*
+*Updated: Monday 3rd October 06:30*
 
 **Glasgow**
 
-* 6h - 12h: :cloud: Cloudy
+* 7h - 12h: :cloud: Cloudy
 * 13h: :cyclone: Windy (:cloud:)
 * 14h - 17h: :cloud: Cloudy
+* 18h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 6h - 17h: :cloud: Cloudy
+* 7h - 17h: :cloud: Cloudy
+* 18h: :cyclone: Windy (:cloud:)
