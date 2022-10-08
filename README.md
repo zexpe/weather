@@ -1,11 +1,11 @@
-*Updated: Sunday 9th October 23:30*
+*Updated: Sunday 9th October 00:30*
 
 **Glasgow**
 
-* 0h - 4h: :cloud: Cloudy
-* 5h - 11h: :cyclone: Windy (:cloud:)
+* 1h - 4h: :cloud: Cloudy
+* 5h - 12h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 0h - 5h: :cloud: Cloudy
-* 6h - 11h: :cyclone: Windy (:cloud:)
+* 1h - 5h: :cloud: Cloudy
+* 6h - 12h: :cyclone: Windy (:cloud:)
