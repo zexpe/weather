@@ -1,13 +1,13 @@
-*Updated: Monday 10th October 02:30*
+*Updated: Monday 10th October 03:30*
 
 **Glasgow**
 
-* 3h - 11h: :partly_sunny: Partly Cloudy
-* 12h - 14h: :cyclone: Windy (:partly_sunny:)
+* 4h - 11h: :partly_sunny: Partly Cloudy
+* 12h - 15h: :cyclone: Windy (:partly_sunny:)
 
 **Edinburgh**
 
-* 3h - 7h: :sunny: Clear
+* 4h - 7h: :sunny: Clear
 * 8h - 12h: :partly_sunny: Partly Cloudy
 * 13h: :cyclone: Windy (:partly_sunny:)
-* 14h: :partly_sunny: Partly Cloudy
+* 14h, 15h: :partly_sunny: Partly Cloudy
