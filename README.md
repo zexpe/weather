@@ -1,13 +1,13 @@
-*Updated: Monday 10th October 21:30*
+*Updated: Monday 10th October 22:30*
 
 **Glasgow**
 
-* 22h - 7h: :partly_sunny: Partly Cloudy
+* 23h - 7h: :partly_sunny: Partly Cloudy
 * 8h: :umbrella: Rainy
 * 9h: :cloud: Cloudy
+* 10h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 22h: :cloud: Cloudy [:partly_sunny: as of 12h]
 * 23h - 7h: :partly_sunny: Partly Cloudy
-* 8h, 9h: :cloud: Cloudy
+* 8h - 10h: :cloud: Cloudy
