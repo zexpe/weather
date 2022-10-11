@@ -1,8 +1,7 @@
-*Updated: Tuesday 11th October 06:30*
+*Updated: Tuesday 11th October 07:30*
 
 **Glasgow**
 
-* 7h: :partly_sunny: Partly Cloudy
 * 8h: :umbrella: Rainy
 * 9h: :cloud: Cloudy
 * 10h: :umbrella: Rainy
@@ -11,11 +10,11 @@
 * 14h, 15h: :cloud: Cloudy
 * 16h: :partly_sunny: Partly Cloudy
 * 17h: :cloud: Cloudy
-* 18h: :umbrella: Rainy
+* 18h, 19h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 7h: :partly_sunny: Partly Cloudy
 * 8h - 12h: :cloud: Cloudy
 * 13h: :cyclone: Windy (:cloud:)
 * 14h - 18h: :cloud: Cloudy
+* 19h: :cyclone: Windy (:cloud:)
