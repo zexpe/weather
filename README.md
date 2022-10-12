@@ -1,11 +1,11 @@
-*Updated: Wednesday 12th October 21:30*
+*Updated: Wednesday 12th October 22:30*
 
 **Glasgow**
 
-* 22h - 1h: :sunny: Clear
-* 2h - 9h: :partly_sunny: Partly Cloudy
+* 23h - 1h: :sunny: Clear
+* 2h - 10h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 22h - 1h: :sunny: Clear
-* 2h - 9h: :partly_sunny: Partly Cloudy
+* 23h - 1h: :sunny: Clear
+* 2h - 10h: :partly_sunny: Partly Cloudy
