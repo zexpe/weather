@@ -1,11 +1,9 @@
-*Updated: Thursday 13th October 00:30*
+*Updated: Thursday 13th October 01:30*
 
 **Glasgow**
 
-* 1h: :sunny: Clear
-* 2h - 12h: :partly_sunny: Partly Cloudy
+* 2h - 13h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 1h: :sunny: Clear
-* 2h - 12h: :partly_sunny: Partly Cloudy
+* 2h - 13h: :partly_sunny: Partly Cloudy
