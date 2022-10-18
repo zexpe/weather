@@ -1,9 +1,9 @@
-*Updated: Tuesday 18th October 02:30*
+*Updated: Tuesday 18th October 03:30*
 
 **Glasgow**
 
-* 3h - 14h: :partly_sunny: Partly Cloudy
+* 4h - 15h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 3h - 14h: :partly_sunny: Partly Cloudy
+* 4h - 15h: :partly_sunny: Partly Cloudy
