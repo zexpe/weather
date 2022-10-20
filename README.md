@@ -1,10 +1,11 @@
-*Updated: Friday 21st October 23:30*
+*Updated: Friday 21st October 00:30*
 
 **Glasgow**
 
-* 0h - 10h: :cloud: Cloudy
-* 11h: :umbrella: Rainy
+* 1h - 10h: :cloud: Cloudy
+* 11h, 12h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 0h - 11h: :cloud: Cloudy
+* 1h - 11h: :cloud: Cloudy
+* 12h: :umbrella: Rainy
