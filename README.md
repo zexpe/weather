@@ -1,18 +1,17 @@
-*Updated: Sunday 23rd October 02:30*
+*Updated: Sunday 23rd October 03:30*
 
 **Glasgow**
 
-* 3h: :umbrella: Rainy
 * 4h - 9h: :cloud: Cloudy
 * 10h: :umbrella: Rainy
 * 11h: :cloud: Cloudy
 * 12h: :cyclone: Windy (:cloud:)
-* 13h, 14h: :umbrella: Rainy
+* 13h - 15h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 3h - 8h: :cloud: Cloudy
+* 4h - 8h: :cloud: Cloudy
 * 9h: :umbrella: Rainy
 * 10h, 11h: :cloud: Cloudy
 * 12h, 13h: :umbrella: Rainy
-* 14h: :cloud: Cloudy
+* 14h, 15h: :cloud: Cloudy
