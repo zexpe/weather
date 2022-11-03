@@ -1,10 +1,11 @@
-*Updated: Thursday 3rd November 18:30*
+*Updated: Thursday 3rd November 19:30*
 
 **Glasgow**
 
-* 19h - 6h: :sunny: Clear
+* 20h - 6h: :sunny: Clear
+* 7h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 19h - 5h: :sunny: Clear
-* 6h: :partly_sunny: Partly Cloudy
+* 20h - 5h: :sunny: Clear
+* 6h, 7h: :partly_sunny: Partly Cloudy
