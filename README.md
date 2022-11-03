@@ -1,11 +1,12 @@
-*Updated: Thursday 3rd November 22:30*
+*Updated: Friday 4th November 23:30*
 
 **Glasgow**
 
-* 23h - 6h: :sunny: Clear
-* 7h - 10h: :partly_sunny: Partly Cloudy
+* 0h - 6h: :sunny: Clear
+* 7h - 11h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 23h - 5h: :sunny: Clear
+* 0h - 5h: :sunny: Clear
 * 6h - 10h: :partly_sunny: Partly Cloudy
+* 11h: :cyclone: Windy (:partly_sunny:)
