@@ -1,15 +1,15 @@
-*Updated: Saturday 12th November 20:30*
+*Updated: Saturday 12th November 21:30*
 
 **Glasgow**
 
-* 21h - 4h: :cloud: Cloudy
+* 22h - 4h: :cloud: Cloudy
 * 5h: :umbrella: Rainy
 * 6h: :cloud: Cloudy
 * 7h: :partly_sunny: Partly Cloudy
-* 8h: :cloud: Cloudy
+* 8h, 9h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 21h - 0h: :partly_sunny: Partly Cloudy
+* 22h - 0h: :partly_sunny: Partly Cloudy
 * 1h - 6h: :sunny: Clear
-* 7h, 8h: :partly_sunny: Partly Cloudy
+* 7h - 9h: :partly_sunny: Partly Cloudy
