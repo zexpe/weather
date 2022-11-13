@@ -1,13 +1,13 @@
-*Updated: Sunday 13th November 20:30*
+*Updated: Sunday 13th November 21:30*
 
 **Glasgow**
 
-* 21h - 5h: :cloud: Cloudy
+* 22h - 5h: :cloud: Cloudy
 * 6h: :partly_sunny: Partly Cloudy
-* 7h, 8h: :cloud: Cloudy
+* 7h - 9h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 21h - 1h: :cloud: Cloudy
+* 22h - 1h: :cloud: Cloudy
 * 2h - 4h: :partly_sunny: Partly Cloudy
-* 5h - 8h: :cloud: Cloudy
+* 5h - 9h: :cloud: Cloudy
