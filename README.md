@@ -1,8 +1,7 @@
-*Updated: Friday 18th November 06:30*
+*Updated: Friday 18th November 07:30*
 
 **Glasgow**
 
-* 7h: :cloud: Cloudy
 * 8h, 9h: :umbrella: Rainy
 * 10h: :cloud: Cloudy
 * 11h: :umbrella: Rainy
@@ -12,10 +11,10 @@
 * 16h: :cloud: Cloudy
 * 17h: :umbrella: Rainy
 * 18h: :cyclone: Windy (:cloud:)
+* 19h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 7h: :cloud: Cloudy
 * 8h, 9h: :umbrella: Rainy
 * 10h: :cloud: Cloudy
 * 11h, 12h: :umbrella: Rainy
@@ -23,3 +22,4 @@
 * 14h, 15h: :umbrella: Rainy
 * 16h: :cloud: Cloudy
 * 17h, 18h: :umbrella: Rainy
+* 19h: :cloud: Cloudy
