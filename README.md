@@ -1,14 +1,14 @@
-*Updated: Friday 18th November 19:30*
+*Updated: Friday 18th November 20:30*
 
 **Glasgow**
 
-* 20h: :cloud: Cloudy [:partly_sunny: as of 10h]
 * 21h - 7h: :partly_sunny: Partly Cloudy
+* 8h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 20h - 1h: :cloud: Cloudy
+* 21h - 1h: :cloud: Cloudy
 * 2h: :umbrella: Rainy
 * 3h - 5h: :cloud: Cloudy
 * 6h: :umbrella: Rainy
-* 7h: :cloud: Cloudy
+* 7h, 8h: :cloud: Cloudy
