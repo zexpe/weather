@@ -1,8 +1,7 @@
-*Updated: Sunday 20th November 07:30*
+*Updated: Sunday 20th November 08:30*
 
 **Glasgow**
 
-* 8h: :cloud: Cloudy
 * 9h - 11h: :partly_sunny: Partly Cloudy
 * 12h: :cloud: Cloudy
 * 13h: :partly_sunny: Partly Cloudy
@@ -11,10 +10,11 @@
 * 17h: :cloud: Cloudy
 * 18h: :partly_sunny: Partly Cloudy
 * 19h: :umbrella: Rainy
+* 20h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 8h - 11h: :partly_sunny: Partly Cloudy
-* 12h: :cyclone: Windy (:partly_sunny:)
+* 9h - 11h: :partly_sunny: Partly Cloudy
+* 12h: :cyclone: Windy (:partly_sunny:) [:partly_sunny: as of 9h]
 * 13h - 18h: :partly_sunny: Partly Cloudy
-* 19h: :cloud: Cloudy
+* 19h, 20h: :cloud: Cloudy
