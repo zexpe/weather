@@ -1,8 +1,8 @@
-*Updated: Sunday 20th November 21:30*
+*Updated: Sunday 20th November 22:30*
 
 **Glasgow**
 
-* 22h - 1h: :cloud: Cloudy
+* 23h - 1h: :cloud: Cloudy
 * 2h: :umbrella: Rainy
 * 3h, 4h: :cloud: Cloudy
 * 5h: :umbrella: Rainy
@@ -10,7 +10,8 @@
 * 7h: :umbrella: Rainy
 * 8h: :cloud: Cloudy
 * 9h: :umbrella: Rainy
+* 10h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 22h - 9h: :cloud: Cloudy
+* 23h - 10h: :cloud: Cloudy
