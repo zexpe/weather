@@ -1,10 +1,10 @@
-*Updated: Monday 28th November 22:30*
+*Updated: Tuesday 29th November 23:30*
 
 **Glasgow**
 
-* 23h - 3h: :partly_sunny: Partly Cloudy
-* 4h - 10h: :cloud: Cloudy
+* 0h - 3h: :partly_sunny: Partly Cloudy
+* 4h - 11h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 23h - 10h: :cloud: Cloudy
+* 0h - 11h: :cloud: Cloudy
