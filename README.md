@@ -1,9 +1,9 @@
-*Updated: Tuesday 29th November 14:30*
+*Updated: Tuesday 29th November 15:30*
 
 **Glasgow**
 
-* 15h - 2h: :cloud: Cloudy
+* 16h - 3h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 15h - 2h: :cloud: Cloudy
+* 16h - 3h: :cloud: Cloudy
