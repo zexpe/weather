@@ -1,14 +1,15 @@
-*Updated: Wednesday 30th November 00:30*
+*Updated: Wednesday 30th November 01:30*
 
 **Glasgow**
 
-* 1h - 6h: :cloud: Cloudy
+* 2h - 6h: :cloud: Cloudy
 * 7h - 9h: :foggy: Foggy
 * 10h, 11h: :cloud: Cloudy
 * 12h: :umbrella: Rainy
+* 13h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 1h - 6h: :cloud: Cloudy
+* 2h - 6h: :cloud: Cloudy
 * 7h - 9h: :foggy: Foggy
-* 10h - 12h: :cloud: Cloudy
+* 10h - 13h: :cloud: Cloudy
