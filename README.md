@@ -1,10 +1,9 @@
-*Updated: Thursday 1st December 14:30*
+*Updated: Thursday 1st December 15:30*
 
 **Glasgow**
 
-* 15h: :umbrella: Rainy
-* 16h - 2h: :cloud: Cloudy
+* 16h - 3h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 15h - 2h: :cloud: Cloudy
+* 16h - 3h: :cloud: Cloudy
