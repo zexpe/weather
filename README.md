@@ -1,9 +1,9 @@
-*Updated: Friday 2nd December 16:30*
+*Updated: Friday 2nd December 17:30*
 
 **Glasgow**
 
-* 17h - 4h: :cloud: Cloudy
+* 18h - 5h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 17h - 4h: :cloud: Cloudy
+* 18h - 5h: :cloud: Cloudy
