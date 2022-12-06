@@ -1,12 +1,13 @@
-*Updated: Tuesday 6th December 20:30*
+*Updated: Tuesday 6th December 21:30*
 
 **Glasgow**
 
-* 21h - 23h: :partly_sunny: Partly Cloudy
-* 0h - 8h: :sunny: Clear
+* 22h, 23h: :partly_sunny: Partly Cloudy
+* 0h - 9h: :sunny: Clear
 
 **Edinburgh**
 
-* 21h - 1h: :partly_sunny: Partly Cloudy
+* 22h - 1h: :partly_sunny: Partly Cloudy
 * 2h, 3h: :sunny: Clear
 * 4h - 8h: :partly_sunny: Partly Cloudy
+* 9h: :sunny: Clear
