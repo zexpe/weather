@@ -1,9 +1,9 @@
-*Updated: Thursday 8th December 22:30*
+*Updated: Friday 9th December 23:30*
 
 **Glasgow**
 
-* 23h - 10h: :sunny: Clear
+* 0h - 11h: :sunny: Clear
 
 **Edinburgh**
 
-* 23h - 10h: :sunny: Clear
+* 0h - 11h: :sunny: Clear
