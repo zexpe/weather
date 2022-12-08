@@ -1,10 +1,10 @@
-*Updated: Thursday 8th December 16:30*
+*Updated: Thursday 8th December 17:30*
 
 **Glasgow**
 
-* 17h - 4h: :sunny: Clear
+* 18h - 5h: :sunny: Clear
 
 **Edinburgh**
 
-* 17h, 18h: :sunny: Clear [:partly_sunny: as of 10h]
-* 19h - 4h: :sunny: Clear
+* 18h: :sunny: Clear [:partly_sunny: as of 10h]
+* 19h - 5h: :sunny: Clear
