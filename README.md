@@ -1,11 +1,11 @@
-*Updated: Friday 9th December 07:30*
+*Updated: Friday 9th December 08:30*
 
 **Glasgow**
 
-* 8h - 18h: :sunny: Clear
-* 19h: :cloud: Cloudy
+* 9h - 18h: :sunny: Clear
+* 19h, 20h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 8h - 18h: :sunny: Clear
-* 19h: :cloud: Cloudy
+* 9h - 18h: :sunny: Clear
+* 19h, 20h: :cloud: Cloudy
