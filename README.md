@@ -1,9 +1,11 @@
-*Updated: Sunday 11th December 18:30*
+*Updated: Sunday 11th December 19:30*
 
 **Glasgow**
 
-* 19h - 6h: :sunny: Clear
+* 20h - 6h: :sunny: Clear
+* 7h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 19h - 6h: :sunny: Clear
+* 20h - 6h: :sunny: Clear
+* 7h: :cloud: Cloudy
