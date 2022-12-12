@@ -1,11 +1,11 @@
-*Updated: Monday 12th December 11:30*
+*Updated: Monday 12th December 12:30*
 
 **Glasgow**
 
-* 12h - 18h: :cloud: Cloudy
-* 19h - 23h: :partly_sunny: Partly Cloudy
+* 13h - 18h: :cloud: Cloudy
+* 19h - 0h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 12h - 18h: :cloud: Cloudy
-* 19h - 23h: :partly_sunny: Partly Cloudy
+* 13h - 18h: :cloud: Cloudy
+* 19h - 0h: :partly_sunny: Partly Cloudy
