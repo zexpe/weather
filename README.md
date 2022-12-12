@@ -1,11 +1,11 @@
-*Updated: Monday 12th December 03:30*
+*Updated: Monday 12th December 04:30*
 
 **Glasgow**
 
-* 4h - 6h: :sunny: Clear
-* 7h - 15h: :cloud: Cloudy
+* 5h, 6h: :sunny: Clear
+* 7h - 16h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 4h - 6h: :sunny: Clear
-* 7h - 15h: :cloud: Cloudy
+* 5h, 6h: :sunny: Clear
+* 7h - 16h: :cloud: Cloudy
