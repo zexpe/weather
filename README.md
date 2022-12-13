@@ -1,10 +1,10 @@
-*Updated: Tuesday 13th December 21:30*
+*Updated: Tuesday 13th December 22:30*
 
 **Glasgow**
 
-* 22h - 9h: :sunny: Clear
+* 23h - 10h: :sunny: Clear
 
 **Edinburgh**
 
-* 22h - 6h: :cloud: Cloudy
-* 7h - 9h: :sunny: Clear
+* 23h - 6h: :cloud: Cloudy
+* 7h - 10h: :sunny: Clear
