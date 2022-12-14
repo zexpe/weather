@@ -1,10 +1,11 @@
-*Updated: Wednesday 14th December 00:30*
+*Updated: Wednesday 14th December 01:30*
 
 **Glasgow**
 
-* 1h - 12h: :sunny: Clear
+* 2h - 13h: :sunny: Clear
 
 **Edinburgh**
 
-* 1h - 6h: :cloud: Cloudy
+* 2h - 6h: :cloud: Cloudy
 * 7h - 12h: :sunny: Clear
+* 13h: :cyclone: Windy (:sunny:)
