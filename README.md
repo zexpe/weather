@@ -1,11 +1,12 @@
-*Updated: Wednesday 14th December 08:30*
+*Updated: Wednesday 14th December 09:30*
 
 **Glasgow**
 
-* 9h - 20h: :sunny: Clear
+* 10h - 21h: :sunny: Clear
 
 **Edinburgh**
 
-* 9h - 12h: :sunny: Clear
-* 13h, 14h: :cyclone: Windy (:sunny:)
-* 15h - 20h: :sunny: Clear
+* 10h - 12h: :sunny: Clear
+* 13h, 14h: :cyclone: Windy (:sunny:) [:sunny: as of 10h]
+* 15h: :sunny: Clear [:cyclone:(:sunny:) as of 10h]
+* 16h - 21h: :sunny: Clear
