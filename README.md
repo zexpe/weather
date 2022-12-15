@@ -1,13 +1,13 @@
-*Updated: Thursday 15th December 23:30*
+*Updated: Thursday 15th December 00:30*
 
 **Glasgow**
 
-* 0h - 3h: :sunny: Clear
+* 1h - 3h: :sunny: Clear
 * 4h - 9h: :foggy: Foggy
-* 10h, 11h: :sunny: Clear
+* 10h - 12h: :sunny: Clear
 
 **Edinburgh**
 
-* 0h - 3h: :sunny: Clear
+* 1h - 3h: :sunny: Clear
 * 4h - 9h: :foggy: Foggy
-* 10h, 11h: :sunny: Clear
+* 10h - 12h: :sunny: Clear
