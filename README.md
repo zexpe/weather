@@ -1,21 +1,26 @@
-*Updated: Friday 16th December 08:30*
+*Updated: Friday 16th December 09:30*
 
 **Glasgow**
 
-* 9h: :cloud: Cloudy [:umbrella: as of 23h]
 * 10h: :snowman: Snowy
-* 11h: :cloud: Cloudy
+* 11h: :cloud: Cloudy [:cyclone:(:cloud:) as of 10h]
 * 12h: :cyclone: Windy (:cloud:)
-* 13h, 14h: :cloud: Cloudy
-* 15h, 16h: :snowman: Snowy
-* 17h: :cloud: Cloudy
-* 18h: :cyclone: Windy (:cloud:)
-* 19h, 20h: :cloud: Cloudy
+* 13h: :cloud: Cloudy [:cyclone:(:cloud:) as of 10h]
+* 14h: :cloud: Cloudy [:snowman: as of 10h]
+* 15h, 16h: :snowman: Snowy [:cyclone:(:cloud:) as of 10h]
+* 17h: :cloud: Cloudy [:umbrella: as of 10h]
+* 18h: :cyclone: Windy (:cloud:) [:snowman: as of 10h]
+* 19h, 20h: :cloud: Cloudy [:cyclone:(:cloud:) as of 10h]
+* 21h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 9h - 12h: :cloud: Cloudy
-* 13h, 14h: :snowman: Snowy
-* 15h - 17h: :cloud: Cloudy
+* 10h: :cloud: Cloudy
+* 11h, 12h: :cloud: Cloudy [:cyclone:(:cloud:) as of 10h]
+* 13h: :snowman: Snowy [:cyclone:(:cloud:) as of 10h]
+* 14h: :snowman: Snowy
+* 15h: :cloud: Cloudy [:snowman: as of 10h]
+* 16h, 17h: :cloud: Cloudy [:cyclone:(:cloud:) as of 10h]
 * 18h: :cyclone: Windy (:cloud:)
-* 19h, 20h: :cloud: Cloudy
+* 19h, 20h: :cloud: Cloudy [:cyclone:(:cloud:) as of 10h]
+* 21h: :cyclone: Windy (:cloud:)
