@@ -1,9 +1,10 @@
-*Updated: Saturday 17th December 21:30*
+*Updated: Saturday 17th December 22:30*
 
 **Glasgow**
 
-* 22h - 9h: :cloud: Cloudy
+* 23h - 9h: :cloud: Cloudy
+* 10h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 22h - 9h: :cloud: Cloudy
+* 23h - 10h: :cloud: Cloudy
