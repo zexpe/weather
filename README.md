@@ -1,14 +1,15 @@
-*Updated: Sunday 18th December 04:30*
+*Updated: Sunday 18th December 05:30*
 
 **Glasgow**
 
-* 5h - 9h: :cloud: Cloudy
-* 10h: :umbrella: Rainy
+* 6h - 9h: :cloud: Cloudy
+* 10h: :umbrella: Rainy [:cloud: as of 6h]
 * 11h - 15h: :cloud: Cloudy
-* 16h: :umbrella: Rainy
+* 16h, 17h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 5h - 13h: :cloud: Cloudy
+* 6h - 13h: :cloud: Cloudy
 * 14h: :umbrella: Rainy
 * 15h, 16h: :cloud: Cloudy
+* 17h: :umbrella: Rainy
