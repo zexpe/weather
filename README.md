@@ -1,9 +1,9 @@
-*Updated: Thursday 22nd December 07:30*
+*Updated: Thursday 22nd December 08:30*
 
 **Glasgow**
 
-* 8h - 19h: :cloud: Cloudy
+* 9h - 20h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 8h - 19h: :cloud: Cloudy
+* 9h - 20h: :cloud: Cloudy
