@@ -1,12 +1,12 @@
-*Updated: Saturday 24th December 03:30*
+*Updated: Saturday 24th December 04:30*
 
 **Glasgow**
 
-* 4h, 5h: :umbrella: Rainy
+* 5h: :umbrella: Rainy
 * 6h - 14h: :cloud: Cloudy
-* 15h: :cyclone: Windy (:cloud:)
+* 15h, 16h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 4h, 5h: :umbrella: Rainy
-* 6h - 15h: :cloud: Cloudy
+* 5h: :umbrella: Rainy
+* 6h - 16h: :cloud: Cloudy
