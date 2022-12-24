@@ -1,13 +1,15 @@
-*Updated: Saturday 24th December 07:30*
+*Updated: Saturday 24th December 08:30*
 
 **Glasgow**
 
-* 8h - 14h: :cloud: Cloudy
+* 9h - 14h: :cloud: Cloudy
 * 15h - 18h: :cyclone: Windy (:cloud:)
 * 19h: :cloud: Cloudy
+* 20h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 8h - 17h: :cloud: Cloudy
+* 9h - 17h: :cloud: Cloudy
 * 18h: :cyclone: Windy (:cloud:)
 * 19h: :umbrella: Rainy
+* 20h: :cyclone: Windy (:cloud:)
