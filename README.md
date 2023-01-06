@@ -1,12 +1,13 @@
-*Updated: Friday 6th January 23:30*
+*Updated: Friday 6th January 00:30*
 
 **Glasgow**
 
-* 0h - 2h: :cyclone: Windy (:cloud:)
+* 1h, 2h: :cyclone: Windy (:cloud:)
 * 3h: :cyclone: Windy (:partly_sunny:)
 * 4h - 11h: :cyclone: Windy (:cloud:)
+* 12h: :cyclone: Windy (:partly_sunny:)
 
 **Edinburgh**
 
-* 0h - 10h: :cyclone: Windy (:cloud:)
-* 11h: :cyclone: Windy (:partly_sunny:)
+* 1h - 10h: :cyclone: Windy (:cloud:)
+* 11h, 12h: :cyclone: Windy (:partly_sunny:)
