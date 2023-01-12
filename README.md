@@ -1,16 +1,18 @@
-*Updated: Thursday 12th January 00:30*
+*Updated: Thursday 12th January 01:30*
 
 **Glasgow**
 
-* 1h - 6h: :partly_sunny: Partly Cloudy
+* 2h - 6h: :partly_sunny: Partly Cloudy
 * 7h, 8h: :cloud: Cloudy
 * 9h - 11h: :umbrella: Rainy
 * 12h: :cyclone: Windy (:cloud:)
+* 13h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 1h - 4h: :partly_sunny: Partly Cloudy
-* 5h, 6h: :cyclone: Windy (:partly_sunny:)
+* 2h - 4h: :partly_sunny: Partly Cloudy
+* 5h: :cyclone: Windy (:partly_sunny:) [:partly_sunny: as of 2h]
+* 6h: :cyclone: Windy (:partly_sunny:)
 * 7h: :cyclone: Windy (:cloud:)
 * 8h, 9h: :cloud: Cloudy
-* 10h - 12h: :cyclone: Windy (:cloud:)
+* 10h - 13h: :cyclone: Windy (:cloud:)
