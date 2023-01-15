@@ -1,13 +1,13 @@
-*Updated: Sunday 15th January 06:30*
+*Updated: Sunday 15th January 07:30*
 
 **Glasgow**
 
-* 7h - 11h: :partly_sunny: Partly Cloudy
+* 8h - 11h: :partly_sunny: Partly Cloudy
 * 12h: :umbrella: Rainy
 * 13h - 18h: :cloud: Cloudy
+* 19h: :snowman: Snowy
 
 **Edinburgh**
 
-* 7h: :cyclone: Windy (:cloud:) [:cloud: as of 4h]
 * 8h - 10h: :partly_sunny: Partly Cloudy
-* 11h - 18h: :cloud: Cloudy
+* 11h - 19h: :cloud: Cloudy
