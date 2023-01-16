@@ -1,10 +1,10 @@
-*Updated: Monday 16th January 19:30*
+*Updated: Monday 16th January 20:30*
 
 **Glasgow**
 
-* 20h: :partly_sunny: Partly Cloudy [:sunny: as of 10h]
-* 21h - 7h: :sunny: Clear
+* 21h - 8h: :sunny: Clear
 
 **Edinburgh**
 
-* 20h - 7h: :sunny: Clear
+* 21h - 7h: :sunny: Clear
+* 8h: :cyclone: Windy (:sunny:)
