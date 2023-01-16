@@ -1,10 +1,11 @@
-*Updated: Monday 16th January 01:30*
+*Updated: Monday 16th January 02:30*
 
 **Glasgow**
 
-* 2h - 8h: :partly_sunny: Partly Cloudy
+* 3h - 8h: :partly_sunny: Partly Cloudy
 * 9h - 13h: :cloud: Cloudy
+* 14h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 2h - 13h: :partly_sunny: Partly Cloudy
+* 3h - 14h: :partly_sunny: Partly Cloudy
