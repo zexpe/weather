@@ -1,9 +1,11 @@
-*Updated: Friday 20th January 06:30*
+*Updated: Friday 20th January 07:30*
 
 **Glasgow**
 
-* 7h - 18h: :cloud: Cloudy
+* 8h - 18h: :cloud: Cloudy
+* 19h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 7h - 18h: :cloud: Cloudy
+* 8h - 18h: :cloud: Cloudy
+* 19h: :sunny: Clear
