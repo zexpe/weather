@@ -1,12 +1,12 @@
-*Updated: Saturday 21st January 06:30*
+*Updated: Saturday 21st January 07:30*
 
 **Glasgow**
 
-* 7h: :umbrella: Rainy
 * 8h - 11h: :cloud: Cloudy
 * 12h - 17h: :cyclone: Windy (:cloud:)
 * 18h: :umbrella: Rainy
+* 19h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 7h - 18h: :cloud: Cloudy
+* 8h - 19h: :cloud: Cloudy
