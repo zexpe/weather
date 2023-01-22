@@ -1,11 +1,13 @@
-*Updated: Sunday 22nd January 21:30*
+*Updated: Sunday 22nd January 22:30*
 
 **Glasgow**
 
-* 22h - 4h: :cloud: Cloudy
+* 23h - 4h: :cloud: Cloudy
 * 5h: :umbrella: Rainy
 * 6h - 9h: :cloud: Cloudy
+* 10h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 22h - 9h: :cloud: Cloudy
+* 23h - 9h: :cloud: Cloudy
+* 10h: :umbrella: Rainy
