@@ -1,14 +1,15 @@
-*Updated: Monday 23rd January 23:30*
+*Updated: Monday 23rd January 00:30*
 
 **Glasgow**
 
-* 0h - 4h: :cloud: Cloudy
+* 1h - 4h: :cloud: Cloudy
 * 5h: :umbrella: Rainy
 * 6h - 9h: :cloud: Cloudy
 * 10h: :umbrella: Rainy
-* 11h: :cloud: Cloudy
+* 11h, 12h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 0h - 9h: :cloud: Cloudy
+* 1h - 9h: :cloud: Cloudy
 * 10h, 11h: :umbrella: Rainy
+* 12h: :cloud: Cloudy
