@@ -1,9 +1,11 @@
-*Updated: Tuesday 24th January 00:30*
+*Updated: Tuesday 24th January 01:30*
 
 **Glasgow**
 
-* 1h - 12h: :cloud: Cloudy
+* 2h - 12h: :cloud: Cloudy
+* 13h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 1h - 12h: :cloud: Cloudy
+* 2h - 12h: :cloud: Cloudy
+* 13h: :cyclone: Windy (:cloud:)
