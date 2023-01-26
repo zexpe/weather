@@ -1,10 +1,11 @@
-*Updated: Thursday 26th January 00:30*
+*Updated: Thursday 26th January 01:30*
 
 **Glasgow**
 
-* 1h - 10h: :sunny: Clear
-* 11h, 12h: :partly_sunny: Partly Cloudy
+* 2h - 10h: :sunny: Clear
+* 11h - 13h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 1h - 12h: :sunny: Clear
+* 2h - 12h: :sunny: Clear
+* 13h: :partly_sunny: Partly Cloudy
