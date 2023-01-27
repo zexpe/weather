@@ -1,13 +1,13 @@
-*Updated: Friday 27th January 22:30*
+*Updated: Saturday 28th January 23:30*
 
 **Glasgow**
 
-* 23h, 0h: :cloud: Cloudy
+* 0h: :cloud: Cloudy
 * 1h: :umbrella: Rainy
-* 2h - 10h: :cloud: Cloudy
+* 2h - 11h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 23h - 5h: :cloud: Cloudy
+* 0h - 5h: :cloud: Cloudy
 * 6h: :umbrella: Rainy
-* 7h - 10h: :cloud: Cloudy
+* 7h - 11h: :cloud: Cloudy
