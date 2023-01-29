@@ -1,8 +1,7 @@
-*Updated: Sunday 29th January 20:30*
+*Updated: Sunday 29th January 21:30*
 
 **Glasgow**
 
-* 21h: :umbrella: Rainy
 * 22h: :cyclone: Windy (:partly_sunny:)
 * 23h: :cloud: Cloudy
 * 0h: :cyclone: Windy (:partly_sunny:)
@@ -10,8 +9,10 @@
 * 2h - 5h: :cyclone: Windy (:partly_sunny:)
 * 6h: :cloud: Cloudy
 * 7h, 8h: :partly_sunny: Partly Cloudy
+* 9h: :cyclone: Windy (:partly_sunny:)
 
 **Edinburgh**
 
-* 21h - 6h: :cyclone: Windy (:partly_sunny:)
+* 22h - 6h: :cyclone: Windy (:partly_sunny:)
 * 7h, 8h: :sunny: Clear
+* 9h: :cyclone: Windy (:sunny:)
