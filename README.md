@@ -1,11 +1,11 @@
-*Updated: Monday 6th February 04:30*
+*Updated: Monday 6th February 05:30*
 
 **Glasgow**
 
-* 5h - 10h: :cloud: Cloudy
-* 11h - 16h: :cyclone: Windy (:cloud:)
+* 6h - 10h: :cloud: Cloudy
+* 11h - 17h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 5h - 11h: :cloud: Cloudy
-* 12h - 16h: :cyclone: Windy (:cloud:)
+* 6h - 11h: :cloud: Cloudy
+* 12h - 17h: :cyclone: Windy (:cloud:)
