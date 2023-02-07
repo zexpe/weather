@@ -1,11 +1,12 @@
-*Updated: Tuesday 7th February 20:30*
+*Updated: Tuesday 7th February 21:30*
 
 **Glasgow**
 
-* 21h - 0h: :cloud: Cloudy
-* 1h - 8h: :cyclone: Windy (:cloud:)
+* 22h - 0h: :cloud: Cloudy
+* 1h: :cyclone: Windy (:cloud:) [:cloud: as of 22h]
+* 2h - 9h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 21h - 0h: :cloud: Cloudy
-* 1h - 8h: :cyclone: Windy (:cloud:)
+* 22h - 0h: :cloud: Cloudy
+* 1h - 9h: :cyclone: Windy (:cloud:)
