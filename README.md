@@ -1,9 +1,9 @@
-*Updated: Friday 10th February 19:30*
+*Updated: Friday 10th February 20:30*
 
 **Glasgow**
 
-* 20h - 7h: :cyclone: Windy (:cloud:)
+* 21h - 8h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 20h - 7h: :cyclone: Windy (:cloud:)
+* 21h - 8h: :cyclone: Windy (:cloud:)
