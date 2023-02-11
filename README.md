@@ -1,11 +1,12 @@
-*Updated: Saturday 11th February 23:30*
+*Updated: Saturday 11th February 00:30*
 
 **Glasgow**
 
-* 0h - 9h: :cyclone: Windy (:cloud:)
+* 1h - 9h: :cyclone: Windy (:cloud:)
 * 10h: :umbrella: Rainy
 * 11h: :cyclone: Windy (:cloud:)
+* 12h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 0h - 11h: :cyclone: Windy (:cloud:)
+* 1h - 12h: :cyclone: Windy (:cloud:)
