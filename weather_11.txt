@@ -1,38 +1,43 @@
 Glasgow
-12h Cloudy                    Cloud:  94%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 29.6 kph, Gust: 53.7 kph, Vis: 16.1 km
-13h Cloudy                    Cloud:  94%, Precipitation:  37%, Rain:  37%, Snow:   0%, Wind: 29.6 kph, Gust: 53.7 kph, Vis: 16.1 km
-14h Cloudy                    Cloud:  94%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 27.8 kph, Gust: 53.7 kph, Vis: 16.1 km
-15h Showers                   Cloud:  94%, Precipitation:  44%, Rain:  44%, Snow:   0%, Wind: 27.8 kph, Gust: 53.7 kph, Vis: 16.1 km
-16h Cloudy                    Cloud:  94%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 25.9 kph, Gust: 51.9 kph, Vis: 16.1 km
-17h Cloudy                    Cloud:  94%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 24.1 kph, Gust: 50.0 kph, Vis: 16.1 km
-18h Showers                   Cloud:  94%, Precipitation:  44%, Rain:  44%, Snow:   0%, Wind: 24.1 kph, Gust: 48.2 kph, Vis: 16.1 km
-19h Cloudy                    Cloud:  94%, Precipitation:   4%, Rain:   4%, Snow:   0%, Wind: 22.2 kph, Gust: 46.3 kph, Vis: 16.1 km
-20h Cloudy                    Cloud:  94%, Precipitation:   1%, Rain:   1%, Snow:   0%, Wind: 22.2 kph, Gust: 44.4 kph, Vis: 16.1 km
-21h Cloudy                    Cloud:  94%, Precipitation:   1%, Rain:   1%, Snow:   0%, Wind: 20.4 kph, Gust: 42.6 kph, Vis: 16.1 km
-22h Cloudy                    Cloud:  94%, Precipitation:   1%, Rain:   1%, Snow:   0%, Wind: 20.4 kph, Gust: 42.6 kph, Vis: 16.1 km
-23h Cloudy                    Cloud:  94%, Precipitation:   1%, Rain:   1%, Snow:   0%, Wind: 20.4 kph, Gust: 40.7 kph, Vis: 16.1 km
-Weather forecast for Friday 10th February:
-12h - 14h: :kite: Windy (:cloud:)
-15h: :umbrella: Rainy
-16h, 17h: :kite: Windy (:cloud:)
-18h: :umbrella: Rainy
-19h - 23h: :kite: Windy (:cloud:)
+12h Showers                   Cloud:  94%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 20.4 kph, Gust: 38.9 kph, Vis: 16.1 km
+13h Cloudy                    Cloud:  94%, Precipitation:  33%, Rain:  33%, Snow:   0%, Wind: 20.4 kph, Gust: 37.0 kph, Vis: 16.1 km
+14h Showers                   Cloud:  94%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 18.5 kph, Gust: 37.0 kph, Vis: 16.1 km
+15h Cloudy                    Cloud:  94%, Precipitation:  36%, Rain:  36%, Snow:   0%, Wind: 18.5 kph, Gust: 35.2 kph, Vis: 16.1 km
+16h Cloudy                    Cloud:  94%, Precipitation:  36%, Rain:  36%, Snow:   0%, Wind: 16.7 kph, Gust: 31.5 kph, Vis: 16.1 km
+17h Showers                   Cloud:  94%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 14.8 kph, Gust: 29.6 kph, Vis: 16.1 km
+18h Cloudy                    Cloud:  94%, Precipitation:  36%, Rain:  36%, Snow:   0%, Wind: 14.8 kph, Gust: 25.9 kph, Vis: 16.1 km
+19h Cloudy                    Cloud:  94%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 25.9 kph, Vis: 16.1 km
+20h Cloudy                    Cloud:  94%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 25.9 kph, Vis: 16.1 km
+21h Cloudy                    Cloud:  94%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 25.9 kph, Vis: 16.1 km
+22h Cloudy                    Cloud:  94%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 25.9 kph, Vis: 16.1 km
+23h Cloudy                    Cloud:  93%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 24.1 kph, Vis: 16.1 km
+Weather forecast for Saturday 11th February:
+12h: :umbrella: Rainy
+13h: :kite: Windy (:cloud:)
+14h: :umbrella: Rainy
+15h, 16h: :kite: Windy (:cloud:)
+17h: :umbrella: Rainy
+18h, 19h: :cloud: Cloudy
+20h: :white_sun_small_cloud: Partly Cloudy [:cloud: as of 10h]
+21h - 23h: :cloud: Cloudy
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
 Edinburgh
-12h Cloudy                    Cloud:  94%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 27.8 kph, Gust: 51.9 kph, Vis: 16.1 km
-13h Cloudy                    Cloud:  94%, Precipitation:   1%, Rain:   1%, Snow:   0%, Wind: 25.9 kph, Gust: 51.9 kph, Vis: 16.1 km
-14h Cloudy                    Cloud:  94%, Precipitation:   1%, Rain:   1%, Snow:   0%, Wind: 25.9 kph, Gust: 51.9 kph, Vis: 16.1 km
-15h Cloudy                    Cloud:  94%, Precipitation:   1%, Rain:   1%, Snow:   0%, Wind: 25.9 kph, Gust: 51.9 kph, Vis: 16.1 km
-16h Cloudy                    Cloud:  94%, Precipitation:   1%, Rain:   1%, Snow:   0%, Wind: 25.9 kph, Gust: 53.7 kph, Vis: 16.1 km
-17h Cloudy                    Cloud:  94%, Precipitation:   1%, Rain:   1%, Snow:   0%, Wind: 25.9 kph, Gust: 51.9 kph, Vis: 16.1 km
-18h Cloudy                    Cloud:  94%, Precipitation:   1%, Rain:   1%, Snow:   0%, Wind: 24.1 kph, Gust: 51.9 kph, Vis: 16.1 km
-19h Cloudy                    Cloud:  94%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 24.1 kph, Gust: 51.9 kph, Vis: 16.1 km
-20h Cloudy                    Cloud:  94%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 24.1 kph, Gust: 50.0 kph, Vis: 16.1 km
-21h Cloudy                    Cloud:  94%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 24.1 kph, Gust: 50.0 kph, Vis: 16.1 km
-22h Cloudy                    Cloud:  94%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 24.1 kph, Gust: 50.0 kph, Vis: 16.1 km
-23h Cloudy                    Cloud:  94%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 24.1 kph, Gust: 50.0 kph, Vis: 16.1 km
-Weather forecast for Friday 10th February:
-12h - 23h: :kite: Windy (:cloud:)
+12h Mostly cloudy             Cloud:  75%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 22.2 kph, Gust: 40.7 kph, Vis: 16.1 km
+13h Mostly cloudy             Cloud:  83%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 20.4 kph, Gust: 40.7 kph, Vis: 16.1 km
+14h Cloudy                    Cloud:  91%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 18.5 kph, Gust: 38.9 kph, Vis: 16.1 km
+15h Cloudy                    Cloud:  99%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 18.5 kph, Gust: 37.0 kph, Vis: 16.1 km
+16h Cloudy                    Cloud:  97%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 16.7 kph, Gust: 35.2 kph, Vis: 16.1 km
+17h Cloudy                    Cloud:  96%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 16.7 kph, Gust: 33.3 kph, Vis: 16.1 km
+18h Cloudy                    Cloud:  94%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 14.8 kph, Gust: 31.5 kph, Vis: 16.1 km
+19h Cloudy                    Cloud:  94%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 29.6 kph, Vis: 16.1 km
+20h Cloudy                    Cloud:  94%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 27.8 kph, Vis: 16.1 km
+21h Cloudy                    Cloud:  94%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis: 16.1 km
+22h Cloudy                    Cloud:  94%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis: 16.1 km
+23h Cloudy                    Cloud:  93%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis: 16.1 km
+Weather forecast for Saturday 11th February:
+12h - 17h: :kite: Windy (:cloud:)
+18h: :cloud: Cloudy [:kite:(:cloud:) as of 10h]
+19h - 23h: :cloud: Cloudy
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
