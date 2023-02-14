@@ -1,11 +1,12 @@
-*Updated: Tuesday 14th February 00:30*
+*Updated: Tuesday 14th February 01:30*
 
 **Glasgow**
 
-* 1h - 5h: :cloud: Cloudy
+* 2h - 5h: :cloud: Cloudy
 * 6h - 10h: :partly_sunny: Partly Cloudy
-* 11h, 12h: :cloud: Cloudy
+* 11h - 13h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 1h - 12h: :partly_sunny: Partly Cloudy
+* 2h - 12h: :partly_sunny: Partly Cloudy
+* 13h: :cloud: Cloudy
