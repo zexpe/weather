@@ -1,8 +1,7 @@
-*Updated: Friday 17th February 16:30*
+*Updated: Friday 17th February 17:30*
 
 **Glasgow**
 
-* 17h: :umbrella: Rainy
 * 18h: :cyclone: Windy (:cloud:)
 * 19h: :umbrella: Rainy [:cyclone:(:cloud:) as of 9h]
 * 20h - 22h: :umbrella: Rainy
@@ -10,10 +9,12 @@
 * 0h - 2h: :umbrella: Rainy
 * 3h: :cloud: Cloudy
 * 4h: :umbrella: Rainy
+* 5h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 17h - 20h: :cyclone: Windy (:cloud:)
+* 18h - 20h: :cyclone: Windy (:cloud:)
 * 21h - 2h: :umbrella: Rainy
 * 3h: :cloud: Cloudy
 * 4h: :umbrella: Rainy
+* 5h: :cloud: Cloudy
