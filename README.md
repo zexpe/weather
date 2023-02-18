@@ -1,8 +1,7 @@
-*Updated: Saturday 18th February 01:30*
+*Updated: Saturday 18th February 02:30*
 
 **Glasgow**
 
-* 2h: :umbrella: Rainy
 * 3h: :cloud: Cloudy
 * 4h: :umbrella: Rainy
 * 5h: :cloud: Cloudy
@@ -13,10 +12,10 @@
 * 11h: :umbrella: Rainy
 * 12h: :cyclone: Windy (:cloud:)
 * 13h: :umbrella: Rainy
+* 14h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 2h: :umbrella: Rainy
 * 3h: :cloud: Cloudy
 * 4h: :umbrella: Rainy
 * 5h, 6h: :cloud: Cloudy
@@ -24,3 +23,4 @@
 * 8h: :cloud: Cloudy
 * 9h: :umbrella: Rainy
 * 10h - 13h: :cloud: Cloudy
+* 14h: :umbrella: Rainy
