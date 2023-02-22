@@ -1,11 +1,9 @@
-*Updated: Wednesday 22nd February 17:30*
+*Updated: Wednesday 22nd February 18:30*
 
 **Glasgow**
 
-* 18h: :sunny: Clear [:partly_sunny: as of 10h]
-* 19h - 5h: :sunny: Clear
+* 19h - 6h: :sunny: Clear
 
 **Edinburgh**
 
-* 18h: :sunny: Clear [:partly_sunny: as of 10h]
-* 19h - 5h: :sunny: Clear
+* 19h - 6h: :sunny: Clear
