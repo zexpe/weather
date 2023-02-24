@@ -1,10 +1,11 @@
-*Updated: Friday 24th February 18:30*
+*Updated: Friday 24th February 19:30*
 
 **Glasgow**
 
-* 19h - 6h: :sunny: Clear
+* 20h - 6h: :sunny: Clear
+* 7h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 19h: :partly_sunny: Partly Cloudy [:sunny: as of 10h]
 * 20h - 6h: :sunny: Clear
+* 7h: :cloud: Cloudy
