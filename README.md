@@ -1,10 +1,9 @@
-*Updated: Saturday 25th February 17:30*
+*Updated: Saturday 25th February 18:30*
 
 **Glasgow**
 
-* 18h: :cloud: Cloudy
-* 19h - 5h: :sunny: Clear
+* 19h - 6h: :sunny: Clear
 
 **Edinburgh**
 
-* 18h - 5h: :cloud: Cloudy
+* 19h - 6h: :cloud: Cloudy
