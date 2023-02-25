@@ -1,12 +1,12 @@
-*Updated: Saturday 25th February 23:30*
+*Updated: Saturday 25th February 00:30*
 
 **Glasgow**
 
-* 0h - 6h: :sunny: Clear
-* 7h - 11h: :cloud: Cloudy
+* 1h - 6h: :sunny: Clear
+* 7h - 12h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 0h - 6h: :sunny: Clear
+* 1h - 6h: :sunny: Clear
 * 7h - 9h: :cloud: Cloudy
-* 10h, 11h: :cyclone: Windy (:cloud:)
+* 10h - 12h: :cyclone: Windy (:cloud:)
