@@ -1,9 +1,9 @@
-*Updated: Sunday 26th February 02:30*
+*Updated: Sunday 26th February 03:30*
 
 **Glasgow**
 
-* 3h - 14h: :sunny: Clear
+* 4h - 15h: :sunny: Clear
 
 **Edinburgh**
 
-* 3h - 14h: :cloud: Cloudy
+* 4h - 15h: :cloud: Cloudy
