@@ -1,10 +1,10 @@
-*Updated: Monday 27th February 02:30*
+*Updated: Monday 27th February 03:30*
 
 **Glasgow**
 
-* 3h - 6h: :cloud: Cloudy
-* 7h - 14h: :sunny: Clear
+* 4h - 6h: :cloud: Cloudy
+* 7h - 15h: :sunny: Clear
 
 **Edinburgh**
 
-* 3h - 14h: :cloud: Cloudy
+* 4h - 15h: :cloud: Cloudy
