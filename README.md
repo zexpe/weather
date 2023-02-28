@@ -1,9 +1,9 @@
-*Updated: Tuesday 28th February 04:30*
+*Updated: Tuesday 28th February 05:30*
 
 **Glasgow**
 
-* 5h - 16h: :cloud: Cloudy
+* 6h - 17h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 5h - 16h: :cloud: Cloudy
+* 6h - 17h: :cloud: Cloudy
