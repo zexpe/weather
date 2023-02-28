@@ -1,14 +1,13 @@
-*Updated: Tuesday 28th February 17:30*
+*Updated: Tuesday 28th February 18:30*
 
 **Glasgow**
 
-* 18h - 4h: :cloud: Cloudy
-* 5h: :partly_sunny: Partly Cloudy
+* 19h - 4h: :cloud: Cloudy
+* 5h, 6h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 18h: :cloud: Cloudy
-* 19h: :umbrella: Rainy
+* 19h: :umbrella: Rainy [:cloud: as of 19h]
 * 20h - 2h: :cloud: Cloudy
-* 3h: :umbrella: Rainy
-* 4h, 5h: :cloud: Cloudy
+* 3h: :umbrella: Rainy [:cloud: as of 19h]
+* 4h - 6h: :cloud: Cloudy
