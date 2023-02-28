@@ -1,11 +1,11 @@
-*Updated: Tuesday 28th February 09:30*
+*Updated: Tuesday 28th February 10:30*
 
 **Glasgow**
 
-* 10h - 21h: :cloud: Cloudy
+* 11h - 22h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 10h - 18h: :cloud: Cloudy
+* 11h - 18h: :cloud: Cloudy
 * 19h: :umbrella: Rainy
-* 20h, 21h: :cloud: Cloudy
+* 20h - 22h: :cloud: Cloudy
