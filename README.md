@@ -1,11 +1,11 @@
-*Updated: Thursday 2nd March 15:30*
+*Updated: Thursday 2nd March 16:30*
 
 **Glasgow**
 
-* 16h - 3h: :cloud: Cloudy
+* 17h - 4h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 16h - 18h: :cloud: Cloudy
+* 17h, 18h: :cloud: Cloudy
 * 19h: :cloud: Cloudy [:umbrella: as of 9h, :cloud: as of 10h]
-* 20h - 3h: :cloud: Cloudy
+* 20h - 4h: :cloud: Cloudy
