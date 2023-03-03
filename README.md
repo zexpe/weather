@@ -1,9 +1,9 @@
-*Updated: Friday 3rd March 14:30*
+*Updated: Friday 3rd March 15:30*
 
 **Glasgow**
 
-* 15h - 2h: :cloud: Cloudy
+* 16h - 3h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 15h - 2h: :cloud: Cloudy
+* 16h - 3h: :cloud: Cloudy
