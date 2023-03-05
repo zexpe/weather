@@ -1,11 +1,10 @@
-*Updated: Sunday 5th March 16:30*
+*Updated: Sunday 5th March 17:30*
 
 **Glasgow**
 
-* 17h: :cloud: Cloudy [:partly_sunny: as of 10h]
 * 18h: :umbrella: Rainy [:partly_sunny: as of 10h]
-* 19h - 4h: :cloud: Cloudy
+* 19h - 5h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 17h - 4h: :cloud: Cloudy
+* 18h - 5h: :cloud: Cloudy
