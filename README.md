@@ -1,10 +1,9 @@
-*Updated: Tuesday 7th March 20:30*
+*Updated: Tuesday 7th March 21:30*
 
 **Glasgow**
 
-* 21h: :partly_sunny: Partly Cloudy
-* 22h - 8h: :sunny: Clear
+* 22h - 9h: :sunny: Clear
 
 **Edinburgh**
 
-* 21h - 8h: :sunny: Clear
+* 22h - 9h: :sunny: Clear
