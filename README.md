@@ -1,9 +1,10 @@
-*Updated: Wednesday 8th March 06:30*
+*Updated: Wednesday 8th March 07:30*
 
 **Glasgow**
 
-* 7h - 18h: :sunny: Clear
+* 8h - 19h: :sunny: Clear
 
 **Edinburgh**
 
-* 7h - 18h: :sunny: Clear
+* 8h - 18h: :sunny: Clear
+* 19h: :cloud: Cloudy
