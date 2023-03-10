@@ -1,12 +1,12 @@
-*Updated: Friday 10th March 04:30*
+*Updated: Friday 10th March 05:30*
 
 **Glasgow**
 
-* 5h - 7h: :cloud: Cloudy
-* 8h - 16h: :partly_sunny: Partly Cloudy
+* 6h, 7h: :cloud: Cloudy
+* 8h - 17h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 5h - 8h: :cloud: Cloudy
+* 6h - 8h: :cloud: Cloudy
 * 9h, 10h: :snowman: Snowy
-* 11h - 16h: :cloud: Cloudy
+* 11h - 17h: :cloud: Cloudy
