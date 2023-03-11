@@ -1,11 +1,11 @@
-*Updated: Saturday 11th March 02:30*
+*Updated: Saturday 11th March 03:30*
 
 **Glasgow**
 
-* 3h - 6h: :partly_sunny: Partly Cloudy
-* 7h - 14h: :cloud: Cloudy
+* 4h - 6h: :partly_sunny: Partly Cloudy
+* 7h - 15h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 3h - 12h: :partly_sunny: Partly Cloudy
-* 13h, 14h: :cloud: Cloudy
+* 4h - 12h: :partly_sunny: Partly Cloudy
+* 13h - 15h: :cloud: Cloudy
