@@ -1,10 +1,11 @@
-*Updated: Sunday 12th March 20:30*
+*Updated: Sunday 12th March 21:30*
 
 **Glasgow**
 
-* 21h - 8h: :umbrella: Rainy
+* 22h - 9h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 21h - 6h: :umbrella: Rainy
+* 22h - 6h: :umbrella: Rainy
 * 7h, 8h: :cyclone: Windy (:cloud:)
+* 9h: :umbrella: Rainy
