@@ -1,46 +1,48 @@
 Glasgow
- 9h Rain                      Cloud: 100%, Precipitation:  73%, Rain:  73%, Snow:   0%, Wind: 25.9 kph, Gust: 51.9 kph, Vis:  9.7 km
-10h Rain                      Cloud:  99%, Precipitation:  73%, Rain:  73%, Snow:   0%, Wind: 24.1 kph, Gust: 48.2 kph, Vis:  9.7 km
-11h Rain                      Cloud:  99%, Precipitation:  73%, Rain:  73%, Snow:   0%, Wind: 22.2 kph, Gust: 44.4 kph, Vis:  9.7 km
-12h Rain                      Cloud:  99%, Precipitation:  73%, Rain:  73%, Snow:   0%, Wind: 20.4 kph, Gust: 44.4 kph, Vis:  9.7 km
-13h Rain                      Cloud:  99%, Precipitation:  76%, Rain:  76%, Snow:   0%, Wind: 20.4 kph, Gust: 37.0 kph, Vis:  9.7 km
-14h Rain                      Cloud:  99%, Precipitation:  76%, Rain:  76%, Snow:   0%, Wind: 20.4 kph, Gust: 37.0 kph, Vis:  9.7 km
-15h Rain                      Cloud: 100%, Precipitation:  76%, Rain:  76%, Snow:   0%, Wind: 22.2 kph, Gust: 51.9 kph, Vis:  9.7 km
-16h Rain                      Cloud: 100%, Precipitation:  75%, Rain:  75%, Snow:   0%, Wind: 22.2 kph, Gust: 46.3 kph, Vis:  9.7 km
-17h Rain                      Cloud: 100%, Precipitation:  75%, Rain:  75%, Snow:   0%, Wind: 24.1 kph, Gust: 42.6 kph, Vis:  9.7 km
-18h Rain                      Cloud: 100%, Precipitation:  75%, Rain:  75%, Snow:   0%, Wind: 24.1 kph, Gust: 37.0 kph, Vis:  9.7 km
-19h Cloudy                    Cloud: 100%, Precipitation:  49%, Rain:  47%, Snow:  34%, Wind: 18.5 kph, Gust: 35.2 kph, Vis: 16.1 km
-20h Rain                      Cloud: 100%, Precipitation:  56%, Rain:  52%, Snow:  37%, Wind: 11.1 kph, Gust: 29.6 kph, Vis: 11.3 km
-Weather forecast for Monday 13th March:
-9h - 13h: :umbrella: Rainy
-14h: :kite: Windy (:cloud:) [:umbrella: as of 9h]
-15h - 18h: :umbrella: Rainy
-19h: :umbrella: Rainy [:kite:(:cloud:) as of 9h]
-20h: :umbrella: Rainy
+ 9h Cloudy                    Cloud: 100%, Precipitation:  15%, Rain:  21%, Snow:  21%, Wind: 14.8 kph, Gust: 31.5 kph, Vis: 16.1 km
+10h Cloudy                    Cloud: 100%, Precipitation:  43%, Rain:  34%, Snow:  34%, Wind: 14.8 kph, Gust: 27.8 kph, Vis: 16.1 km
+11h Cloudy                    Cloud: 100%, Precipitation:  47%, Rain:  37%, Snow:  37%, Wind: 14.8 kph, Gust: 25.9 kph, Vis: 16.1 km
+12h Rain and snow             Cloud: 100%, Precipitation:  51%, Rain:  41%, Snow:  41%, Wind: 14.8 kph, Gust: 22.2 kph, Vis: 16.1 km
+13h Mostly cloudy             Cloud:  77%, Precipitation:  25%, Rain:  25%, Snow:   0%, Wind: 14.8 kph, Gust: 20.4 kph, Vis: 16.1 km
+14h Intermittent clouds       Cloud:  55%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 16.7 kph, Gust: 18.5 kph, Vis: 16.1 km
+15h Partly sunny              Cloud:  32%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 16.7 kph, Gust: 18.5 kph, Vis: 16.1 km
+16h Mostly sunny              Cloud:  24%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 13.0 kph, Gust: 16.7 kph, Vis: 16.1 km
+17h Mostly sunny              Cloud:  16%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind:  7.4 kph, Gust: 18.5 kph, Vis: 16.1 km
+18h Sunny                     Cloud:   7%, Precipitation:  13%, Rain:  13%, Snow:   0%, Wind:  3.7 kph, Gust:  9.3 kph, Vis: 16.1 km
+19h Clear                     Cloud:   5%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  5.6 kph, Gust: 11.1 kph, Vis: 16.1 km
+20h Clear                     Cloud:   2%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  5.6 kph, Gust: 14.8 kph, Vis: 16.1 km
+Weather forecast for Tuesday 14th March:
+9h: :white_sun_small_cloud: Partly Cloudy [:kite:(:cloud:) as of 9h]
+10h: :snowman2: Snowy [:cloud: as of 9h]
+11h: :kite: Windy (:white_sun_small_cloud:) [:white_sun_small_cloud: as of 8h, :cloud: as of 9h]
+12h: :kite: Windy (:white_sun_small_cloud:) [:snowman2: as of 9h]
+13h: :kite: Windy (:white_sun_small_cloud:) [:cloud: as of 9h]
+14h, 15h: :white_sun_small_cloud: Partly Cloudy
+16h - 18h: :white_sun_small_cloud: Partly Cloudy [:sunny: as of 9h]
+19h, 20h: :sunny: Clear
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
 Edinburgh
- 9h Cloudy                    Cloud: 100%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 25.9 kph, Gust: 53.7 kph, Vis: 16.1 km
-10h Rain                      Cloud: 100%, Precipitation:  70%, Rain:  70%, Snow:   0%, Wind: 24.1 kph, Gust: 42.6 kph, Vis:  9.7 km
-11h Rain                      Cloud: 100%, Precipitation:  70%, Rain:  70%, Snow:   0%, Wind: 24.1 kph, Gust: 37.0 kph, Vis:  9.7 km
-12h Rain                      Cloud: 100%, Precipitation:  70%, Rain:  70%, Snow:   0%, Wind: 22.2 kph, Gust: 44.4 kph, Vis:  9.7 km
-13h Cloudy                    Cloud: 100%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 18.5 kph, Gust: 46.3 kph, Vis: 16.1 km
-14h Rain                      Cloud: 100%, Precipitation:  66%, Rain:  66%, Snow:   0%, Wind: 16.7 kph, Gust: 40.7 kph, Vis:  8.0 km
-15h Rain                      Cloud: 100%, Precipitation:  66%, Rain:  66%, Snow:   0%, Wind: 14.8 kph, Gust: 37.0 kph, Vis:  8.0 km
-16h Rain                      Cloud: 100%, Precipitation:  63%, Rain:  63%, Snow:   0%, Wind: 16.7 kph, Gust: 38.9 kph, Vis:  8.0 km
-17h Rain                      Cloud: 100%, Precipitation:  63%, Rain:  63%, Snow:   0%, Wind: 22.2 kph, Gust: 37.0 kph, Vis:  8.0 km
-18h Cloudy                    Cloud: 100%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 24.1 kph, Gust: 37.0 kph, Vis: 16.1 km
-19h Cloudy                    Cloud: 100%, Precipitation:  49%, Rain:  48%, Snow:  34%, Wind: 18.5 kph, Gust: 35.2 kph, Vis: 16.1 km
-20h Rain                      Cloud: 100%, Precipitation:  56%, Rain:  52%, Snow:  37%, Wind: 13.0 kph, Gust: 31.5 kph, Vis:  9.7 km
-Weather forecast for Monday 13th March:
-9h: :umbrella: Rainy [:kite:(:cloud:) as of 9h]
-10h - 12h: :umbrella: Rainy
-13h: :umbrella: Rainy [:kite:(:cloud:) as of 9h]
-14h: :umbrella: Rainy
-15h: :cloud: Cloudy [:umbrella: as of 9h]
-16h: :umbrella: Rainy
-17h: :cloud: Cloudy [:umbrella: as of 9h]
-18h, 19h: :umbrella: Rainy [:kite:(:cloud:) as of 9h]
-20h: :umbrella: Rainy
+ 9h Sunny                     Cloud:   6%, Precipitation:  15%, Rain:  13%, Snow:  20%, Wind:  7.4 kph, Gust: 20.4 kph, Vis: 16.1 km
+10h Partly sunny              Cloud:  37%, Precipitation:  47%, Rain:  47%, Snow:  36%, Wind:  9.3 kph, Gust: 22.2 kph, Vis: 16.1 km
+11h Rain and snow             Cloud:  70%, Precipitation:  51%, Rain:  51%, Snow:  40%, Wind: 11.1 kph, Gust: 22.2 kph, Vis:  9.7 km
+12h Cloudy                    Cloud: 100%, Precipitation:  47%, Rain:  47%, Snow:  36%, Wind: 11.1 kph, Gust: 24.1 kph, Vis: 16.1 km
+13h Cloudy                    Cloud:  97%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 13.0 kph, Gust: 22.2 kph, Vis: 16.1 km
+14h Cloudy                    Cloud:  95%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 14.8 kph, Gust: 18.5 kph, Vis: 16.1 km
+15h Cloudy                    Cloud:  93%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 14.8 kph, Gust: 16.7 kph, Vis: 16.1 km
+16h Intermittent clouds       Cloud:  62%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 13.0 kph, Gust: 18.5 kph, Vis: 16.1 km
+17h Partly sunny              Cloud:  31%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind:  9.3 kph, Gust: 18.5 kph, Vis: 16.1 km
+18h Sunny                     Cloud:   0%, Precipitation:  13%, Rain:  13%, Snow:   0%, Wind:  7.4 kph, Gust: 18.5 kph, Vis: 16.1 km
+19h Mostly clear              Cloud:  11%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  7.4 kph, Gust: 18.5 kph, Vis: 16.1 km
+20h Mostly clear              Cloud:  11%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  7.4 kph, Gust: 18.5 kph, Vis: 16.1 km
+Weather forecast for Tuesday 14th March:
+9h: :cloud: Cloudy [:sunny: as of 9h]
+10h: :cloud: Cloudy [:white_sun_small_cloud: as of 9h]
+11h: :cloud: Cloudy [:snowman2: as of 9h]
+12h: :snowman2: Snowy [:cloud: as of 9h]
+13h, 14h: :white_sun_small_cloud: Partly Cloudy [:cloud: as of 9h]
+15h: :sunny: Clear [:cloud: as of 9h]
+16h, 17h: :sunny: Clear [:white_sun_small_cloud: as of 9h]
+18h - 20h: :sunny: Clear
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
