@@ -1,12 +1,14 @@
-*Updated: Tuesday 14th March 20:30*
+*Updated: Tuesday 14th March 21:30*
 
 **Glasgow**
 
-* 21h - 4h: :sunny: Clear
+* 22h - 4h: :sunny: Clear
 * 5h, 6h: :partly_sunny: Partly Cloudy
 * 7h, 8h: :cloud: Cloudy
+* 9h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 21h - 6h: :sunny: Clear
+* 22h - 6h: :sunny: Clear
 * 7h, 8h: :partly_sunny: Partly Cloudy
+* 9h: :cloud: Cloudy
