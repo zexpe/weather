@@ -1,8 +1,7 @@
-*Updated: Wednesday 15th March 05:30*
+*Updated: Wednesday 15th March 06:30*
 
 **Glasgow**
 
-* 6h: :partly_sunny: Partly Cloudy
 * 7h, 8h: :cloud: Cloudy
 * 9h: :umbrella: Rainy
 * 10h: :cloud: Cloudy
@@ -10,10 +9,9 @@
 * 13h, 14h: :cloud: Cloudy
 * 15h: :umbrella: Rainy
 * 16h: :cloud: Cloudy
-* 17h: :umbrella: Rainy
+* 17h, 18h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 6h: :sunny: Clear
 * 7h, 8h: :partly_sunny: Partly Cloudy
-* 9h - 17h: :cloud: Cloudy
+* 9h - 18h: :cloud: Cloudy
