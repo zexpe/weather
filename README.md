@@ -1,14 +1,15 @@
-*Updated: Monday 20th March 05:30*
+*Updated: Monday 20th March 06:30*
 
 **Glasgow**
 
-* 6h - 10h: :cloud: Cloudy
+* 7h - 10h: :cloud: Cloudy
 * 11h - 14h: :umbrella: Rainy
-* 15h - 17h: :cloud: Cloudy
+* 15h - 18h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 6h - 10h: :cloud: Cloudy
+* 7h - 10h: :cloud: Cloudy
 * 11h: :umbrella: Rainy
 * 12h - 16h: :cloud: Cloudy
 * 17h: :umbrella: Rainy
+* 18h: :cloud: Cloudy
