@@ -1,11 +1,10 @@
-*Updated: Wednesday 22nd March 02:30*
+*Updated: Wednesday 22nd March 03:30*
 
 **Glasgow**
 
-* 3h - 6h: :umbrella: Rainy
-* 7h - 14h: :cyclone: Windy (:cloud:)
+* 4h - 6h: :umbrella: Rainy
+* 7h - 15h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 3h: :umbrella: Rainy
-* 4h - 14h: :cyclone: Windy (:cloud:)
+* 4h - 15h: :cyclone: Windy (:cloud:)
