@@ -1,15 +1,16 @@
-*Updated: Tuesday 28th March 20:30*
+*Updated: Tuesday 28th March 21:30*
 
 **Glasgow**
 
-* 21h, 22h: :umbrella: Rainy
+* 22h: :umbrella: Rainy
 * 23h, 0h: :cloud: Cloudy
 * 1h: :umbrella: Rainy
 * 2h, 3h: :cloud: Cloudy
 * 4h - 6h: :umbrella: Rainy
 * 7h: :cloud: Cloudy
 * 8h: :umbrella: Rainy
+* 9h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 21h - 8h: :cloud: Cloudy
+* 22h - 9h: :cloud: Cloudy
