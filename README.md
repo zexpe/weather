@@ -1,11 +1,9 @@
-*Updated: Thursday 30th March 18:30*
+*Updated: Thursday 30th March 19:30*
 
 **Glasgow**
 
-* 19h: :partly_sunny: Partly Cloudy
-* 20h - 6h: :cloud: Cloudy
+* 20h - 7h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 19h: :sunny: Clear
-* 20h - 6h: :cloud: Cloudy
+* 20h - 7h: :cloud: Cloudy
