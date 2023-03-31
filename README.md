@@ -1,13 +1,14 @@
-*Updated: Friday 31st March 00:30*
+*Updated: Friday 31st March 01:30*
 
 **Glasgow**
 
-* 1h - 8h: :cloud: Cloudy
+* 2h - 8h: :cloud: Cloudy
 * 9h - 11h: :cyclone: Windy (:cloud:)
 * 12h: :umbrella: Rainy
+* 13h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 1h - 10h: :cloud: Cloudy
+* 2h - 10h: :cloud: Cloudy
 * 11h: :umbrella: Rainy
-* 12h: :cloud: Cloudy
+* 12h, 13h: :cloud: Cloudy
