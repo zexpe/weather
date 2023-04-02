@@ -1,12 +1,12 @@
-*Updated: Sunday 2nd April 14:30*
+*Updated: Sunday 2nd April 15:30*
 
 **Glasgow**
 
-* 15h - 1h: :partly_sunny: Partly Cloudy
-* 2h: :sunny: Clear
+* 16h - 1h: :partly_sunny: Partly Cloudy
+* 2h, 3h: :sunny: Clear
 
 **Edinburgh**
 
-* 15h - 19h: :sunny: Clear
+* 16h - 19h: :sunny: Clear
 * 20h - 1h: :partly_sunny: Partly Cloudy
-* 2h: :sunny: Clear
+* 2h, 3h: :sunny: Clear
