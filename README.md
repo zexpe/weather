@@ -1,9 +1,10 @@
-*Updated: Saturday 22nd April 19:30*
+*Updated: Saturday 22nd April 20:30*
 
 **Glasgow**
 
-* 21h - 8h: :cloud: Cloudy
+* 22h - 8h: :cloud: Cloudy
+* 9h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 21h - 8h: :cloud: Cloudy
+* 22h - 9h: :cloud: Cloudy
