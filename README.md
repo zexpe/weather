@@ -1,11 +1,12 @@
-*Updated: Tuesday 25th April 18:30*
+*Updated: Tuesday 25th April 19:30*
 
 **Glasgow**
 
-* 20h: :cloud: Cloudy [:partly_sunny: as of 10h]
 * 21h - 23h: :partly_sunny: Partly Cloudy
 * 0h - 7h: :cloud: Cloudy
+* 8h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 20h - 7h: :cloud: Cloudy
+* 21h - 7h: :cloud: Cloudy
+* 8h: :partly_sunny: Partly Cloudy
