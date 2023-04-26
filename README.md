@@ -1,9 +1,9 @@
-*Updated: Wednesday 26th April 15:30*
+*Updated: Wednesday 26th April 16:30*
 
 **Glasgow**
 
-* 17h - 4h: :partly_sunny: Partly Cloudy
+* 18h - 5h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 17h - 4h: :partly_sunny: Partly Cloudy
+* 18h - 5h: :partly_sunny: Partly Cloudy
