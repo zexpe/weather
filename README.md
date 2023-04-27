@@ -1,11 +1,12 @@
-*Updated: Thursday 27th April 23:30*
+*Updated: Thursday 27th April 00:30*
 
 **Glasgow**
 
-* 1h - 7h: :partly_sunny: Partly Cloudy
+* 2h - 7h: :partly_sunny: Partly Cloudy
 * 8h - 12h: :cloud: Cloudy
+* 13h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 1h - 7h: :partly_sunny: Partly Cloudy
-* 8h - 12h: :cloud: Cloudy
+* 2h - 7h: :partly_sunny: Partly Cloudy
+* 8h - 13h: :cloud: Cloudy
