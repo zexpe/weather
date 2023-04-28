@@ -1,17 +1,22 @@
-*Updated: Friday 28th April 07:30*
+*Updated: Friday 28th April 08:30*
 
 **Glasgow**
 
-* 9h - 14h: :cloud: Cloudy
+* 10h, 11h: :cloud: Cloudy
+* 12h: :cloud: Cloudy [:umbrella: as of 10h]
+* 13h, 14h: :cloud: Cloudy
 * 15h: :umbrella: Rainy
 * 16h, 17h: :cloud: Cloudy
 * 18h, 19h: :partly_sunny: Partly Cloudy
-* 20h: :cloud: Cloudy
+* 20h, 21h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 9h - 11h: :cloud: Cloudy
-* 12h: :umbrella: Rainy
-* 13h: :cloud: Cloudy
+* 10h, 11h: :cloud: Cloudy
+* 12h: :umbrella: Rainy [:cloud: as of 10h]
+* 13h: :cloud: Cloudy [:umbrella: as of 10h]
 * 14h: :umbrella: Rainy
-* 15h - 20h: :cloud: Cloudy
+* 15h - 17h: :cloud: Cloudy
+* 18h, 19h: :cloud: Cloudy [:partly_sunny: as of 10h]
+* 20h: :cloud: Cloudy
+* 21h: :umbrella: Rainy
