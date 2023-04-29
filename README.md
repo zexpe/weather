@@ -1,15 +1,14 @@
-*Updated: Saturday 29th April 10:30*
+*Updated: Saturday 29th April 11:30*
 
 **Glasgow**
 
-* 12h: :umbrella: Rainy
-* 13h - 18h: :cyclone: Windy (:cloud:)
+* 13h: :cyclone: Windy (:cloud:) [:cloud: as of 13h]
+* 14h - 18h: :cyclone: Windy (:cloud:)
 * 19h, 20h: :cloud: Cloudy [:cyclone:(:cloud:) as of 10h]
-* 21h - 23h: :cloud: Cloudy
+* 21h - 0h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 12h: :umbrella: Rainy
-* 13h: :cyclone: Windy (:cloud:) [:cloud: as of 10h, :cyclone:(:cloud:) as of 12h]
+* 13h: :cyclone: Windy (:cloud:) [:cloud: as of 10h, :cyclone:(:cloud:) as of 12h, :cloud: as of 13h]
 * 14h: :cyclone: Windy (:cloud:) [:cloud: as of 10h]
-* 15h - 23h: :cloud: Cloudy
+* 15h - 0h: :cloud: Cloudy
