@@ -1,11 +1,10 @@
-*Updated: Monday 1st May 19:30*
+*Updated: Monday 1st May 20:30*
 
 **Glasgow**
 
-* 21h: :cloud: Cloudy [:cyclone:(:cloud:) as of 19h, :cloud: as of 21h]
 * 22h - 7h: :cloud: Cloudy
-* 8h: :partly_sunny: Partly Cloudy
+* 8h, 9h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 21h - 8h: :partly_sunny: Partly Cloudy
+* 22h - 9h: :partly_sunny: Partly Cloudy
