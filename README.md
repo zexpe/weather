@@ -1,10 +1,10 @@
-*Updated: Thursday 4th May 04:30*
+*Updated: Thursday 4th May 05:30*
 
 **Glasgow**
 
-* 6h - 17h: :cyclone: Windy (:cloud:)
+* 7h - 18h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 6h, 7h: :cloud: Cloudy
-* 8h - 17h: :cyclone: Windy (:cloud:)
+* 7h: :cloud: Cloudy
+* 8h - 18h: :cyclone: Windy (:cloud:)
