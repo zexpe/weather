@@ -1,19 +1,27 @@
-*Updated: Saturday 6th May 07:30*
+*Updated: Saturday 6th May 08:30*
 
 **Glasgow**
 
-* 9h: :cloud: Cloudy
-* 10h, 11h: :umbrella: Rainy
-* 12h - 14h: :cloud: Cloudy
-* 15h, 16h: :umbrella: Rainy
-* 17h - 20h: :cloud: Cloudy
+* 10h: :umbrella: Rainy [:cloud: as of 10h]
+* 11h: :umbrella: Rainy
+* 12h: :cloud: Cloudy
+* 13h: :cloud: Cloudy [:umbrella: as of 10h]
+* 14h: :cloud: Cloudy
+* 15h: :umbrella: Rainy [:cloud: as of 10h]
+* 16h: :umbrella: Rainy
+* 17h, 18h: :cloud: Cloudy
+* 19h: :cloud: Cloudy [:umbrella: as of 10h]
+* 20h, 21h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 9h: :cloud: Cloudy
-* 10h, 11h: :umbrella: Rainy
-* 12h - 15h: :cloud: Cloudy
-* 16h: :umbrella: Rainy
-* 17h: :cloud: Cloudy
-* 18h: :umbrella: Rainy
-* 19h, 20h: :cloud: Cloudy
+* 10h: :umbrella: Rainy [:cloud: as of 10h]
+* 11h: :umbrella: Rainy
+* 12h: :cloud: Cloudy
+* 13h: :cloud: Cloudy [:umbrella: as of 10h]
+* 14h, 15h: :cloud: Cloudy
+* 16h: :umbrella: Rainy [:cloud: as of 10h]
+* 17h: :cloud: Cloudy [:umbrella: as of 10h]
+* 18h: :umbrella: Rainy [:cloud: as of 10h]
+* 19h, 20h: :cloud: Cloudy [:umbrella: as of 10h]
+* 21h: :cloud: Cloudy
