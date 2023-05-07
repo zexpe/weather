@@ -1,13 +1,14 @@
-*Updated: Sunday 7th May 16:30*
+*Updated: Sunday 7th May 17:30*
 
 **Glasgow**
 
-* 18h - 3h: :cloud: Cloudy
+* 19h - 3h: :cloud: Cloudy
 * 4h: :umbrella: Rainy
-* 5h: :cloud: Cloudy
+* 5h, 6h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 18h - 2h: :cloud: Cloudy
+* 19h - 2h: :cloud: Cloudy
 * 3h: :umbrella: Rainy
 * 4h, 5h: :cloud: Cloudy
+* 6h: :umbrella: Rainy
