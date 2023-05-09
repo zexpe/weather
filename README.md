@@ -1,8 +1,7 @@
-*Updated: Tuesday 9th May 17:30*
+*Updated: Tuesday 9th May 18:30*
 
 **Glasgow**
 
-* 19h: :cloud: Cloudy [:partly_sunny: as of 10h]
 * 20h: :cloud: Cloudy
 * 21h: :umbrella: Rainy
 * 22h: :cloud: Cloudy
@@ -11,8 +10,8 @@
 * 2h: :umbrella: Rainy
 * 3h - 5h: :cloud: Cloudy
 * 6h: :umbrella: Rainy
+* 7h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 19h: :partly_sunny: Partly Cloudy
-* 20h - 6h: :cloud: Cloudy
+* 20h - 7h: :cloud: Cloudy
