@@ -1,10 +1,10 @@
-*Updated: Tuesday 9th May 23:30*
+*Updated: Tuesday 9th May 00:30*
 
 **Glasgow**
 
-* 1h - 12h: :cloud: Cloudy
+* 2h - 13h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 1h - 11h: :cloud: Cloudy
-* 12h: :partly_sunny: Partly Cloudy
+* 2h - 11h: :cloud: Cloudy
+* 12h, 13h: :partly_sunny: Partly Cloudy
