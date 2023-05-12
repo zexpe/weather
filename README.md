@@ -1,9 +1,11 @@
-*Updated: Friday 12th May 18:30*
+*Updated: Friday 12th May 19:30*
 
 **Glasgow**
 
-* 20h - 7h: :partly_sunny: Partly Cloudy
+* 21h - 7h: :partly_sunny: Partly Cloudy
+* 8h: :sunny: Clear
 
 **Edinburgh**
 
-* 20h - 7h: :sunny: Clear
+* 21h - 7h: :sunny: Clear
+* 8h: :partly_sunny: Partly Cloudy
