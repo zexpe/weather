@@ -1,12 +1,12 @@
-*Updated: Friday 12th May 08:30*
+*Updated: Friday 12th May 09:30*
 
 **Glasgow**
 
-* 10h - 21h: :partly_sunny: Partly Cloudy
+* 11h - 22h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 10h - 14h: :cloud: Cloudy [:partly_sunny: as of 10h]
+* 11h - 14h: :cloud: Cloudy [:partly_sunny: as of 10h]
 * 15h: :partly_sunny: Partly Cloudy
 * 16h - 19h: :sunny: Clear [:partly_sunny: as of 10h]
-* 20h, 21h: :sunny: Clear
+* 20h - 22h: :sunny: Clear
