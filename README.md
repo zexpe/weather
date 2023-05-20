@@ -1,12 +1,12 @@
-*Updated: Saturday 20th May 02:30*
+*Updated: Saturday 20th May 03:30*
 
 **Glasgow**
 
-* 4h - 6h: :cloud: Cloudy
+* 5h, 6h: :cloud: Cloudy
 * 7h: :umbrella: Rainy
-* 8h - 15h: :partly_sunny: Partly Cloudy
+* 8h - 16h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 4h - 7h: :cloud: Cloudy
-* 8h - 15h: :partly_sunny: Partly Cloudy
+* 5h - 7h: :cloud: Cloudy
+* 8h - 16h: :partly_sunny: Partly Cloudy
