@@ -1,9 +1,13 @@
-*Updated: Thursday 25th May 07:30*
+*Updated: Thursday 25th May 08:30*
 
 **Glasgow**
 
-* 9h - 20h: :sunny: Clear
+* 10h - 15h: :sunny: Clear
+* 16h: :sunny: Clear [:cyclone:(:sunny:) as of 10h]
+* 17h - 21h: :sunny: Clear
 
 **Edinburgh**
 
-* 9h - 20h: :sunny: Clear
+* 10h - 19h: :sunny: Clear
+* 20h: :sunny: Clear [:partly_sunny: as of 10h]
+* 21h: :sunny: Clear
