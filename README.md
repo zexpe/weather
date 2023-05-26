@@ -1,9 +1,13 @@
-*Updated: Friday 26th May 07:30*
+*Updated: Friday 26th May 08:30*
 
 **Glasgow**
 
-* 9h - 20h: :partly_sunny: Partly Cloudy
+* 10h - 19h: :partly_sunny: Partly Cloudy
+* 20h: :partly_sunny: Partly Cloudy [:cloud: as of 10h]
+* 21h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 9h - 20h: :partly_sunny: Partly Cloudy
+* 10h - 19h: :partly_sunny: Partly Cloudy
+* 20h: :partly_sunny: Partly Cloudy [:cloud: as of 10h]
+* 21h: :cloud: Cloudy
