@@ -1,10 +1,11 @@
-*Updated: Saturday 27th May 09:30*
+*Updated: Saturday 27th May 10:30*
 
 **Glasgow**
 
-* 11h - 22h: :cyclone: Windy (:partly_sunny:)
+* 12h - 22h: :cyclone: Windy (:partly_sunny:)
+* 23h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 11h - 21h: :cyclone: Windy (:partly_sunny:)
-* 22h: :partly_sunny: Partly Cloudy
+* 12h - 21h: :cyclone: Windy (:partly_sunny:)
+* 22h, 23h: :partly_sunny: Partly Cloudy
