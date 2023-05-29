@@ -1,9 +1,9 @@
-*Updated: Monday 29th May 18:30*
+*Updated: Monday 29th May 19:30*
 
 **Glasgow**
 
-* 20h - 7h: :sunny: Clear
+* 21h - 8h: :sunny: Clear
 
 **Edinburgh**
 
-* 20h - 7h: :sunny: Clear
+* 21h - 8h: :sunny: Clear
