@@ -1,15 +1,14 @@
-*Updated: Wednesday 31st May 16:30*
+*Updated: Wednesday 31st May 17:30*
 
 **Glasgow**
 
-* 18h - 4h: :sunny: Clear
-* 5h: :partly_sunny: Partly Cloudy
+* 19h - 4h: :sunny: Clear
+* 5h, 6h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 18h: :sunny: Clear [:cyclone:(:sunny:) as of 15h]
-* 19h: :sunny: Clear [:cyclone:(:sunny:) as of 10h]
+* 19h: :sunny: Clear [:cyclone:(:sunny:) as of 10h, :sunny: as of 19h]
 * 20h: :partly_sunny: Partly Cloudy [:sunny: as of 10h]
 * 21h: :sunny: Clear
 * 22h - 0h: :partly_sunny: Partly Cloudy
-* 1h - 5h: :cloud: Cloudy
+* 1h - 6h: :cloud: Cloudy
