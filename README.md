@@ -1,11 +1,11 @@
-*Updated: Wednesday 31st May 20:30*
+*Updated: Wednesday 31st May 21:30*
 
 **Glasgow**
 
-* 22h - 4h: :sunny: Clear
-* 5h - 9h: :partly_sunny: Partly Cloudy
+* 23h - 4h: :sunny: Clear
+* 5h - 10h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 22h - 0h: :partly_sunny: Partly Cloudy
-* 1h - 9h: :cloud: Cloudy
+* 23h, 0h: :partly_sunny: Partly Cloudy
+* 1h - 10h: :cloud: Cloudy
