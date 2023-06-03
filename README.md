@@ -1,9 +1,11 @@
-*Updated: Saturday 3rd June 20:30*
+*Updated: Saturday 3rd June 21:30*
 
 **Glasgow**
 
-* 22h - 9h: :sunny: Clear
+* 23h: :sunny: Clear [:cyclone:(:sunny:) as of 23h]
+* 0h - 9h: :sunny: Clear
+* 10h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 22h - 9h: :sunny: Clear
+* 23h - 10h: :sunny: Clear
