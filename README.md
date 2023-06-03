@@ -1,10 +1,10 @@
-*Updated: Saturday 3rd June 01:30*
+*Updated: Saturday 3rd June 02:30*
 
 **Glasgow**
 
-* 3h - 7h: :partly_sunny: Partly Cloudy
-* 8h - 14h: :sunny: Clear
+* 4h - 7h: :partly_sunny: Partly Cloudy
+* 8h - 15h: :sunny: Clear
 
 **Edinburgh**
 
-* 3h - 14h: :partly_sunny: Partly Cloudy
+* 4h - 15h: :partly_sunny: Partly Cloudy
