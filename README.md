@@ -1,9 +1,9 @@
-*Updated: Saturday 3rd June 19:30*
+*Updated: Saturday 3rd June 20:30*
 
 **Glasgow**
 
-* 21h - 8h: :sunny: Clear
+* 22h - 9h: :sunny: Clear
 
 **Edinburgh**
 
-* 21h - 8h: :sunny: Clear
+* 22h - 9h: :sunny: Clear
