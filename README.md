@@ -1,14 +1,15 @@
-*Updated: Sunday 4th June 07:30*
+*Updated: Sunday 4th June 08:30*
 
 **Glasgow**
 
-* 9h: :sunny: Clear
-* 10h: :partly_sunny: Partly Cloudy
-* 11h - 14h: :sunny: Clear
-* 15h - 18h: :partly_sunny: Partly Cloudy
+* 10h: :partly_sunny: Partly Cloudy [:sunny: as of 10h]
+* 11h, 12h: :sunny: Clear
+* 13h, 14h: :sunny: Clear [:partly_sunny: as of 10h]
+* 15h, 16h: :partly_sunny: Partly Cloudy
+* 17h, 18h: :partly_sunny: Partly Cloudy [:cloud: as of 10h]
 * 19h: :cloud: Cloudy
-* 20h: :sunny: Clear
+* 20h, 21h: :sunny: Clear
 
 **Edinburgh**
 
-* 9h - 20h: :sunny: Clear
+* 10h - 21h: :sunny: Clear
