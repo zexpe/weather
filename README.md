@@ -1,12 +1,12 @@
-*Updated: Monday 5th June 04:30*
+*Updated: Monday 5th June 05:30*
 
 **Glasgow**
 
-* 6h - 13h: :sunny: Clear
-* 14h - 17h: :cloud: Cloudy
+* 7h - 13h: :sunny: Clear
+* 14h - 18h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 6h, 7h: :cloud: Cloudy
+* 7h: :cloud: Cloudy
 * 8h - 11h: :sunny: Clear
-* 12h - 17h: :cyclone: Windy (:sunny:)
+* 12h - 18h: :cyclone: Windy (:sunny:)
