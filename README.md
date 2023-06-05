@@ -1,12 +1,13 @@
-*Updated: Monday 5th June 18:30*
+*Updated: Monday 5th June 19:30*
 
 **Glasgow**
 
-* 20h - 7h: :sunny: Clear
+* 21h - 7h: :sunny: Clear
+* 8h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 20h - 1h: :sunny: Clear
+* 21h - 1h: :sunny: Clear
 * 2h - 5h: :cloud: Cloudy
 * 6h: :umbrella: Rainy
-* 7h: :cloud: Cloudy
+* 7h, 8h: :cloud: Cloudy
