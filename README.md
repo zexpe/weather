@@ -1,11 +1,12 @@
-*Updated: Wednesday 7th June 23:30*
+*Updated: Wednesday 7th June 00:30*
 
 **Glasgow**
 
-* 1h - 7h: :partly_sunny: Partly Cloudy
+* 2h - 7h: :partly_sunny: Partly Cloudy
 * 8h - 11h: :sunny: Clear
-* 12h: :partly_sunny: Partly Cloudy
+* 12h, 13h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 1h - 12h: :sunny: Clear
+* 2h - 12h: :sunny: Clear
+* 13h: :cyclone: Windy (:sunny:)
