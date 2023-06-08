@@ -1,12 +1,12 @@
-*Updated: Thursday 8th June 10:30*
+*Updated: Thursday 8th June 11:30*
 
 **Glasgow**
 
-* 12h - 19h: :cyclone: Windy (:partly_sunny:)
-* 20h - 23h: :cyclone: Windy (:cloud:)
+* 13h - 19h: :cyclone: Windy (:partly_sunny:)
+* 20h - 0h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 12h - 19h: :cyclone: Windy (:partly_sunny:)
+* 13h - 19h: :cyclone: Windy (:partly_sunny:)
 * 20h - 22h: :cyclone: Windy (:cloud:)
-* 23h: :cloud: Cloudy
+* 23h, 0h: :cloud: Cloudy
