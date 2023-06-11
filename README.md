@@ -1,22 +1,24 @@
-*Updated: Sunday 11th June 07:30*
+*Updated: Sunday 11th June 08:30*
 
 **Glasgow**
 
-* 9h - 11h: :partly_sunny: Partly Cloudy
-* 12h, 13h: :cloud: Cloudy
-* 14h: :umbrella: Rainy
-* 15h: :cloud: Cloudy
-* 16h: :umbrella: Rainy
-* 17h, 18h: :partly_sunny: Partly Cloudy
-* 19h: :sunny: Clear
-* 20h: :partly_sunny: Partly Cloudy
+* 10h, 11h: :partly_sunny: Partly Cloudy
+* 12h: :cloud: Cloudy [:partly_sunny: as of 10h]
+* 13h: :cloud: Cloudy
+* 14h: :umbrella: Rainy [:cloud: as of 10h]
+* 15h: :cloud: Cloudy [:partly_sunny: as of 10h]
+* 16h: :umbrella: Rainy [:partly_sunny: as of 10h]
+* 17h: :partly_sunny: Partly Cloudy [:cloud: as of 10h]
+* 18h: :partly_sunny: Partly Cloudy
+* 19h: :sunny: Clear [:partly_sunny: as of 10h]
+* 20h, 21h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 9h: :partly_sunny: Partly Cloudy
 * 10h: :cloud: Cloudy [:partly_sunny: as of 6h]
-* 11h - 14h: :partly_sunny: Partly Cloudy
-* 15h: :cloud: Cloudy
+* 11h - 13h: :partly_sunny: Partly Cloudy
+* 14h: :partly_sunny: Partly Cloudy [:cloud: as of 10h]
+* 15h: :cloud: Cloudy [:partly_sunny: as of 10h]
 * 16h, 17h: :partly_sunny: Partly Cloudy
 * 18h: :cloud: Cloudy
-* 19h, 20h: :partly_sunny: Partly Cloudy
+* 19h - 21h: :partly_sunny: Partly Cloudy
