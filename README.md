@@ -1,11 +1,11 @@
-*Updated: Sunday 11th June 21:30*
+*Updated: Sunday 11th June 22:30*
 
 **Glasgow**
 
-* 23h - 7h: :partly_sunny: Partly Cloudy
-* 8h - 10h: :cloud: Cloudy
+* 0h - 7h: :partly_sunny: Partly Cloudy
+* 8h - 11h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 23h - 7h: :partly_sunny: Partly Cloudy
-* 8h - 10h: :cloud: Cloudy
+* 0h - 7h: :partly_sunny: Partly Cloudy
+* 8h - 11h: :cloud: Cloudy
