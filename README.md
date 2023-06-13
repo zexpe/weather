@@ -1,12 +1,12 @@
-*Updated: Tuesday 13th June 20:30*
+*Updated: Tuesday 13th June 21:30*
 
 **Glasgow**
 
-* 22h, 23h: :sunny: Clear
+* 23h: :sunny: Clear
 * 0h - 2h: :partly_sunny: Partly Cloudy
-* 3h - 9h: :sunny: Clear
+* 3h - 10h: :sunny: Clear
 
 **Edinburgh**
 
-* 22h - 3h: :partly_sunny: Partly Cloudy
-* 4h - 9h: :sunny: Clear
+* 23h - 3h: :partly_sunny: Partly Cloudy
+* 4h - 10h: :sunny: Clear
