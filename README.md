@@ -1,11 +1,11 @@
-*Updated: Wednesday 14th June 19:30*
+*Updated: Wednesday 14th June 20:30*
 
 **Glasgow**
 
-* 21h: :cyclone: Windy (:sunny:)
-* 22h - 7h: :sunny: Clear
-* 8h: :partly_sunny: Partly Cloudy
+* 22h: :sunny: Clear [:cyclone:(:sunny:) as of 22h]
+* 23h - 7h: :sunny: Clear
+* 8h, 9h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 21h - 8h: :sunny: Clear
+* 22h - 9h: :sunny: Clear
