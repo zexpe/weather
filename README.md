@@ -1,12 +1,12 @@
-*Updated: Wednesday 14th June 23:30*
+*Updated: Wednesday 14th June 00:30*
 
 **Glasgow**
 
-* 1h, 2h: :partly_sunny: Partly Cloudy
+* 2h: :partly_sunny: Partly Cloudy
 * 3h - 11h: :sunny: Clear
-* 12h: :partly_sunny: Partly Cloudy
+* 12h, 13h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 1h - 3h: :partly_sunny: Partly Cloudy
-* 4h - 12h: :sunny: Clear
+* 2h, 3h: :partly_sunny: Partly Cloudy
+* 4h - 13h: :sunny: Clear
