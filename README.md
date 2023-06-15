@@ -1,10 +1,11 @@
-*Updated: Thursday 15th June 23:30*
+*Updated: Thursday 15th June 00:30*
 
 **Glasgow**
 
-* 1h - 7h: :sunny: Clear
-* 8h - 12h: :partly_sunny: Partly Cloudy
+* 2h - 7h: :sunny: Clear
+* 8h - 13h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 1h - 12h: :sunny: Clear
+* 2h - 12h: :sunny: Clear
+* 13h: :cyclone: Windy (:sunny:)
