@@ -1,11 +1,12 @@
-*Updated: Friday 16th June 21:30*
+*Updated: Friday 16th June 22:30*
 
 **Glasgow**
 
-* 23h - 7h: :partly_sunny: Partly Cloudy
+* 0h - 7h: :partly_sunny: Partly Cloudy
 * 8h - 10h: :cloud: Cloudy
+* 11h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 23h - 7h: :partly_sunny: Partly Cloudy
-* 8h - 10h: :cloud: Cloudy
+* 0h - 7h: :partly_sunny: Partly Cloudy
+* 8h - 11h: :cloud: Cloudy
