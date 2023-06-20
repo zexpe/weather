@@ -1,14 +1,12 @@
-*Updated: Tuesday 20th June 17:30*
+*Updated: Tuesday 20th June 18:30*
 
 **Glasgow**
 
-* 19h: :cloud: Cloudy [:sunny: as of 10h]
 * 20h - 23h: :partly_sunny: Partly Cloudy
 * 0h: :cloud: Cloudy
 * 1h - 5h: :partly_sunny: Partly Cloudy
-* 6h: :cloud: Cloudy
+* 6h, 7h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 19h: :umbrella: Rainy [:cloud: as of 10h]
-* 20h - 6h: :partly_sunny: Partly Cloudy
+* 20h - 7h: :partly_sunny: Partly Cloudy
