@@ -1,13 +1,12 @@
-*Updated: Tuesday 27th June 19:30*
+*Updated: Tuesday 27th June 20:30*
 
 **Glasgow**
 
-* 21h: :cyclone: Windy (:cloud:) [:umbrella: as of 21h]
 * 22h: :cyclone: Windy (:cloud:)
 * 23h - 8h: :cloud: Cloudy
+* 9h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 21h: :umbrella: Rainy
 * 22h: :cyclone: Windy (:cloud:) [:cloud: as of 18h, :cyclone:(:cloud:) as of 19h, :cloud: as of 20h]
-* 23h - 8h: :cloud: Cloudy
+* 23h - 9h: :cloud: Cloudy
