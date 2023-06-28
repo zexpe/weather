@@ -1,12 +1,10 @@
-*Updated: Wednesday 28th June 17:30*
+*Updated: Wednesday 28th June 18:30*
 
 **Glasgow**
 
-* 19h: :cyclone: Windy (:cloud:)
-* 20h - 6h: :sunny: Clear
+* 20h - 7h: :sunny: Clear
 
 **Edinburgh**
 
-* 19h: :cloud: Cloudy
 * 20h, 21h: :partly_sunny: Partly Cloudy
-* 22h - 6h: :sunny: Clear
+* 22h - 7h: :sunny: Clear
