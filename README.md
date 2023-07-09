@@ -1,18 +1,17 @@
-*Updated: Sunday 9th July 15:30*
+*Updated: Sunday 9th July 16:30*
 
 **Glasgow**
 
-* 17h: :partly_sunny: Partly Cloudy [:cloud: as of 10h]
 * 18h: :cloud: Cloudy [:umbrella: as of 10h]
 * 19h, 20h: :umbrella: Rainy [:cloud: as of 10h]
-* 21h - 4h: :partly_sunny: Partly Cloudy
+* 21h - 5h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 17h, 18h: :cloud: Cloudy [:partly_sunny: as of 10h]
+* 18h: :cloud: Cloudy [:partly_sunny: as of 10h]
 * 19h: :cloud: Cloudy
 * 20h - 23h: :partly_sunny: Partly Cloudy
 * 0h: :sunny: Clear
 * 1h: :partly_sunny: Partly Cloudy
 * 2h: :sunny: Clear
-* 3h, 4h: :partly_sunny: Partly Cloudy
+* 3h - 5h: :partly_sunny: Partly Cloudy
