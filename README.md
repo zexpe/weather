@@ -1,10 +1,9 @@
-*Updated: Monday 17th July 20:30*
+*Updated: Monday 17th July 21:30*
 
 **Glasgow**
 
-* 22h - 9h: :cloud: Cloudy
+* 23h - 10h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 22h: :cyclone: Windy (:cloud:) [:cloud: as of 18h]
-* 23h - 9h: :cloud: Cloudy
+* 23h - 10h: :cloud: Cloudy
