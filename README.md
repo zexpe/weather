@@ -1,9 +1,10 @@
-*Updated: Monday 17th July 21:30*
+*Updated: Monday 17th July 22:30*
 
 **Glasgow**
 
-* 23h - 10h: :cloud: Cloudy
+* 0h - 11h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 23h - 10h: :cloud: Cloudy
+* 0h - 10h: :cloud: Cloudy
+* 11h: :umbrella: Rainy
