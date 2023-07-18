@@ -1,9 +1,9 @@
-*Updated: Tuesday 18th July 18:30*
+*Updated: Tuesday 18th July 19:30*
 
 **Glasgow**
 
-* 20h - 7h: :partly_sunny: Partly Cloudy
+* 21h - 8h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 20h - 7h: :partly_sunny: Partly Cloudy
+* 21h - 8h: :partly_sunny: Partly Cloudy
