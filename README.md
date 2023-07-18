@@ -1,12 +1,12 @@
-*Updated: Tuesday 18th July 23:30*
+*Updated: Tuesday 18th July 00:30*
 
 **Glasgow**
 
-* 1h - 11h: :cloud: Cloudy
-* 12h: :umbrella: Rainy
+* 2h - 11h: :cloud: Cloudy
+* 12h, 13h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 1h - 10h: :cloud: Cloudy
+* 2h - 10h: :cloud: Cloudy
 * 11h: :umbrella: Rainy
-* 12h: :cloud: Cloudy
+* 12h, 13h: :cloud: Cloudy
