@@ -1,10 +1,12 @@
-*Updated: Wednesday 19th July 19:30*
+*Updated: Wednesday 19th July 20:30*
 
 **Glasgow**
 
-* 21h - 8h: :sunny: Clear
+* 22h - 8h: :sunny: Clear
+* 9h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 21h: :sunny: Clear [:umbrella: as of 21h]
-* 22h - 8h: :sunny: Clear
+* 22h: :sunny: Clear [:cloud: as of 22h]
+* 23h - 8h: :sunny: Clear
+* 9h: :partly_sunny: Partly Cloudy
