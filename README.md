@@ -1,13 +1,14 @@
-*Updated: Friday 21st July 19:30*
+*Updated: Friday 21st July 20:30*
 
 **Glasgow**
 
-* 21h: :cloud: Cloudy [:umbrella: as of 21h]
-* 22h - 6h: :cloud: Cloudy
-* 7h, 8h: :umbrella: Rainy
+* 22h: :cloud: Cloudy [:umbrella: as of 22h]
+* 23h - 6h: :cloud: Cloudy
+* 7h - 9h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 21h - 5h: :cloud: Cloudy
+* 22h - 5h: :cloud: Cloudy
 * 6h: :umbrella: Rainy
 * 7h, 8h: :cloud: Cloudy
+* 9h: :umbrella: Rainy
