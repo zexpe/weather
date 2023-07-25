@@ -1,14 +1,15 @@
-*Updated: Tuesday 25th July 23:30*
+*Updated: Tuesday 25th July 00:30*
 
 **Glasgow**
 
-* 1h: :partly_sunny: Partly Cloudy [:umbrella: as of 1h]
-* 2h - 11h: :partly_sunny: Partly Cloudy
-* 12h: :umbrella: Rainy
+* 2h: :partly_sunny: Partly Cloudy [:umbrella: as of 2h]
+* 3h - 11h: :partly_sunny: Partly Cloudy
+* 12h, 13h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 1h - 7h: :partly_sunny: Partly Cloudy
+* 2h: :partly_sunny: Partly Cloudy [:umbrella: as of 2h]
+* 3h - 7h: :partly_sunny: Partly Cloudy
 * 8h, 9h: :cloud: Cloudy
 * 10h, 11h: :umbrella: Rainy
-* 12h: :cyclone: Windy (:cloud:)
+* 12h, 13h: :cyclone: Windy (:cloud:)
