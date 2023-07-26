@@ -1,12 +1,13 @@
-*Updated: Wednesday 26th July 02:30*
+*Updated: Wednesday 26th July 03:30*
 
 **Glasgow**
 
-* 4h - 7h: :cloud: Cloudy
+* 5h - 7h: :cloud: Cloudy
 * 8h - 14h: :partly_sunny: Partly Cloudy
 * 15h: :umbrella: Rainy
+* 16h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 4h, 5h: :sunny: Clear
-* 6h - 15h: :partly_sunny: Partly Cloudy
+* 5h: :sunny: Clear [:partly_sunny: as of 5h]
+* 6h - 16h: :partly_sunny: Partly Cloudy
