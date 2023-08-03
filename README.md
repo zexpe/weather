@@ -1,14 +1,15 @@
-*Updated: Thursday 3rd August 04:30*
+*Updated: Thursday 3rd August 05:30*
 
 **Glasgow**
 
-* 6h - 10h: :cloud: Cloudy
-* 11h - 13h: :cyclone: Windy (:cloud:)
+* 7h - 10h: :cloud: Cloudy
+* 11h: :cyclone: Windy (:cloud:) [:cloud: as of 7h]
+* 12h, 13h: :cyclone: Windy (:cloud:)
 * 14h: :umbrella: Rainy
-* 15h - 17h: :cyclone: Windy (:cloud:)
+* 15h - 18h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 6h - 8h: :cloud: Cloudy
+* 7h, 8h: :cloud: Cloudy
 * 9h: :umbrella: Rainy
-* 10h - 17h: :cloud: Cloudy
+* 10h - 18h: :cloud: Cloudy
