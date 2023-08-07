@@ -1,13 +1,14 @@
-*Updated: Monday 7th August 21:30*
+*Updated: Monday 7th August 22:30*
 
 **Glasgow**
 
-* 23h: :sunny: Clear [:cloud: as of 23h]
-* 0h - 7h: :sunny: Clear
+* 0h: :sunny: Clear [:partly_sunny: as of 0h]
+* 1h - 7h: :sunny: Clear
 * 8h - 10h: :partly_sunny: Partly Cloudy
+* 11h: :cyclone: Windy (:partly_sunny:)
 
 **Edinburgh**
 
-* 23h - 7h: :sunny: Clear
+* 0h - 7h: :sunny: Clear
 * 8h, 9h: :cyclone: Windy (:sunny:)
-* 10h: :cyclone: Windy (:partly_sunny:)
+* 10h, 11h: :cyclone: Windy (:partly_sunny:)
