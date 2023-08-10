@@ -1,13 +1,15 @@
-*Updated: Thursday 10th August 02:30*
+*Updated: Thursday 10th August 03:30*
 
 **Glasgow**
 
-* 4h - 11h: :cloud: Cloudy
+* 5h - 11h: :cloud: Cloudy
 * 12h: :umbrella: Rainy
 * 13h, 14h: :cloud: Cloudy
 * 15h: :umbrella: Rainy
+* 16h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 4h, 5h: :partly_sunny: Partly Cloudy
+* 5h: :partly_sunny: Partly Cloudy
 * 6h - 15h: :cloud: Cloudy
+* 16h: :partly_sunny: Partly Cloudy
