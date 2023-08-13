@@ -1,11 +1,11 @@
-*Updated: Sunday 13th August 19:30*
+*Updated: Sunday 13th August 20:30*
 
 **Glasgow**
 
-* 21h: :cloud: Cloudy [:umbrella: as of 21h]
-* 22h - 8h: :cloud: Cloudy
+* 22h: :cloud: Cloudy [:umbrella: as of 22h]
+* 23h - 9h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 21h - 5h: :partly_sunny: Partly Cloudy
-* 6h - 8h: :cloud: Cloudy
+* 22h - 5h: :partly_sunny: Partly Cloudy
+* 6h - 9h: :cloud: Cloudy
