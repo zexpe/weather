@@ -1,15 +1,15 @@
-*Updated: Monday 14th August 05:30*
+*Updated: Monday 14th August 06:30*
 
 **Glasgow**
 
-* 7h - 13h: :cloud: Cloudy
+* 8h - 13h: :cloud: Cloudy
 * 14h: :umbrella: Rainy
-* 15h - 18h: :cloud: Cloudy
+* 15h - 19h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 7h - 13h: :cloud: Cloudy
+* 8h - 13h: :cloud: Cloudy
 * 14h: :umbrella: Rainy
 * 15h: :cloud: Cloudy
 * 16h: :umbrella: Rainy
-* 17h, 18h: :cloud: Cloudy
+* 17h - 19h: :cloud: Cloudy
