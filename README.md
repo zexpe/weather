@@ -1,18 +1,20 @@
-*Updated: Thursday 17th August 02:30*
+*Updated: Thursday 17th August 03:30*
 
 **Glasgow**
 
-* 4h - 6h: :partly_sunny: Partly Cloudy
+* 5h, 6h: :partly_sunny: Partly Cloudy
 * 7h, 8h: :cloud: Cloudy
 * 9h: :umbrella: Rainy
 * 10h, 11h: :cloud: Cloudy
 * 12h: :partly_sunny: Partly Cloudy
 * 13h, 14h: :cyclone: Windy (:partly_sunny:)
 * 15h: :cloud: Cloudy
+* 16h: :cyclone: Windy (:partly_sunny:)
 
 **Edinburgh**
 
-* 4h - 8h: :cloud: Cloudy
+* 5h - 8h: :cloud: Cloudy
 * 9h: :umbrella: Rainy
 * 10h, 11h: :cloud: Cloudy
 * 12h - 15h: :cyclone: Windy (:partly_sunny:)
+* 16h: :cyclone: Windy (:cloud:)
