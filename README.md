@@ -1,14 +1,13 @@
-*Updated: Tuesday 22nd August 22:30*
+*Updated: Wednesday 23rd August 23:30*
 
 **Glasgow**
 
-* 0h: :partly_sunny: Partly Cloudy
 * 1h - 7h: :cloud: Cloudy
 * 8h: :umbrella: Rainy
 * 9h - 11h: :cloud: Cloudy
+* 12h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 0h: :partly_sunny: Partly Cloudy [:umbrella: as of 0h]
 * 1h - 10h: :cloud: Cloudy
-* 11h: :partly_sunny: Partly Cloudy
+* 11h, 12h: :partly_sunny: Partly Cloudy
