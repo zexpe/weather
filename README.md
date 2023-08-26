@@ -1,8 +1,7 @@
-*Updated: Saturday 26th August 08:30*
+*Updated: Saturday 26th August 09:30*
 
 **Glasgow**
 
-* 10h: :sunny: Clear
 * 11h: :partly_sunny: Partly Cloudy [:cloud: as of 10h]
 * 12h: :cloud: Cloudy [:partly_sunny: as of 10h]
 * 13h: :cloud: Cloudy
@@ -12,14 +11,13 @@
 * 17h, 18h: :cloud: Cloudy [:partly_sunny: as of 10h]
 * 19h: :umbrella: Rainy [:partly_sunny: as of 10h]
 * 20h: :partly_sunny: Partly Cloudy [:sunny: as of 10h]
-* 21h: :sunny: Clear
+* 21h, 22h: :sunny: Clear
 
 **Edinburgh**
 
-* 10h: :umbrella: Rainy [:partly_sunny: as of 10h]
 * 11h: :cloud: Cloudy
 * 12h - 14h: :partly_sunny: Partly Cloudy [:cloud: as of 10h]
 * 15h: :partly_sunny: Partly Cloudy
 * 16h: :sunny: Clear [:partly_sunny: as of 10h]
 * 17h - 20h: :partly_sunny: Partly Cloudy [:sunny: as of 10h]
-* 21h: :sunny: Clear
+* 21h, 22h: :sunny: Clear
