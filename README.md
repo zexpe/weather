@@ -1,10 +1,10 @@
-*Updated: Thursday 31st August 02:30*
+*Updated: Thursday 31st August 03:30*
 
 **Glasgow**
 
-* 4h - 15h: :cloud: Cloudy
+* 5h - 16h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 4h - 14h: :cloud: Cloudy
-* 15h: :cyclone: Windy (:cloud:)
+* 5h - 14h: :cloud: Cloudy
+* 15h, 16h: :cyclone: Windy (:cloud:)
