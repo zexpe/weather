@@ -1,11 +1,11 @@
-*Updated: Thursday 31st August 17:30*
+*Updated: Thursday 31st August 18:30*
 
 **Glasgow**
 
-* 19h - 2h: :cloud: Cloudy
-* 3h - 6h: :partly_sunny: Partly Cloudy
+* 20h: :cloud: Cloudy [:umbrella: as of 20h]
+* 21h - 2h: :cloud: Cloudy
+* 3h - 7h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 19h: :cyclone: Windy (:cloud:) [:cloud: as of 15h]
-* 20h - 6h: :cloud: Cloudy
+* 20h - 7h: :cloud: Cloudy
