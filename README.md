@@ -1,10 +1,10 @@
-*Updated: Saturday 2nd September 17:30*
+*Updated: Saturday 2nd September 18:30*
 
 **Glasgow**
 
-* 19h - 6h: :cloud: Cloudy
+* 20h - 7h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 19h - 4h: :cloud: Cloudy
-* 5h, 6h: :cyclone: Windy (:cloud:)
+* 20h - 4h: :cloud: Cloudy
+* 5h - 7h: :cyclone: Windy (:cloud:)
