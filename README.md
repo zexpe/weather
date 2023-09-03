@@ -1,12 +1,12 @@
-*Updated: Sunday 3rd September 02:30*
+*Updated: Sunday 3rd September 03:30*
 
 **Glasgow**
 
-* 4h - 8h: :cloud: Cloudy
-* 9h - 15h: :cyclone: Windy (:cloud:)
+* 5h - 8h: :cloud: Cloudy
+* 9h - 16h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 4h: :cloud: Cloudy [:cyclone:(:cloud:) as of 3h]
-* 5h - 14h: :cyclone: Windy (:cloud:)
-* 15h: :cyclone: Windy (:partly_sunny:)
+* 5h, 6h: :cyclone: Windy (:cloud:) [:cloud: as of 5h]
+* 7h - 14h: :cyclone: Windy (:cloud:)
+* 15h, 16h: :cyclone: Windy (:partly_sunny:)
