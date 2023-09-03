@@ -1,10 +1,11 @@
-*Updated: Sunday 3rd September 20:30*
+*Updated: Sunday 3rd September 21:30*
 
 **Glasgow**
 
-* 22h - 8h: :sunny: Clear
+* 23h - 8h: :sunny: Clear
 * 9h: :partly_sunny: Partly Cloudy
+* 10h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 22h - 9h: :sunny: Clear
+* 23h - 10h: :sunny: Clear
