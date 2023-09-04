@@ -1,10 +1,10 @@
-*Updated: Monday 4th September 13:30*
+*Updated: Monday 4th September 14:30*
 
 **Glasgow**
 
-* 15h - 1h: :sunny: Clear
-* 2h: :partly_sunny: Partly Cloudy
+* 16h - 1h: :sunny: Clear
+* 2h, 3h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 15h - 2h: :sunny: Clear
+* 16h - 3h: :sunny: Clear
