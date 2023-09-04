@@ -1,11 +1,10 @@
-*Updated: Monday 4th September 12:30*
+*Updated: Monday 4th September 13:30*
 
 **Glasgow**
 
-* 14h: :cyclone: Windy (:sunny:) [:sunny: as of 10h]
 * 15h - 1h: :sunny: Clear
+* 2h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 14h: :cyclone: Windy (:sunny:) [:sunny: as of 9h, :cyclone:(:sunny:) as of 13h, :sunny: as of 14h]
-* 15h - 1h: :sunny: Clear
+* 15h - 2h: :sunny: Clear
