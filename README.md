@@ -1,13 +1,14 @@
-*Updated: Tuesday 5th September 03:30*
+*Updated: Tuesday 5th September 04:30*
 
 **Glasgow**
 
-* 5h - 9h: :cloud: Cloudy
+* 6h - 9h: :cloud: Cloudy
 * 10h, 11h: :partly_sunny: Partly Cloudy
 * 12h: :sunny: Clear
 * 13h - 16h: :cyclone: Windy (:sunny:)
+* 17h: :cyclone: Windy (:partly_sunny:)
 
 **Edinburgh**
 
-* 5h - 13h: :sunny: Clear
-* 14h - 16h: :cyclone: Windy (:sunny:)
+* 6h - 13h: :sunny: Clear
+* 14h - 17h: :cyclone: Windy (:sunny:)
