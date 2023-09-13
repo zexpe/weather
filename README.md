@@ -1,12 +1,12 @@
-*Updated: Wednesday 13th September 23:30*
+*Updated: Wednesday 13th September 00:30*
 
 **Glasgow**
 
-* 1h - 12h: :cloud: Cloudy
+* 2h - 13h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 1h - 3h: :partly_sunny: Partly Cloudy
+* 2h, 3h: :partly_sunny: Partly Cloudy
 * 4h: :cloud: Cloudy
 * 5h - 10h: :partly_sunny: Partly Cloudy
-* 11h, 12h: :cloud: Cloudy
+* 11h - 13h: :cloud: Cloudy
