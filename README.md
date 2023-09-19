@@ -1,20 +1,20 @@
-*Updated: Tuesday 19th September 20:30*
+*Updated: Tuesday 19th September 21:30*
 
 **Glasgow**
 
-* 22h: :cyclone: Windy (:cloud:) [:umbrella: as of 22h]
-* 23h - 3h: :cyclone: Windy (:cloud:)
+* 23h: :cyclone: Windy (:cloud:) [:umbrella: as of 23h]
+* 0h - 3h: :cyclone: Windy (:cloud:)
 * 4h - 6h: :umbrella: Rainy
 * 7h: :cyclone: Windy (:cloud:)
 * 8h: :umbrella: Rainy
-* 9h: :cyclone: Windy (:cloud:)
+* 9h, 10h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 22h: :umbrella: Rainy
-* 23h: :cyclone: Windy (:cloud:)
+* 23h: :cyclone: Windy (:cloud:) [:umbrella: as of 23h]
 * 0h - 2h: :umbrella: Rainy
-* 3h: :cyclone: Windy (:cloud:)
+* 3h: :cyclone: Windy (:cloud:) [:umbrella: as of 23h]
 * 4h - 6h: :umbrella: Rainy
-* 7h, 8h: :cyclone: Windy (:cloud:)
-* 9h: :cyclone: Windy (:partly_sunny:)
+* 7h: :cyclone: Windy (:cloud:) [:umbrella: as of 23h]
+* 8h: :cyclone: Windy (:cloud:)
+* 9h, 10h: :cyclone: Windy (:partly_sunny:)
