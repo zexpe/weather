@@ -1,16 +1,15 @@
-*Updated: Tuesday 26th September 20:30*
+*Updated: Tuesday 26th September 21:30*
 
 **Glasgow**
 
-* 22h: :sunny: Clear [:umbrella: as of 22h]
-* 23h - 4h: :sunny: Clear
+* 23h: :sunny: Clear [:cloud: as of 23h]
+* 0h - 4h: :sunny: Clear
 * 5h, 6h: :partly_sunny: Partly Cloudy
-* 7h - 9h: :cloud: Cloudy
+* 7h - 10h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 22h: :partly_sunny: Partly Cloudy [:umbrella: as of 22h]
-* 23h: :partly_sunny: Partly Cloudy
+* 23h: :partly_sunny: Partly Cloudy [:umbrella: as of 23h]
 * 0h - 4h: :sunny: Clear
 * 5h, 6h: :partly_sunny: Partly Cloudy
-* 7h - 9h: :cloud: Cloudy
+* 7h - 10h: :cloud: Cloudy
