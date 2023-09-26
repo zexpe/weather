@@ -1,17 +1,16 @@
-*Updated: Tuesday 26th September 18:30*
+*Updated: Tuesday 26th September 19:30*
 
 **Glasgow**
 
-* 20h: :cyclone: Windy (:partly_sunny:) [:partly_sunny: as of 10h]
-* 21h: :partly_sunny: Partly Cloudy
+* 21h: :partly_sunny: Partly Cloudy [:umbrella: as of 21h]
 * 22h - 4h: :sunny: Clear
 * 5h, 6h: :partly_sunny: Partly Cloudy
-* 7h: :cloud: Cloudy
+* 7h, 8h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 20h: :cyclone: Windy (:cloud:) [:cloud: as of 10h, :umbrella: as of 20h]
-* 21h - 23h: :partly_sunny: Partly Cloudy
+* 21h: :partly_sunny: Partly Cloudy [:umbrella: as of 21h]
+* 22h, 23h: :partly_sunny: Partly Cloudy
 * 0h - 4h: :sunny: Clear
 * 5h, 6h: :partly_sunny: Partly Cloudy
-* 7h: :cloud: Cloudy
+* 7h, 8h: :cloud: Cloudy
