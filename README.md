@@ -1,12 +1,13 @@
-*Updated: Saturday 30th September 03:30*
+*Updated: Saturday 30th September 04:30*
 
 **Glasgow**
 
-* 5h - 14h: :cloud: Cloudy
+* 6h - 14h: :cloud: Cloudy
 * 15h, 16h: :umbrella: Rainy
+* 17h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 5h - 14h: :cloud: Cloudy
+* 6h - 14h: :cloud: Cloudy
 * 15h: :umbrella: Rainy
-* 16h: :cloud: Cloudy
+* 16h, 17h: :cloud: Cloudy
