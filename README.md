@@ -1,14 +1,14 @@
-*Updated: Sunday 8th October 14:30*
+*Updated: Sunday 8th October 15:30*
 
 **Glasgow**
 
-* 16h, 17h: :partly_sunny: Partly Cloudy [:cloud: as of 10h]
-* 18h - 3h: :cloud: Cloudy
+* 17h: :partly_sunny: Partly Cloudy [:cloud: as of 10h]
+* 18h - 4h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 16h: :cloud: Cloudy [:umbrella: as of 16h]
 * 17h, 18h: :cloud: Cloudy
 * 19h, 20h: :cloud: Cloudy [:cyclone:(:cloud:) as of 10h]
-* 21h - 23h: :cyclone: Windy (:cloud:)
-* 0h - 3h: :cloud: Cloudy
+* 21h: :cyclone: Windy (:cloud:) [:cloud: as of 17h]
+* 22h, 23h: :cyclone: Windy (:cloud:)
+* 0h - 4h: :cloud: Cloudy
