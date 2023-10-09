@@ -1,10 +1,10 @@
-*Updated: Monday 9th October 02:30*
+*Updated: Monday 9th October 03:30*
 
 **Glasgow**
 
-* 4h - 14h: :cloud: Cloudy
-* 15h: :partly_sunny: Partly Cloudy
+* 5h - 14h: :cloud: Cloudy
+* 15h, 16h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 4h - 15h: :cloud: Cloudy
+* 5h - 16h: :cloud: Cloudy
