@@ -1,10 +1,9 @@
-*Updated: Monday 9th October 00:30*
+*Updated: Monday 9th October 01:30*
 
 **Glasgow**
 
-* 2h: :cloud: Cloudy [:cyclone:(:cloud:) as of 2h]
-* 3h - 13h: :cloud: Cloudy
+* 3h - 14h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 2h - 13h: :cloud: Cloudy
+* 3h - 14h: :cloud: Cloudy
