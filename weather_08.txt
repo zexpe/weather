@@ -1,42 +1,46 @@
 Glasgow
-10h Cloudy                    Cloud:  96%, Precipitation:  48%, Rain:  48%, Snow:   0%, Wind: 25.9 kph, Gust: 50.0 kph, Vis:  9.7 km
-11h Showers                   Cloud:  97%, Precipitation:  52%, Rain:  52%, Snow:   0%, Wind: 27.8 kph, Gust: 50.0 kph, Vis:  9.7 km
-12h Cloudy                    Cloud:  98%, Precipitation:  48%, Rain:  48%, Snow:   0%, Wind: 29.6 kph, Gust: 51.9 kph, Vis:  9.7 km
-13h Cloudy                    Cloud: 100%, Precipitation:  41%, Rain:  41%, Snow:   0%, Wind: 31.5 kph, Gust: 51.9 kph, Vis:  9.7 km
-14h Cloudy                    Cloud:  99%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 29.6 kph, Gust: 53.7 kph, Vis:  8.0 km
-15h Cloudy                    Cloud:  99%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 29.6 kph, Gust: 55.6 kph, Vis:  8.0 km
-16h Cloudy                    Cloud:  99%, Precipitation:  39%, Rain:  39%, Snow:   0%, Wind: 27.8 kph, Gust: 55.6 kph, Vis:  8.0 km
-17h Cloudy                    Cloud:  99%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 27.8 kph, Gust: 55.6 kph, Vis:  6.4 km
-18h Showers                   Cloud:  99%, Precipitation:  60%, Rain:  60%, Snow:   0%, Wind: 29.6 kph, Gust: 57.4 kph, Vis:  6.4 km
-19h Showers                   Cloud: 100%, Precipitation:  60%, Rain:  60%, Snow:   0%, Wind: 29.6 kph, Gust: 57.4 kph, Vis:  4.8 km
-20h Cloudy                    Cloud: 100%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 24.1 kph, Gust: 51.9 kph, Vis:  4.8 km
-21h Rain                      Cloud: 100%, Precipitation:  56%, Rain:  56%, Snow:   0%, Wind: 18.5 kph, Gust: 48.2 kph, Vis:  6.4 km
-Weather forecast for Tuesday 10th October:
-10h: :kite: Windy (:cloud:)
-11h: :kite: Windy (:cloud:) [:umbrella: as of 10h]
-12h - 16h: :kite: Windy (:cloud:)
-17h: :umbrella: Rainy [:kite:(:cloud:) as of 10h]
-18h: :umbrella: Rainy
-19h: :kite: Windy (:cloud:) [:umbrella: as of 10h]
-20h: :kite: Windy (:cloud:)
-21h: :umbrella: Rainy
+10h Mostly sunny              Cloud:  28%, Precipitation:  37%, Rain:  37%, Snow:   0%, Wind: 20.4 kph, Gust: 42.6 kph, Vis: 16.1 km
+11h Partly sunny              Cloud:  43%, Precipitation:  32%, Rain:  32%, Snow:   0%, Wind: 22.2 kph, Gust: 44.4 kph, Vis: 16.1 km
+12h Intermittent clouds       Cloud:  60%, Precipitation:  32%, Rain:  32%, Snow:   0%, Wind: 24.1 kph, Gust: 48.2 kph, Vis: 16.1 km
+13h Mostly cloudy             Cloud:  78%, Precipitation:  21%, Rain:  21%, Snow:   0%, Wind: 24.1 kph, Gust: 50.0 kph, Vis: 16.1 km
+14h Intermittent clouds       Cloud:  70%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 25.9 kph, Gust: 51.9 kph, Vis: 16.1 km
+15h Intermittent clouds       Cloud:  62%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 25.9 kph, Gust: 53.7 kph, Vis: 16.1 km
+16h Intermittent clouds       Cloud:  54%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 24.1 kph, Gust: 50.0 kph, Vis: 16.1 km
+17h Partly sunny              Cloud:  36%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 22.2 kph, Gust: 44.4 kph, Vis: 16.1 km
+18h Mostly sunny              Cloud:  19%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 16.7 kph, Gust: 38.9 kph, Vis: 16.1 km
+19h Clear                     Cloud:   1%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 14.8 kph, Gust: 33.3 kph, Vis: 16.1 km
+20h Clear                     Cloud:   1%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 29.6 kph, Vis: 16.1 km
+21h Clear                     Cloud:   2%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis: 16.1 km
+Weather forecast for Wednesday 11th October:
+10h: :kite: Windy (:cloud:) [:kite:(:sunny:) as of 9h]
+11h: :kite: Windy (:cloud:) [:kite:(:white_sun_small_cloud:) as of 9h]
+12h: :kite: Windy (:white_sun_small_cloud:)
+13h: :kite: Windy (:white_sun_small_cloud:) [:kite:(:cloud:) as of 9h]
+14h - 17h: :kite: Windy (:white_sun_small_cloud:)
+18h, 19h: :kite: Windy (:sunny:)
+20h, 21h: :sunny: Clear
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
 Edinburgh
-10h Showers                   Cloud:  92%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 27.8 kph, Gust: 55.6 kph, Vis: 11.3 km
-11h Cloudy                    Cloud:  94%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 31.5 kph, Gust: 55.6 kph, Vis: 11.3 km
-12h Cloudy                    Cloud:  96%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 35.2 kph, Gust: 55.6 kph, Vis: 11.3 km
-13h Cloudy                    Cloud:  98%, Precipitation:  23%, Rain:  23%, Snow:   0%, Wind: 37.0 kph, Gust: 55.6 kph, Vis: 11.3 km
-14h Cloudy                    Cloud:  99%, Precipitation:   1%, Rain:   1%, Snow:   0%, Wind: 38.9 kph, Gust: 55.6 kph, Vis: 11.3 km
-15h Cloudy                    Cloud:  99%, Precipitation:   1%, Rain:   1%, Snow:   0%, Wind: 38.9 kph, Gust: 57.4 kph, Vis: 11.3 km
-16h Cloudy                    Cloud: 100%, Precipitation:   1%, Rain:   1%, Snow:   0%, Wind: 37.0 kph, Gust: 59.3 kph, Vis: 11.3 km
-17h Cloudy                    Cloud: 100%, Precipitation:   1%, Rain:   1%, Snow:   0%, Wind: 37.0 kph, Gust: 59.3 kph, Vis:  9.7 km
-18h Cloudy                    Cloud: 100%, Precipitation:   1%, Rain:   1%, Snow:   0%, Wind: 35.2 kph, Gust: 61.1 kph, Vis:  8.0 km
-19h Cloudy                    Cloud: 100%, Precipitation:   3%, Rain:   3%, Snow:   0%, Wind: 31.5 kph, Gust: 63.0 kph, Vis:  8.0 km
-20h Cloudy                    Cloud: 100%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 29.6 kph, Gust: 59.3 kph, Vis:  8.0 km
-21h Cloudy                    Cloud: 100%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 27.8 kph, Gust: 57.4 kph, Vis:  8.0 km
-Weather forecast for Tuesday 10th October:
-10h: :kite: Windy (:cloud:) [:umbrella: as of 10h]
-11h - 21h: :kite: Windy (:cloud:)
+10h Intermittent clouds       Cloud:  57%, Precipitation:  46%, Rain:  46%, Snow:   0%, Wind: 24.1 kph, Gust: 48.2 kph, Vis: 16.1 km
+11h Mostly sunny              Cloud:  12%, Precipitation:  32%, Rain:  32%, Snow:   0%, Wind: 24.1 kph, Gust: 48.2 kph, Vis: 16.1 km
+12h Mostly sunny              Cloud:  16%, Precipitation:  32%, Rain:  32%, Snow:   0%, Wind: 24.1 kph, Gust: 48.2 kph, Vis: 16.1 km
+13h Mostly sunny              Cloud:  20%, Precipitation:  21%, Rain:  21%, Snow:   0%, Wind: 22.2 kph, Gust: 48.2 kph, Vis: 16.1 km
+14h Partly sunny              Cloud:  32%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 22.2 kph, Gust: 48.2 kph, Vis: 16.1 km
+15h Partly sunny              Cloud:  44%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 22.2 kph, Gust: 53.7 kph, Vis: 16.1 km
+16h Intermittent clouds       Cloud:  57%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 20.4 kph, Gust: 51.9 kph, Vis: 16.1 km
+17h Partly sunny              Cloud:  38%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 18.5 kph, Gust: 48.2 kph, Vis: 16.1 km
+18h Mostly sunny              Cloud:  20%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 16.7 kph, Gust: 40.7 kph, Vis: 16.1 km
+19h Clear                     Cloud:   1%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 14.8 kph, Gust: 35.2 kph, Vis: 16.1 km
+20h Clear                     Cloud:   1%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 29.6 kph, Vis: 16.1 km
+21h Clear                     Cloud:   0%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis: 16.1 km
+Weather forecast for Wednesday 11th October:
+10h: :kite: Windy (:cloud:) [:kite:(:white_sun_small_cloud:) as of 10h]
+11h, 12h: :kite: Windy (:cloud:) [:kite:(:sunny:) as of 10h]
+13h: :kite: Windy (:white_sun_small_cloud:) [:kite:(:sunny:) as of 10h]
+14h - 17h: :kite: Windy (:white_sun_small_cloud:)
+18h, 19h: :kite: Windy (:sunny:)
+20h: :kite: Windy (:sunny:) [:sunny: as of 10h]
+21h: :sunny: Clear
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
