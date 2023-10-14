@@ -1,15 +1,13 @@
-*Updated: Saturday 14th October 16:30*
+*Updated: Saturday 14th October 17:30*
 
 **Glasgow**
 
-* 18h: :cyclone: Windy (:sunny:) [:sunny: as of 10h, :cyclone:(:sunny:) as of 18h]
-* 19h: :cyclone: Windy (:sunny:) [:sunny: as of 10h]
-* 20h - 5h: :sunny: Clear
+* 19h: :cyclone: Windy (:sunny:) [:sunny: as of 10h, :cyclone:(:sunny:) as of 19h]
+* 20h - 6h: :sunny: Clear
 
 **Edinburgh**
 
-* 18h: :cyclone: Windy (:sunny:) [:partly_sunny: as of 18h]
-* 19h: :cyclone: Windy (:sunny:) [:sunny: as of 15h]
+* 19h: :cyclone: Windy (:sunny:) [:sunny: as of 15h, :partly_sunny: as of 19h]
 * 20h: :sunny: Clear [:cyclone:(:sunny:) as of 10h, :sunny: as of 16h]
 * 21h: :cyclone: Windy (:sunny:) [:sunny: as of 17h]
-* 22h - 5h: :sunny: Clear
+* 22h - 6h: :sunny: Clear
