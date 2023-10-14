@@ -1,11 +1,11 @@
-*Updated: Saturday 14th October 18:30*
+*Updated: Saturday 14th October 19:30*
 
 **Glasgow**
 
-* 20h - 7h: :sunny: Clear
+* 21h - 7h: :sunny: Clear
+* 8h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 20h: :sunny: Clear [:cyclone:(:sunny:) as of 10h, :sunny: as of 16h]
 * 21h: :cyclone: Windy (:sunny:) [:sunny: as of 17h]
-* 22h - 7h: :sunny: Clear
+* 22h - 8h: :sunny: Clear
