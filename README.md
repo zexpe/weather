@@ -1,9 +1,9 @@
-*Updated: Sunday 15th October 16:30*
+*Updated: Sunday 15th October 17:30*
 
 **Glasgow**
 
-* 18h - 5h: :cloud: Cloudy
+* 19h - 6h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 18h - 5h: :cloud: Cloudy
+* 19h - 6h: :cloud: Cloudy
