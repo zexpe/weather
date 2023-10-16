@@ -1,9 +1,9 @@
-*Updated: Monday 16th October 01:30*
+*Updated: Monday 16th October 02:30*
 
 **Glasgow**
 
-* 3h - 14h: :cloud: Cloudy
+* 4h - 15h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 3h - 14h: :cloud: Cloudy
+* 4h - 15h: :cloud: Cloudy
