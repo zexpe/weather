@@ -1,10 +1,9 @@
-*Updated: Monday 16th October 23:30*
+*Updated: Monday 16th October 00:30*
 
 **Glasgow**
 
-* 1h: :cloud: Cloudy [:umbrella: as of 1h]
-* 2h - 12h: :cloud: Cloudy
+* 2h - 13h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 1h - 12h: :cloud: Cloudy
+* 2h - 13h: :cloud: Cloudy
