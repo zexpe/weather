@@ -1,12 +1,11 @@
-*Updated: Friday 27th October 10:30*
+*Updated: Friday 27th October 11:30*
 
 **Glasgow**
 
-* 12h: :cyclone: Windy (:cloud:) [:umbrella: as of 12h]
-* 13h: :cyclone: Windy (:cloud:) [:cyclone:(:partly_sunny:) as of 10h]
+* 13h: :cyclone: Windy (:cloud:) [:cyclone:(:partly_sunny:) as of 10h, :cyclone:(:cloud:) as of 13h]
 * 14h: :cyclone: Windy (:cloud:)
 * 15h: :umbrella: Rainy
-* 16h - 23h: :cyclone: Windy (:cloud:)
+* 16h - 0h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
