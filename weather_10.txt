@@ -1,39 +1,45 @@
 Glasgow
-12h Mostly cloudy             Cloud:  81%, Precipitation:  32%, Rain:  32%, Snow:   0%, Wind: 22.2 kph, Gust: 42.6 kph, Vis:  8.0 km
-13h Mostly cloudy             Cloud:  87%, Precipitation:  28%, Rain:  28%, Snow:   0%, Wind: 24.1 kph, Gust: 44.4 kph, Vis:  8.0 km
-14h Cloudy                    Cloud:  91%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 24.1 kph, Gust: 42.6 kph, Vis:  8.0 km
-15h Cloudy                    Cloud:  96%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 22.2 kph, Gust: 40.7 kph, Vis:  8.0 km
-16h Cloudy                    Cloud: 100%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 22.2 kph, Gust: 38.9 kph, Vis:  8.0 km
-17h Cloudy                    Cloud:  98%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 20.4 kph, Gust: 40.7 kph, Vis:  6.4 km
-18h Cloudy                    Cloud:  96%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 18.5 kph, Gust: 42.6 kph, Vis:  6.4 km
-19h Cloudy                    Cloud:  94%, Precipitation:  16%, Rain:  16%, Snow:   0%, Wind: 16.7 kph, Gust: 40.7 kph, Vis:  6.4 km
-20h Cloudy                    Cloud:  95%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 16.7 kph, Gust: 42.6 kph, Vis:  6.4 km
-21h Cloudy                    Cloud:  97%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 18.5 kph, Gust: 42.6 kph, Vis:  6.4 km
-22h Cloudy                    Cloud: 100%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 18.5 kph, Gust: 42.6 kph, Vis:  6.4 km
-23h Cloudy                    Cloud: 100%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 20.4 kph, Gust: 42.6 kph, Vis:  6.4 km
-Weather forecast for Saturday 28th October:
-12h - 23h: :kite: Windy (:cloud:)
+12h Showers                   Cloud: 100%, Precipitation:  83%, Rain:  83%, Snow:   0%, Wind: 11.1 kph, Gust: 24.1 kph, Vis:  4.8 km
+13h Cloudy                    Cloud: 100%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 11.1 kph, Gust: 24.1 kph, Vis:  4.8 km
+14h Cloudy                    Cloud: 100%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 13.0 kph, Gust: 27.8 kph, Vis:  4.8 km
+15h Cloudy                    Cloud: 100%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 14.8 kph, Gust: 29.6 kph, Vis:  4.8 km
+16h Rain                      Cloud: 100%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind: 16.7 kph, Gust: 37.0 kph, Vis:  4.8 km
+17h Rain                      Cloud: 100%, Precipitation:  55%, Rain:  55%, Snow:   0%, Wind: 20.4 kph, Gust: 46.3 kph, Vis:  4.8 km
+18h Cloudy                    Cloud: 100%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 22.2 kph, Gust: 42.6 kph, Vis:  6.4 km
+19h Cloudy                    Cloud: 100%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 22.2 kph, Gust: 38.9 kph, Vis:  6.4 km
+20h Cloudy                    Cloud: 100%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 22.2 kph, Gust: 37.0 kph, Vis:  6.4 km
+21h Cloudy                    Cloud: 100%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 20.4 kph, Gust: 35.2 kph, Vis:  6.4 km
+22h Rain                      Cloud: 100%, Precipitation:  61%, Rain:  61%, Snow:   0%, Wind: 20.4 kph, Gust: 33.3 kph, Vis:  6.4 km
+23h Rain                      Cloud: 100%, Precipitation:  61%, Rain:  61%, Snow:   0%, Wind: 20.4 kph, Gust: 31.5 kph, Vis:  6.4 km
+Weather forecast for Sunday 29th October:
+12h: :kite: Windy (:cloud:) [:cloud: as of 9h, :umbrella: as of 12h]
+13h: :kite: Windy (:cloud:) [:umbrella: as of 3h, :cloud: as of 9h]
+14h: :umbrella: Rainy [:cloud: as of 9h]
+15h: :kite: Windy (:cloud:) [:cloud: as of 11h]
+16h, 17h: :kite: Windy (:cloud:) [:umbrella: as of 9h]
+18h - 21h: :kite: Windy (:cloud:)
+22h, 23h: :umbrella: Rainy
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
 Edinburgh
-12h Showers                   Cloud:  81%, Precipitation:  52%, Rain:  52%, Snow:   0%, Wind: 22.2 kph, Gust: 31.5 kph, Vis:  8.0 km
-13h Partly sunny              Cloud:  47%, Precipitation:  48%, Rain:  48%, Snow:   0%, Wind: 22.2 kph, Gust: 33.3 kph, Vis:  9.7 km
-14h Intermittent clouds       Cloud:  70%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 18.5 kph, Gust: 35.2 kph, Vis:  8.0 km
-15h Partly sunny              Cloud:  46%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 13.0 kph, Gust: 29.6 kph, Vis:  8.0 km
-16h Partly sunny              Cloud:  45%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 11.1 kph, Gust: 22.2 kph, Vis:  8.0 km
-17h Intermittent clouds       Cloud:  63%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 13.0 kph, Gust: 31.5 kph, Vis:  6.4 km
-18h Mostly cloudy             Cloud:  80%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 14.8 kph, Gust: 37.0 kph, Vis:  6.4 km
-19h Cloudy                    Cloud:  97%, Precipitation:  16%, Rain:  16%, Snow:   0%, Wind: 14.8 kph, Gust: 37.0 kph, Vis:  6.4 km
-20h Cloudy                    Cloud:  98%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 14.8 kph, Gust: 37.0 kph, Vis:  6.4 km
-21h Cloudy                    Cloud:  99%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 14.8 kph, Gust: 37.0 kph, Vis:  4.8 km
-22h Cloudy                    Cloud: 100%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 14.8 kph, Gust: 35.2 kph, Vis:  4.8 km
-23h Cloudy                    Cloud: 100%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 13.0 kph, Gust: 33.3 kph, Vis:  4.8 km
-Weather forecast for Saturday 28th October:
-12h: :cloud: Cloudy [:umbrella: as of 12h]
-13h, 14h: :kite: Windy (:white_sun_small_cloud:)
-15h: :kite: Windy (:white_sun_small_cloud:) [:white_sun_small_cloud: as of 11h]
-16h: :kite: Windy (:white_sun_small_cloud:) [:white_sun_small_cloud: as of 10h]
-17h: :kite: Windy (:cloud:) [:kite:(:white_sun_small_cloud:) as of 10h]
-18h - 23h: :kite: Windy (:cloud:)
+12h Cloudy                    Cloud: 100%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 24.1 kph, Gust: 44.4 kph, Vis:  4.8 km
+13h Cloudy                    Cloud: 100%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 20.4 kph, Gust: 40.7 kph, Vis:  4.8 km
+14h Rain                      Cloud: 100%, Precipitation:  79%, Rain:  79%, Snow:   0%, Wind: 18.5 kph, Gust: 37.0 kph, Vis:  4.8 km
+15h Rain                      Cloud: 100%, Precipitation:  79%, Rain:  79%, Snow:   0%, Wind: 16.7 kph, Gust: 33.3 kph, Vis:  4.8 km
+16h Rain                      Cloud: 100%, Precipitation:  75%, Rain:  75%, Snow:   0%, Wind: 18.5 kph, Gust: 40.7 kph, Vis:  4.8 km
+17h Rain                      Cloud: 100%, Precipitation:  75%, Rain:  75%, Snow:   0%, Wind: 24.1 kph, Gust: 53.7 kph, Vis:  4.8 km
+18h Cloudy                    Cloud: 100%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 25.9 kph, Gust: 50.0 kph, Vis:  4.8 km
+19h Rain                      Cloud: 100%, Precipitation:  82%, Rain:  82%, Snow:   0%, Wind: 25.9 kph, Gust: 46.3 kph, Vis:  4.8 km
+20h Rain                      Cloud: 100%, Precipitation:  82%, Rain:  82%, Snow:   0%, Wind: 24.1 kph, Gust: 44.4 kph, Vis:  4.8 km
+21h Rain                      Cloud: 100%, Precipitation:  82%, Rain:  82%, Snow:   0%, Wind: 24.1 kph, Gust: 44.4 kph, Vis:  4.8 km
+22h Rain                      Cloud: 100%, Precipitation:  85%, Rain:  85%, Snow:   0%, Wind: 20.4 kph, Gust: 42.6 kph, Vis:  4.8 km
+23h Rain                      Cloud: 100%, Precipitation:  85%, Rain:  85%, Snow:   0%, Wind: 18.5 kph, Gust: 40.7 kph, Vis:  6.4 km
+Weather forecast for Sunday 29th October:
+12h: :umbrella: Rainy [:kite:(:cloud:) as of 3h]
+13h: :kite: Windy (:cloud:) [:umbrella: as of 3h, :kite:(:cloud:) as of 9h]
+14h - 16h: :umbrella: Rainy
+17h: :kite: Windy (:cloud:) [:umbrella: as of 9h]
+18h: :white_sun_small_cloud: Partly Cloudy [:kite:(:cloud:) as of 9h]
+19h - 23h: :umbrella: Rainy
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
