@@ -1,14 +1,13 @@
-*Updated: Friday 3rd November 21:30*
+*Updated: Friday 3rd November 22:30*
 
 **Glasgow**
 
-* 23h: :sunny: Clear [:cloud: as of 23h]
-* 0h: :sunny: Clear
+* 0h: :sunny: Clear [:umbrella: as of 0h]
 * 1h, 2h: :partly_sunny: Partly Cloudy
-* 3h - 10h: :cloud: Cloudy
+* 3h - 11h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 23h - 8h: :partly_sunny: Partly Cloudy
+* 0h - 8h: :partly_sunny: Partly Cloudy
 * 9h: :cloud: Cloudy
-* 10h: :partly_sunny: Partly Cloudy
+* 10h, 11h: :partly_sunny: Partly Cloudy
