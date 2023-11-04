@@ -1,11 +1,10 @@
-*Updated: Saturday 4th November 15:30*
+*Updated: Saturday 4th November 16:30*
 
 **Glasgow**
 
-* 17h - 4h: :cloud: Cloudy
+* 18h - 5h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 17h: :umbrella: Rainy [:cloud: as of 9h]
 * 18h: :cloud: Cloudy [:umbrella: as of 9h]
-* 19h - 4h: :cloud: Cloudy
+* 19h - 5h: :cloud: Cloudy
