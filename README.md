@@ -1,10 +1,12 @@
-*Updated: Monday 6th November 04:30*
+*Updated: Monday 6th November 05:30*
 
 **Glasgow**
 
-* 6h - 17h: :cloud: Cloudy
+* 7h: :cloud: Cloudy [:umbrella: as of 7h]
+* 8h - 18h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 6h - 16h: :cloud: Cloudy
+* 7h - 16h: :cloud: Cloudy
 * 17h: :partly_sunny: Partly Cloudy
+* 18h: :cyclone: Windy (:partly_sunny:)
