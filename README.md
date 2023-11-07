@@ -1,14 +1,15 @@
-*Updated: Tuesday 7th November 02:30*
+*Updated: Tuesday 7th November 03:30*
 
 **Glasgow**
 
-* 4h - 7h: :sunny: Clear
+* 5h - 7h: :sunny: Clear
 * 8h - 10h: :partly_sunny: Partly Cloudy
 * 11h, 12h: :cloud: Cloudy
 * 13h, 14h: :partly_sunny: Partly Cloudy
-* 15h: :sunny: Clear
+* 15h, 16h: :sunny: Clear
 
 **Edinburgh**
 
-* 4h: :cyclone: Windy (:cloud:) [:cloud: as of 0h]
-* 5h - 15h: :partly_sunny: Partly Cloudy
+* 5h: :partly_sunny: Partly Cloudy [:cloud: as of 5h]
+* 6h - 15h: :partly_sunny: Partly Cloudy
+* 16h: :sunny: Clear
