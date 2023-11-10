@@ -1,48 +1,45 @@
 Glasgow
-11h Showers                   Cloud:  81%, Precipitation:  44%, Rain:  44%, Snow:   0%, Wind:  9.3 kph, Gust: 16.7 kph, Vis: 11.3 km
-12h Showers                   Cloud:  87%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind:  9.3 kph, Gust: 18.5 kph, Vis: 11.3 km
-13h Intermittent clouds       Cloud:  65%, Precipitation:  25%, Rain:  25%, Snow:   0%, Wind:  9.3 kph, Gust: 20.4 kph, Vis: 11.3 km
-14h Partly sunny              Cloud:  43%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind:  9.3 kph, Gust: 20.4 kph, Vis: 11.3 km
-15h Mostly sunny              Cloud:  21%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind:  9.3 kph, Gust: 20.4 kph, Vis: 11.3 km
-16h Mostly sunny              Cloud:  22%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind:  9.3 kph, Gust: 18.5 kph, Vis: 11.3 km
-17h Mostly clear              Cloud:  24%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind:  7.4 kph, Gust: 16.7 kph, Vis:  9.7 km
-18h Mostly clear              Cloud:  25%, Precipitation:  14%, Rain:  13%, Snow:   0%, Wind:  7.4 kph, Gust: 14.8 kph, Vis:  9.7 km
-19h Partly cloudy             Cloud:  49%, Precipitation:   1%, Rain:   0%, Snow:   0%, Wind:  7.4 kph, Gust: 13.0 kph, Vis:  9.7 km
-20h Intermittent clouds       Cloud:  72%, Precipitation:   1%, Rain:   0%, Snow:   0%, Wind:  5.6 kph, Gust: 13.0 kph, Vis:  9.7 km
-21h Cloudy                    Cloud:  95%, Precipitation:   1%, Rain:   0%, Snow:   0%, Wind:  5.6 kph, Gust: 13.0 kph, Vis:  9.7 km
-22h Mostly cloudy             Cloud:  75%, Precipitation:   1%, Rain:   0%, Snow:   0%, Wind:  5.6 kph, Gust: 11.1 kph, Vis:  9.7 km
-Weather forecast for Thursday 9th November:
-11h: :cloud: Cloudy [:white_sun_small_cloud: as of 10h, :umbrella: as of 11h]
-12h: :cloud: Cloudy [:umbrella: as of 10h]
-13h, 14h: :umbrella: Rainy [:white_sun_small_cloud: as of 10h]
-15h: :umbrella: Rainy [:sunny: as of 10h]
-16h: :cloud: Cloudy [:sunny: as of 10h]
-17h, 18h: :white_sun_small_cloud: Partly Cloudy [:sunny: as of 10h]
-19h, 20h: :white_sun_small_cloud: Partly Cloudy
-21h, 22h: :cloud: Cloudy
+11h Mostly cloudy             Cloud:  75%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  7.4 kph, Gust: 13.0 kph, Vis: 16.1 km
+12h Intermittent clouds       Cloud:  62%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  7.4 kph, Gust: 14.8 kph, Vis: 16.1 km
+13h Partly sunny              Cloud:  43%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  9.3 kph, Gust: 14.8 kph, Vis: 16.1 km
+14h Mostly sunny              Cloud:  25%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  9.3 kph, Gust: 14.8 kph, Vis: 16.1 km
+15h Sunny                     Cloud:   6%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  9.3 kph, Gust: 14.8 kph, Vis: 16.1 km
+16h Sunny                     Cloud:   5%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  9.3 kph, Gust: 16.7 kph, Vis: 11.3 km
+17h Clear                     Cloud:   5%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 16.7 kph, Vis: 11.3 km
+18h Clear                     Cloud:   4%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 16.7 kph, Vis: 11.3 km
+19h Clear                     Cloud:   4%, Precipitation:   2%, Rain:   2%, Snow:   0%, Wind:  9.3 kph, Gust: 16.7 kph, Vis: 11.3 km
+20h Clear                     Cloud:   4%, Precipitation:   2%, Rain:   2%, Snow:   0%, Wind:  9.3 kph, Gust: 16.7 kph, Vis: 11.3 km
+21h Clear                     Cloud:   4%, Precipitation:   2%, Rain:   2%, Snow:   0%, Wind:  7.4 kph, Gust: 16.7 kph, Vis: 11.3 km
+22h Mostly clear              Cloud:  19%, Precipitation:   2%, Rain:   2%, Snow:   0%, Wind:  9.3 kph, Gust: 16.7 kph, Vis: 11.3 km
+Weather forecast for Friday 10th November:
+11h: :cloud: Cloudy
+12h: :cloud: Cloudy [:white_sun_small_cloud: as of 10h]
+13h: :white_sun_small_cloud: Partly Cloudy
+14h: :white_sun_small_cloud: Partly Cloudy [:sunny: as of 10h]
+15h - 22h: :sunny: Clear
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
 Edinburgh
-11h Intermittent clouds       Cloud:  69%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind:  7.4 kph, Gust: 18.5 kph, Vis: 16.1 km
-12h Cloudy                    Cloud:  96%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind:  9.3 kph, Gust: 18.5 kph, Vis: 16.1 km
-13h Mostly cloudy             Cloud:  78%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind:  9.3 kph, Gust: 20.4 kph, Vis: 16.1 km
-14h Intermittent clouds       Cloud:  60%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind:  7.4 kph, Gust: 18.5 kph, Vis: 16.1 km
-15h Partly sunny              Cloud:  42%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind:  5.6 kph, Gust: 14.8 kph, Vis: 16.1 km
-16h Partly sunny              Cloud:  46%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind:  5.6 kph, Gust: 16.7 kph, Vis: 11.3 km
-17h Partly cloudy             Cloud:  49%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind:  5.6 kph, Gust: 16.7 kph, Vis: 11.3 km
-18h Intermittent clouds       Cloud:  53%, Precipitation:   6%, Rain:   6%, Snow:   0%, Wind:  5.6 kph, Gust: 14.8 kph, Vis:  9.7 km
-19h Partly cloudy             Cloud:  45%, Precipitation:   5%, Rain:   4%, Snow:   0%, Wind:  5.6 kph, Gust: 13.0 kph, Vis:  9.7 km
-20h Partly cloudy             Cloud:  37%, Precipitation:   5%, Rain:   4%, Snow:   0%, Wind:  3.7 kph, Gust:  9.3 kph, Vis:  9.7 km
-21h Mostly clear              Cloud:  29%, Precipitation:   5%, Rain:   4%, Snow:   0%, Wind:  3.7 kph, Gust:  9.3 kph, Vis:  9.7 km
-22h Partly cloudy             Cloud:  33%, Precipitation:   5%, Rain:   4%, Snow:   0%, Wind:  5.6 kph, Gust: 11.1 kph, Vis:  9.7 km
-Weather forecast for Thursday 9th November:
-11h: :cloud: Cloudy [:white_sun_small_cloud: as of 10h]
-12h, 13h: :cloud: Cloudy
-14h, 15h: :cloud: Cloudy [:white_sun_small_cloud: as of 10h]
-16h: :umbrella: Rainy [:white_sun_small_cloud: as of 10h]
-17h: :cloud: Cloudy [:white_sun_small_cloud: as of 10h]
-18h, 19h: :umbrella: Rainy [:white_sun_small_cloud: as of 10h]
-20h: :cloud: Cloudy [:white_sun_small_cloud: as of 10h]
+11h Partly sunny              Cloud:  34%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  9.3 kph, Gust: 16.7 kph, Vis: 16.1 km
+12h Mostly sunny              Cloud:  21%, Precipitation:   1%, Rain:   1%, Snow:   0%, Wind:  9.3 kph, Gust: 18.5 kph, Vis: 16.1 km
+13h Partly sunny              Cloud:  36%, Precipitation:   2%, Rain:   2%, Snow:   0%, Wind:  9.3 kph, Gust: 20.4 kph, Vis: 16.1 km
+14h Intermittent clouds       Cloud:  51%, Precipitation:   2%, Rain:   2%, Snow:   0%, Wind:  9.3 kph, Gust: 22.2 kph, Vis: 16.1 km
+15h Intermittent clouds       Cloud:  66%, Precipitation:   2%, Rain:   2%, Snow:   0%, Wind:  9.3 kph, Gust: 22.2 kph, Vis: 16.1 km
+16h Intermittent clouds       Cloud:  51%, Precipitation:   2%, Rain:   2%, Snow:   0%, Wind:  9.3 kph, Gust: 24.1 kph, Vis: 16.1 km
+17h Partly cloudy             Cloud:  36%, Precipitation:   2%, Rain:   2%, Snow:   0%, Wind:  9.3 kph, Gust: 22.2 kph, Vis: 11.3 km
+18h Mostly clear              Cloud:  21%, Precipitation:   2%, Rain:   2%, Snow:   0%, Wind:  9.3 kph, Gust: 22.2 kph, Vis: 11.3 km
+19h Mostly clear              Cloud:  20%, Precipitation:   3%, Rain:   3%, Snow:   0%, Wind:  9.3 kph, Gust: 20.4 kph, Vis: 11.3 km
+20h Mostly clear              Cloud:  18%, Precipitation:   3%, Rain:   3%, Snow:   0%, Wind:  9.3 kph, Gust: 20.4 kph, Vis: 11.3 km
+21h Mostly clear              Cloud:  16%, Precipitation:   3%, Rain:   3%, Snow:   0%, Wind:  9.3 kph, Gust: 20.4 kph, Vis: 11.3 km
+22h Partly cloudy             Cloud:  30%, Precipitation:   3%, Rain:   3%, Snow:   0%, Wind:  9.3 kph, Gust: 20.4 kph, Vis: 11.3 km
+Weather forecast for Friday 10th November:
+11h: :white_sun_small_cloud: Partly Cloudy
+12h: :sunny: Clear
+13h - 15h: :sunny: Clear [:white_sun_small_cloud: as of 10h]
+16h, 17h: :white_sun_small_cloud: Partly Cloudy
+18h: :white_sun_small_cloud: Partly Cloudy [:sunny: as of 10h]
+19h: :cloud: Cloudy [:sunny: as of 10h]
+20h: :umbrella: Rainy [:sunny: as of 10h]
 21h: :sunny: Clear
 22h: :white_sun_small_cloud: Partly Cloudy
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
