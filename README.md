@@ -1,13 +1,14 @@
-*Updated: Sunday 12th November 00:30*
+*Updated: Sunday 12th November 01:30*
 
 **Glasgow**
 
-* 2h - 10h: :cloud: Cloudy
+* 3h - 10h: :cloud: Cloudy
 * 11h: :cyclone: Windy (:cloud:)
-* 12h, 13h: :cyclone: Windy (:partly_sunny:)
+* 12h - 14h: :cyclone: Windy (:partly_sunny:)
 
 **Edinburgh**
 
-* 2h, 3h: :partly_sunny: Partly Cloudy
+* 3h: :partly_sunny: Partly Cloudy
 * 4h - 10h: :cloud: Cloudy
 * 11h - 13h: :partly_sunny: Partly Cloudy
+* 14h: :sunny: Clear
