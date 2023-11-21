@@ -1,10 +1,11 @@
-*Updated: Tuesday 21st November 09:30*
+*Updated: Tuesday 21st November 10:30*
 
 **Glasgow**
 
-* 11h - 22h: :cloud: Cloudy
+* 12h - 22h: :cloud: Cloudy
+* 23h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 11h - 20h: :cloud: Cloudy
-* 21h, 22h: :cyclone: Windy (:cloud:)
+* 12h - 20h: :cloud: Cloudy
+* 21h - 23h: :cyclone: Windy (:cloud:)
