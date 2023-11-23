@@ -1,43 +1,41 @@
 Glasgow
- 9h Cloudy                    Cloud: 100%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 27.8 kph, Gust: 53.7 kph, Vis:  6.4 km
-10h Cloudy                    Cloud: 100%, Precipitation:  48%, Rain:  48%, Snow:   0%, Wind: 25.9 kph, Gust: 51.9 kph, Vis:  8.0 km
-11h Showers                   Cloud: 100%, Precipitation:  52%, Rain:  52%, Snow:   0%, Wind: 25.9 kph, Gust: 50.0 kph, Vis:  8.0 km
-12h Cloudy                    Cloud: 100%, Precipitation:  44%, Rain:  44%, Snow:   0%, Wind: 25.9 kph, Gust: 51.9 kph, Vis:  9.7 km
-13h Rain                      Cloud: 100%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind: 25.9 kph, Gust: 51.9 kph, Vis:  9.7 km
-14h Cloudy                    Cloud: 100%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 25.9 kph, Gust: 51.9 kph, Vis:  9.7 km
-15h Cloudy                    Cloud: 100%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 24.1 kph, Gust: 50.0 kph, Vis:  9.7 km
-16h Rain                      Cloud:  99%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind: 24.1 kph, Gust: 51.9 kph, Vis:  9.7 km
-17h Cloudy                    Cloud:  99%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 24.1 kph, Gust: 51.9 kph, Vis: 11.3 km
-18h Cloudy                    Cloud:  99%, Precipitation:  44%, Rain:  44%, Snow:   0%, Wind: 24.1 kph, Gust: 53.7 kph, Vis: 11.3 km
-19h Cloudy                    Cloud:  99%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 24.1 kph, Gust: 53.7 kph, Vis: 11.3 km
-20h Rain                      Cloud:  99%, Precipitation:  54%, Rain:  54%, Snow:   0%, Wind: 25.9 kph, Gust: 55.6 kph, Vis: 11.3 km
-Weather forecast for Wednesday 22nd November:
-9h, 10h: :kite: Windy (:cloud:)
-11h: :umbrella: Rainy
-12h: :kite: Windy (:cloud:)
-13h: :umbrella: Rainy
-14h, 15h: :kite: Windy (:cloud:)
-16h: :umbrella: Rainy
-17h - 19h: :kite: Windy (:cloud:)
-20h: :umbrella: Rainy
+ 9h Showers                   Cloud: 100%, Precipitation:  59%, Rain:  59%, Snow:   0%, Wind: 27.8 kph, Gust: 51.9 kph, Vis:  6.4 km
+10h Rain                      Cloud:  96%, Precipitation:  56%, Rain:  56%, Snow:   0%, Wind: 24.1 kph, Gust: 50.0 kph, Vis:  8.0 km
+11h Cloudy                    Cloud:  92%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 22.2 kph, Gust: 44.4 kph, Vis:  8.0 km
+12h Mostly cloudy             Cloud:  88%, Precipitation:  32%, Rain:  32%, Snow:   0%, Wind: 20.4 kph, Gust: 44.4 kph, Vis:  9.7 km
+13h Intermittent clouds       Cloud:  69%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 20.4 kph, Gust: 44.4 kph, Vis: 11.3 km
+14h Intermittent clouds       Cloud:  51%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 20.4 kph, Gust: 51.9 kph, Vis: 16.1 km
+15h Partly sunny              Cloud:  33%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 20.4 kph, Gust: 50.0 kph, Vis: 16.1 km
+16h Mostly clear              Cloud:  25%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 18.5 kph, Gust: 48.2 kph, Vis: 16.1 km
+17h Mostly clear              Cloud:  17%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 18.5 kph, Gust: 44.4 kph, Vis: 16.1 km
+18h Clear                     Cloud:   9%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 16.7 kph, Gust: 40.7 kph, Vis: 16.1 km
+19h Mostly clear              Cloud:  12%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 14.8 kph, Gust: 38.9 kph, Vis: 16.1 km
+20h Mostly clear              Cloud:  15%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 35.2 kph, Vis: 16.1 km
+Weather forecast for Thursday 23rd November:
+9h: :kite: Windy (:cloud:) [:umbrella: as of 9h]
+10h: :umbrella: Rainy
+11h, 12h: :kite: Windy (:cloud:)
+13h - 15h: :kite: Windy (:white_sun_small_cloud:)
+16h - 20h: :kite: Windy (:sunny:)
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
 Edinburgh
- 9h Showers                   Cloud: 100%, Precipitation:  55%, Rain:  55%, Snow:   0%, Wind: 29.6 kph, Gust: 57.4 kph, Vis:  6.4 km
-10h Showers                   Cloud: 100%, Precipitation:  44%, Rain:  44%, Snow:   0%, Wind: 27.8 kph, Gust: 55.6 kph, Vis:  8.0 km
-11h Cloudy                    Cloud: 100%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 27.8 kph, Gust: 55.6 kph, Vis:  9.7 km
-12h Cloudy                    Cloud: 100%, Precipitation:  25%, Rain:  25%, Snow:   0%, Wind: 27.8 kph, Gust: 57.4 kph, Vis:  9.7 km
-13h Cloudy                    Cloud: 100%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 27.8 kph, Gust: 57.4 kph, Vis: 11.3 km
-14h Cloudy                    Cloud: 100%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 27.8 kph, Gust: 59.3 kph, Vis: 11.3 km
-15h Cloudy                    Cloud: 100%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 27.8 kph, Gust: 59.3 kph, Vis: 11.3 km
-16h Cloudy                    Cloud:  99%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 27.8 kph, Gust: 59.3 kph, Vis: 11.3 km
-17h Cloudy                    Cloud:  98%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 25.9 kph, Gust: 59.3 kph, Vis: 11.3 km
-18h Cloudy                    Cloud:  98%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 25.9 kph, Gust: 59.3 kph, Vis: 11.3 km
-19h Cloudy                    Cloud:  98%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 25.9 kph, Gust: 59.3 kph, Vis:  8.0 km
-20h Cloudy                    Cloud:  99%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 25.9 kph, Gust: 61.1 kph, Vis:  8.0 km
-Weather forecast for Wednesday 22nd November:
-9h: :kite: Windy (:cloud:) [:umbrella: as of 9h]
-10h: :umbrella: Rainy
-11h - 20h: :kite: Windy (:cloud:)
+ 9h Showers                   Cloud: 100%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 35.2 kph, Gust: 66.7 kph, Vis:  8.0 km
+10h Cloudy                    Cloud:  91%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 31.5 kph, Gust: 64.8 kph, Vis:  9.7 km
+11h Mostly cloudy             Cloud:  82%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 31.5 kph, Gust: 63.0 kph, Vis: 11.3 km
+12h Intermittent clouds       Cloud:  74%, Precipitation:  23%, Rain:  23%, Snow:   0%, Wind: 29.6 kph, Gust: 61.1 kph, Vis: 11.3 km
+13h Intermittent clouds       Cloud:  60%, Precipitation:   2%, Rain:   2%, Snow:   0%, Wind: 29.6 kph, Gust: 59.3 kph, Vis: 16.1 km
+14h Partly sunny              Cloud:  47%, Precipitation:   2%, Rain:   2%, Snow:   0%, Wind: 27.8 kph, Gust: 61.1 kph, Vis: 16.1 km
+15h Partly sunny              Cloud:  33%, Precipitation:   2%, Rain:   2%, Snow:   0%, Wind: 27.8 kph, Gust: 57.4 kph, Vis: 16.1 km
+16h Mostly clear              Cloud:  28%, Precipitation:   2%, Rain:   2%, Snow:   0%, Wind: 25.9 kph, Gust: 55.6 kph, Vis: 16.1 km
+17h Mostly clear              Cloud:  22%, Precipitation:   2%, Rain:   2%, Snow:   0%, Wind: 25.9 kph, Gust: 51.9 kph, Vis: 16.1 km
+18h Mostly clear              Cloud:  17%, Precipitation:   1%, Rain:   1%, Snow:   0%, Wind: 25.9 kph, Gust: 50.0 kph, Vis: 16.1 km
+19h Mostly clear              Cloud:  14%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 24.1 kph, Gust: 48.2 kph, Vis: 16.1 km
+20h Mostly clear              Cloud:  11%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 22.2 kph, Gust: 46.3 kph, Vis: 16.1 km
+Weather forecast for Thursday 23rd November:
+9h: :umbrella: Rainy
+10h, 11h: :kite: Windy (:cloud:)
+12h - 15h: :kite: Windy (:white_sun_small_cloud:)
+16h - 20h: :kite: Windy (:sunny:)
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
