@@ -1,14 +1,14 @@
-*Updated: Friday 24th November 04:30*
+*Updated: Friday 24th November 05:30*
 
 **Glasgow**
 
-* 6h: :partly_sunny: Partly Cloudy [:umbrella: as of 6h]
-* 7h - 17h: :sunny: Clear
+* 7h: :sunny: Clear [:cloud: as of 7h]
+* 8h - 18h: :sunny: Clear
 
 **Edinburgh**
 
-* 6h: :cyclone: Windy (:sunny:) [:sunny: as of 2h, :umbrella: as of 6h]
-* 7h: :sunny: Clear [:cyclone:(:sunny:) as of 6h]
+* 7h: :sunny: Clear [:cyclone:(:sunny:) as of 6h, :umbrella: as of 7h]
 * 8h - 10h: :sunny: Clear
-* 11h - 16h: :cyclone: Windy (:sunny:)
-* 17h: :sunny: Clear
+* 11h: :cyclone: Windy (:sunny:) [:sunny: as of 7h]
+* 12h - 16h: :cyclone: Windy (:sunny:)
+* 17h, 18h: :sunny: Clear
