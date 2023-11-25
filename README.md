@@ -1,11 +1,11 @@
-*Updated: Saturday 25th November 17:30*
+*Updated: Saturday 25th November 18:30*
 
 **Glasgow**
 
-* 19h - 6h: :cloud: Cloudy
+* 20h - 7h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 19h, 20h: :sunny: Clear [:partly_sunny: as of 10h]
+* 20h: :sunny: Clear [:partly_sunny: as of 10h]
 * 21h, 22h: :partly_sunny: Partly Cloudy
-* 23h - 6h: :cloud: Cloudy
+* 23h - 7h: :cloud: Cloudy
