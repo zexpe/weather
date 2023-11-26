@@ -1,10 +1,10 @@
-*Updated: Sunday 26th November 02:30*
+*Updated: Sunday 26th November 03:30*
 
 **Glasgow**
 
-* 4h - 14h: :cloud: Cloudy
-* 15h: :umbrella: Rainy
+* 5h - 14h: :cloud: Cloudy
+* 15h, 16h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 4h - 15h: :cloud: Cloudy
+* 5h - 16h: :cloud: Cloudy
