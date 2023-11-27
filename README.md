@@ -1,14 +1,13 @@
-*Updated: Monday 27th November 19:30*
+*Updated: Monday 27th November 20:30*
 
 **Glasgow**
 
-* 21h: :sunny: Clear [:cyclone:(:sunny:) as of 20h, :cloud: as of 21h]
-* 22h - 7h: :sunny: Clear
-* 8h: :partly_sunny: Partly Cloudy
+* 22h: :sunny: Clear [:umbrella: as of 22h]
+* 23h - 7h: :sunny: Clear
+* 8h, 9h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 21h: :cyclone: Windy (:partly_sunny:) [:cloud: as of 21h]
-* 22h: :cyclone: Windy (:partly_sunny:)
+* 22h: :cyclone: Windy (:partly_sunny:) [:partly_sunny: as of 22h]
 * 23h, 0h: :partly_sunny: Partly Cloudy
-* 1h - 8h: :sunny: Clear
+* 1h - 9h: :sunny: Clear
