@@ -1,11 +1,11 @@
-*Updated: Wednesday 29th November 23:30*
+*Updated: Wednesday 29th November 00:30*
 
 **Glasgow**
 
-* 1h - 12h: :sunny: Clear
+* 2h - 13h: :sunny: Clear
 
 **Edinburgh**
 
-* 1h - 6h: :partly_sunny: Partly Cloudy
+* 2h - 6h: :partly_sunny: Partly Cloudy
 * 7h - 10h: :sunny: Clear
-* 11h, 12h: :partly_sunny: Partly Cloudy
+* 11h - 13h: :partly_sunny: Partly Cloudy
