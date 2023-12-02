@@ -1,11 +1,11 @@
-*Updated: Saturday 2nd December 10:30*
+*Updated: Saturday 2nd December 11:30*
 
 **Glasgow**
 
-* 12h - 23h: :cloud: Cloudy
+* 13h - 0h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 12h, 13h: :cloud: Cloudy
+* 13h: :cloud: Cloudy
 * 14h: :snowman: Snowy [:cloud: as of 10h]
-* 15h - 23h: :cloud: Cloudy
+* 15h - 0h: :cloud: Cloudy
