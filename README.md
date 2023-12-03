@@ -1,18 +1,18 @@
-*Updated: Sunday 3rd December 07:30*
+*Updated: Sunday 3rd December 08:30*
 
 **Glasgow**
 
-* 9h: :cloud: Cloudy
-* 10h, 11h: :partly_sunny: Partly Cloudy
-* 12h: :sunny: Clear
-* 13h, 14h: :partly_sunny: Partly Cloudy
+* 10h, 11h: :partly_sunny: Partly Cloudy [:cloud: as of 10h]
+* 12h: :sunny: Clear [:cloud: as of 10h]
+* 13h, 14h: :partly_sunny: Partly Cloudy [:cloud: as of 10h]
 * 15h - 17h: :cloud: Cloudy
-* 18h: :snowman: Snowy
+* 18h: :snowman: Snowy [:cloud: as of 10h]
 * 19h: :cloud: Cloudy
-* 20h: :snowman: Snowy
+* 20h: :snowman: Snowy [:cloud: as of 10h]
+* 21h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 9h - 15h: :cloud: Cloudy
-* 16h - 18h: :snowman: Snowy
-* 19h, 20h: :cloud: Cloudy
+* 10h - 15h: :cloud: Cloudy
+* 16h - 18h: :snowman: Snowy [:cloud: as of 10h]
+* 19h - 21h: :cloud: Cloudy
