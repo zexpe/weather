@@ -1,14 +1,14 @@
-*Updated: Tuesday 5th December 07:30*
+*Updated: Tuesday 5th December 08:30*
 
 **Glasgow**
 
-* 9h: :cloud: Cloudy
-* 10h, 11h: :partly_sunny: Partly Cloudy
+* 10h, 11h: :partly_sunny: Partly Cloudy [:sunny: as of 10h]
 * 12h - 18h: :sunny: Clear
 * 19h, 20h: :partly_sunny: Partly Cloudy
+* 21h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 9h: :umbrella: Rainy
-* 10h: :cloud: Cloudy
+* 10h: :cloud: Cloudy [:partly_sunny: as of 10h]
 * 11h - 20h: :partly_sunny: Partly Cloudy
+* 21h: :cloud: Cloudy
