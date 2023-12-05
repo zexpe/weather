@@ -1,0 +1,23 @@
+HTTP Error 504: Gateway Time-out
+Glasgow
+16h Clear                     Cloud:   5%, Precipitation:  20%, Rain:  17%, Snow:   0%, Wind:  7.4 kph, Gust: 11.1 kph, Vis: 11.3 km
+17h Clear                     Cloud:   7%, Precipitation:  20%, Rain:  17%, Snow:   0%, Wind:  7.4 kph, Gust:  9.3 kph, Vis:  9.7 km
+18h Clear                     Cloud:   9%, Precipitation:  13%, Rain:  11%, Snow:   0%, Wind:  7.4 kph, Gust:  9.3 kph, Vis:  9.7 km
+19h Partly cloudy             Cloud:  37%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  7.4 kph, Gust:  9.3 kph, Vis:  9.7 km
+20h Intermittent clouds       Cloud:  65%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  5.6 kph, Gust:  9.3 kph, Vis:  9.7 km
+21h Cloudy                    Cloud:  93%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  5.6 kph, Gust:  9.3 kph, Vis:  9.7 km
+22h Cloudy                    Cloud:  95%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  5.6 kph, Gust:  9.3 kph, Vis:  9.7 km
+23h Cloudy                    Cloud:  96%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  5.6 kph, Gust: 11.1 kph, Vis:  9.7 km
+ 0h Cloudy                    Cloud:  98%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  5.6 kph, Gust: 11.1 kph, Vis:  9.7 km
+ 1h Cloudy                    Cloud:  98%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  5.6 kph, Gust: 13.0 kph, Vis:  9.7 km
+ 2h Cloudy                    Cloud:  98%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  5.6 kph, Gust: 13.0 kph, Vis: 11.3 km
+ 3h Cloudy                    Cloud:  97%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  5.6 kph, Gust: 14.8 kph, Vis: 11.3 km
+Weather forecast for overnight:
+16h - 18h: :sunny: Clear
+19h, 20h: :white_sun_small_cloud: Partly Cloudy
+21h - 3h: :cloud: Cloudy
+Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
+--------------------------------------------
+HTTP Error 502: Bad Gateway
+HTTP Error 504: Gateway Time-out
+HTTP Error 502: Bad Gateway
