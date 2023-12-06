@@ -1,10 +1,11 @@
-*Updated: Wednesday 6th December 06:30*
+*Updated: Wednesday 6th December 07:30*
 
 **Glasgow**
 
-* 8h - 19h: :cloud: Cloudy
+* 9h - 20h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 8h - 18h: :cloud: Cloudy
+* 9h - 18h: :cloud: Cloudy
 * 19h: :cyclone: Windy (:cloud:)
+* 20h: :cloud: Cloudy
