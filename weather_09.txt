@@ -1,39 +1,39 @@
 Glasgow
-11h Mostly cloudy w/ showers  Cloud:  62%, Precipitation:  51%, Rain:  45%, Snow:  17%, Wind:  5.6 kph, Gust: 13.0 kph, Vis: 16.1 km
-12h Sunny                     Cloud:   0%, Precipitation:  44%, Rain:  40%, Snow:  15%, Wind:  5.6 kph, Gust: 13.0 kph, Vis: 11.3 km
-13h Sunny                     Cloud:   1%, Precipitation:  20%, Rain:   4%, Snow:  10%, Wind:  5.6 kph, Gust: 11.1 kph, Vis: 11.3 km
-14h Sunny                     Cloud:   2%, Precipitation:  20%, Rain:   4%, Snow:  10%, Wind:  5.6 kph, Gust: 11.1 kph, Vis: 11.3 km
-15h Sunny                     Cloud:   3%, Precipitation:  20%, Rain:   4%, Snow:  10%, Wind:  7.4 kph, Gust: 11.1 kph, Vis: 11.3 km
-16h Clear                     Cloud:   5%, Precipitation:  20%, Rain:   4%, Snow:  10%, Wind:  7.4 kph, Gust: 11.1 kph, Vis: 11.3 km
-17h Clear                     Cloud:   7%, Precipitation:  20%, Rain:   4%, Snow:  10%, Wind:  7.4 kph, Gust:  9.3 kph, Vis:  9.7 km
-18h Clear                     Cloud:   9%, Precipitation:  13%, Rain:   2%, Snow:   7%, Wind:  7.4 kph, Gust:  9.3 kph, Vis:  9.7 km
-19h Partly cloudy             Cloud:  37%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  7.4 kph, Gust:  9.3 kph, Vis:  9.7 km
-20h Intermittent clouds       Cloud:  65%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  5.6 kph, Gust:  9.3 kph, Vis:  9.7 km
-21h Cloudy                    Cloud:  93%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  5.6 kph, Gust:  9.3 kph, Vis:  9.7 km
-22h Cloudy                    Cloud:  95%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  5.6 kph, Gust:  9.3 kph, Vis:  9.7 km
-Weather forecast for Tuesday 5th December:
-11h: :white_sun_small_cloud: Partly Cloudy [:sunny: as of 10h, :cloud: as of 11h]
-12h - 18h: :sunny: Clear
-19h, 20h: :white_sun_small_cloud: Partly Cloudy
-21h, 22h: :cloud: Cloudy
+11h Cloudy                    Cloud: 100%, Precipitation:   1%, Rain:   0%, Snow:   0%, Wind:  7.4 kph, Gust: 18.5 kph, Vis: 11.3 km
+12h Cloudy                    Cloud: 100%, Precipitation:   3%, Rain:   0%, Snow:   1%, Wind:  9.3 kph, Gust: 20.4 kph, Vis: 11.3 km
+13h Hazy sunshine             Cloud:  89%, Precipitation:   7%, Rain:   2%, Snow:   2%, Wind:  9.3 kph, Gust: 20.4 kph, Vis: 11.3 km
+14h Hazy sunshine             Cloud:  78%, Precipitation:   7%, Rain:   2%, Snow:   2%, Wind:  9.3 kph, Gust: 22.2 kph, Vis:  9.7 km
+15h Hazy sunshine             Cloud:  67%, Precipitation:   7%, Rain:   2%, Snow:   2%, Wind:  9.3 kph, Gust: 22.2 kph, Vis:  9.7 km
+16h Hazy moonlight            Cloud:  78%, Precipitation:   7%, Rain:   3%, Snow:   2%, Wind:  9.3 kph, Gust: 24.1 kph, Vis:  9.7 km
+17h Hazy moonlight            Cloud:  89%, Precipitation:   7%, Rain:   3%, Snow:   2%, Wind:  9.3 kph, Gust: 24.1 kph, Vis:  9.7 km
+18h Hazy moonlight            Cloud: 100%, Precipitation:   7%, Rain:   3%, Snow:   2%, Wind:  9.3 kph, Gust: 24.1 kph, Vis:  9.7 km
+19h Cloudy                    Cloud: 100%, Precipitation:   7%, Rain:   2%, Snow:   1%, Wind:  9.3 kph, Gust: 24.1 kph, Vis:  9.7 km
+20h Cloudy                    Cloud: 100%, Precipitation:   7%, Rain:   2%, Snow:   1%, Wind:  9.3 kph, Gust: 24.1 kph, Vis:  9.7 km
+21h Cloudy                    Cloud: 100%, Precipitation:   7%, Rain:   2%, Snow:   1%, Wind:  9.3 kph, Gust: 24.1 kph, Vis:  8.0 km
+22h Cloudy                    Cloud: 100%, Precipitation:   7%, Rain:   2%, Snow:   1%, Wind:  9.3 kph, Gust: 24.1 kph, Vis:  8.0 km
+Weather forecast for Wednesday 6th December:
+11h - 22h: :cloud: Cloudy
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
 Edinburgh
-11h Showers                   Cloud:  94%, Precipitation:  54%, Rain:  54%, Snow:   0%, Wind: 11.1 kph, Gust: 18.5 kph, Vis:  9.7 km
-12h Partly sunny              Cloud:  46%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind:  9.3 kph, Gust: 20.4 kph, Vis:  9.7 km
-13h Partly sunny              Cloud:  42%, Precipitation:   6%, Rain:   5%, Snow:   0%, Wind:  9.3 kph, Gust: 20.4 kph, Vis:  9.7 km
-14h Partly sunny              Cloud:  38%, Precipitation:   6%, Rain:   5%, Snow:   0%, Wind:  7.4 kph, Gust: 18.5 kph, Vis:  9.7 km
-15h Partly sunny              Cloud:  34%, Precipitation:   6%, Rain:   5%, Snow:   0%, Wind:  7.4 kph, Gust: 16.7 kph, Vis:  9.7 km
-16h Partly cloudy             Cloud:  43%, Precipitation:   6%, Rain:   5%, Snow:   0%, Wind:  5.6 kph, Gust: 13.0 kph, Vis:  9.7 km
-17h Intermittent clouds       Cloud:  52%, Precipitation:   6%, Rain:   5%, Snow:   0%, Wind:  3.7 kph, Gust:  7.4 kph, Vis:  8.0 km
-18h Intermittent clouds       Cloud:  60%, Precipitation:   4%, Rain:   3%, Snow:   0%, Wind:  1.9 kph, Gust:  3.7 kph, Vis:  8.0 km
-19h Intermittent clouds       Cloud:  66%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  1.9 kph, Gust:  5.6 kph, Vis:  8.0 km
-20h Intermittent clouds       Cloud:  72%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  3.7 kph, Gust: 11.1 kph, Vis:  9.7 km
-21h Mostly cloudy             Cloud:  78%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  5.6 kph, Gust:  9.3 kph, Vis:  9.7 km
-22h Mostly cloudy             Cloud:  85%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  5.6 kph, Gust:  7.4 kph, Vis:  9.7 km
-Weather forecast for Tuesday 5th December:
-11h: :white_sun_small_cloud: Partly Cloudy [:umbrella: as of 11h]
-12h - 20h: :white_sun_small_cloud: Partly Cloudy
-21h, 22h: :cloud: Cloudy
+11h Intermittent clouds       Cloud:  70%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  5.6 kph, Gust:  9.3 kph, Vis: 11.3 km
+12h Intermittent clouds       Cloud:  55%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind:  9.3 kph, Gust: 11.1 kph, Vis: 16.1 km
+13h Intermittent clouds       Cloud:  70%, Precipitation:   1%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 16.7 kph, Vis: 16.1 km
+14h Mostly cloudy             Cloud:  85%, Precipitation:   1%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 22.2 kph, Vis: 11.3 km
+15h Cloudy                    Cloud: 100%, Precipitation:   1%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 24.1 kph, Vis: 11.3 km
+16h Cloudy                    Cloud:  99%, Precipitation:   1%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 25.9 kph, Vis: 11.3 km
+17h Cloudy                    Cloud:  99%, Precipitation:   1%, Rain:   0%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis: 11.3 km
+18h Cloudy                    Cloud:  99%, Precipitation:   3%, Rain:   1%, Snow:   0%, Wind: 11.1 kph, Gust: 27.8 kph, Vis: 11.3 km
+19h Cloudy                    Cloud:  97%, Precipitation:   7%, Rain:   5%, Snow:   0%, Wind: 11.1 kph, Gust: 29.6 kph, Vis: 11.3 km
+20h Cloudy                    Cloud:  96%, Precipitation:   7%, Rain:   5%, Snow:   0%, Wind: 13.0 kph, Gust: 29.6 kph, Vis: 11.3 km
+21h Cloudy                    Cloud:  95%, Precipitation:   7%, Rain:   4%, Snow:   0%, Wind: 13.0 kph, Gust: 31.5 kph, Vis: 11.3 km
+22h Cloudy                    Cloud:  96%, Precipitation:   7%, Rain:   4%, Snow:   0%, Wind: 13.0 kph, Gust: 29.6 kph, Vis:  9.7 km
+Weather forecast for Wednesday 6th December:
+11h - 13h: :cloud: Cloudy [:white_sun_small_cloud: as of 10h]
+14h - 18h: :cloud: Cloudy
+19h: :kite: Windy (:cloud:) [:cloud: as of 10h]
+20h: :cloud: Cloudy
+21h: :kite: Windy (:cloud:)
+22h: :cloud: Cloudy
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
