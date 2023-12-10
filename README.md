@@ -1,14 +1,13 @@
-*Updated: Sunday 10th December 19:30*
+*Updated: Sunday 10th December 20:30*
 
 **Glasgow**
 
-* 21h: :umbrella: Rainy
 * 22h: :cloud: Cloudy
 * 23h - 1h: :partly_sunny: Partly Cloudy
 * 2h - 7h: :cloud: Cloudy
-* 8h: :partly_sunny: Partly Cloudy
+* 8h, 9h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 21h: :partly_sunny: Partly Cloudy
-* 22h - 8h: :cloud: Cloudy
+* 22h: :cloud: Cloudy [:umbrella: as of 22h]
+* 23h - 9h: :cloud: Cloudy
