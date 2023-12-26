@@ -1,14 +1,12 @@
-*Updated: Tuesday 26th December 00:30*
+*Updated: Tuesday 26th December 01:30*
 
 **Glasgow**
 
-* 2h: :cyclone: Windy (:partly_sunny:) [:partly_sunny: as of 0h, :cyclone:(:cloud:) as of 2h]
-* 3h: :sunny: Clear [:cyclone:(:sunny:) as of 2h]
-* 4h - 13h: :sunny: Clear
+* 3h: :sunny: Clear [:cyclone:(:sunny:) as of 2h, :sunny: as of 3h]
+* 4h - 14h: :sunny: Clear
 
 **Edinburgh**
 
-* 2h: :cyclone: Windy (:cloud:) [:cloud: as of 22h]
 * 3h: :cloud: Cloudy
 * 4h, 5h: :partly_sunny: Partly Cloudy
-* 6h - 13h: :sunny: Clear
+* 6h - 14h: :sunny: Clear
