@@ -1,11 +1,11 @@
-*Updated: Thursday 4th January 09:30*
+*Updated: Thursday 4th January 10:30*
 
 **Glasgow**
 
-* 11h - 22h: :cloud: Cloudy
+* 12h - 23h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 11h: :cloud: Cloudy [:partly_sunny: as of 10h, :umbrella: as of 11h]
-* 12h, 13h: :cloud: Cloudy [:partly_sunny: as of 10h]
-* 14h - 22h: :cloud: Cloudy
+* 12h: :cloud: Cloudy [:partly_sunny: as of 10h, :umbrella: as of 12h]
+* 13h: :cloud: Cloudy [:partly_sunny: as of 10h]
+* 14h - 23h: :cloud: Cloudy
