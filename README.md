@@ -1,11 +1,10 @@
-*Updated: Friday 5th January 21:30*
+*Updated: Friday 5th January 22:30*
 
 **Glasgow**
 
-* 23h: :partly_sunny: Partly Cloudy
-* 0h - 10h: :cloud: Cloudy
+* 0h - 11h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 23h, 0h: :sunny: Clear
-* 1h - 10h: :partly_sunny: Partly Cloudy
+* 0h: :sunny: Clear
+* 1h - 11h: :partly_sunny: Partly Cloudy
