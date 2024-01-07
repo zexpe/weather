@@ -1,9 +1,9 @@
-*Updated: Sunday 7th January 03:30*
+*Updated: Sunday 7th January 04:30*
 
 **Glasgow**
 
-* 5h - 16h: :cloud: Cloudy
+* 6h - 17h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 5h - 16h: :cloud: Cloudy
+* 6h - 17h: :cloud: Cloudy
