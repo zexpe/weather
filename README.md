@@ -1,9 +1,10 @@
-*Updated: Monday 8th January 03:30*
+*Updated: Monday 8th January 04:30*
 
 **Glasgow**
 
-* 5h - 16h: :cloud: Cloudy
+* 6h - 17h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 5h - 16h: :cloud: Cloudy
+* 6h: :cloud: Cloudy [:umbrella: as of 6h]
+* 7h - 17h: :cloud: Cloudy
