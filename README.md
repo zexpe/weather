@@ -1,10 +1,9 @@
-*Updated: Monday 8th January 02:30*
+*Updated: Monday 8th January 03:30*
 
 **Glasgow**
 
-* 4h - 15h: :cloud: Cloudy
+* 5h - 16h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 4h: :partly_sunny: Partly Cloudy
-* 5h - 15h: :cloud: Cloudy
+* 5h - 16h: :cloud: Cloudy
