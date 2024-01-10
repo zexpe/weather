@@ -1,13 +1,13 @@
-*Updated: Wednesday 10th January 05:30*
+*Updated: Wednesday 10th January 06:30*
 
 **Glasgow**
 
-* 7h - 18h: :cloud: Cloudy
+* 8h - 19h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 7h - 9h: :cloud: Cloudy
+* 8h, 9h: :cloud: Cloudy
 * 10h - 12h: :umbrella: Rainy
 * 13h, 14h: :cyclone: Windy (:cloud:)
 * 15h: :umbrella: Rainy
-* 16h - 18h: :cyclone: Windy (:cloud:)
+* 16h - 19h: :cyclone: Windy (:cloud:)
