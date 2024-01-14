@@ -1,17 +1,17 @@
-*Updated: Sunday 14th January 11:30*
+*Updated: Sunday 14th January 12:30*
 
 **Glasgow**
 
-* 13h, 14h: :partly_sunny: Partly Cloudy
+* 14h: :partly_sunny: Partly Cloudy
 * 15h: :cloud: Cloudy
 * 16h: :partly_sunny: Partly Cloudy
 * 17h: :partly_sunny: Partly Cloudy [:sunny: as of 10h]
-* 18h - 0h: :sunny: Clear
+* 18h - 1h: :sunny: Clear
 
 **Edinburgh**
 
-* 13h: :cyclone: Windy (:sunny:) [:sunny: as of 9h]
-* 14h: :cyclone: Windy (:sunny:) [:sunny: as of 11h]
+* 14h: :cyclone: Windy (:sunny:) [:sunny: as of 11h, :umbrella: as of 14h]
 * 15h, 16h: :cyclone: Windy (:sunny:) [:sunny: as of 12h]
 * 17h: :cyclone: Windy (:sunny:) [:sunny: as of 13h]
-* 18h - 0h: :cyclone: Windy (:sunny:)
+* 18h: :cyclone: Windy (:sunny:) [:sunny: as of 14h]
+* 19h - 1h: :cyclone: Windy (:sunny:)
