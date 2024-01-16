@@ -1,9 +1,9 @@
-*Updated: Tuesday 16th January 19:30*
+*Updated: Tuesday 16th January 20:30*
 
 **Glasgow**
 
-* 21h - 8h: :sunny: Clear
+* 22h - 9h: :sunny: Clear
 
 **Edinburgh**
 
-* 21h - 8h: :sunny: Clear
+* 22h - 9h: :sunny: Clear
