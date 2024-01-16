@@ -1,4 +1,4 @@
-*Updated: Tuesday 16th January 00:30*
+*Updated: Tuesday 16th January 01:30*
 
 **Glasgow**
 
@@ -12,7 +12,8 @@
 
 **Edinburgh**
 
-* 2h, 3h: :cloud: Cloudy
+* 3h: :cloud: Cloudy
 * 4h - 10h: :partly_sunny: Partly Cloudy
 * 11h, 12h: :cloud: Cloudy
 * 13h: :umbrella: Rainy
+* 14h: :cloud: Cloudy
