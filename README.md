@@ -1,11 +1,12 @@
-*Updated: Wednesday 17th January 05:30*
+*Updated: Wednesday 17th January 06:30*
 
 **Glasgow**
 
-* 7h - 18h: :sunny: Clear
+* 8h - 19h: :sunny: Clear
 
 **Edinburgh**
 
-* 7h - 11h: :sunny: Clear
-* 12h - 16h: :cyclone: Windy (:sunny:)
-* 17h, 18h: :sunny: Clear
+* 8h - 11h: :sunny: Clear
+* 12h: :cyclone: Windy (:sunny:) [:sunny: as of 8h]
+* 13h - 16h: :cyclone: Windy (:sunny:)
+* 17h - 19h: :sunny: Clear
