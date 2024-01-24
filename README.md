@@ -1,15 +1,21 @@
-*Updated: Wednesday 24th January 20:30*
+*Updated: Wednesday 24th January 21:30*
 
 **Glasgow**
 
-* 22h - 1h: :partly_sunny: Partly Cloudy
-* 2h - 5h: :cloud: Cloudy
+* 23h: :partly_sunny: Partly Cloudy
+* 0h: :partly_sunny: Partly Cloudy [:cloud: as of 23h]
+* 1h: :partly_sunny: Partly Cloudy
+* 2h - 4h: :cloud: Cloudy
+* 5h: :cloud: Cloudy [:umbrella: as of 23h]
 * 6h: :umbrella: Rainy
-* 7h - 9h: :cloud: Cloudy
+* 7h - 10h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 22h, 23h: :partly_sunny: Partly Cloudy
-* 0h - 5h: :cloud: Cloudy
+* 23h: :partly_sunny: Partly Cloudy
+* 0h, 1h: :cloud: Cloudy
+* 2h: :cloud: Cloudy [:umbrella: as of 23h]
+* 3h - 5h: :cloud: Cloudy
 * 6h - 8h: :umbrella: Rainy
 * 9h: :cloud: Cloudy
+* 10h: :umbrella: Rainy
