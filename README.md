@@ -1,9 +1,10 @@
-*Updated: Saturday 27th January 21:30*
+*Updated: Saturday 27th January 22:30*
 
 **Glasgow**
 
-* 23h - 10h: :cyclone: Windy (:cloud:)
+* 0h - 11h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 23h - 10h: :cyclone: Windy (:cloud:)
+* 0h: :cyclone: Windy (:cloud:) [:umbrella: as of 0h]
+* 1h - 11h: :cyclone: Windy (:cloud:)
