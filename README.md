@@ -1,9 +1,9 @@
-*Updated: Saturday 27th January 02:30*
+*Updated: Saturday 27th January 03:30*
 
 **Glasgow**
 
-* 4h - 15h: :cyclone: Windy (:cloud:)
+* 5h - 16h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 4h - 15h: :cyclone: Windy (:cloud:)
+* 5h - 16h: :cyclone: Windy (:cloud:)
