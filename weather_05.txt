@@ -1,41 +1,34 @@
 Glasgow
- 7h Showers                   Cloud:  76%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind: 24.1 kph, Gust: 46.3 kph, Vis: 16.1 km
- 8h Mostly clear              Cloud:  12%, Precipitation:  47%, Rain:  47%, Snow:   0%, Wind: 22.2 kph, Gust: 42.6 kph, Vis: 16.1 km
- 9h Sunny                     Cloud:   2%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 22.2 kph, Gust: 44.4 kph, Vis: 16.1 km
-10h Mostly sunny              Cloud:  27%, Precipitation:  32%, Rain:  32%, Snow:   0%, Wind: 24.1 kph, Gust: 48.2 kph, Vis: 16.1 km
-11h Intermittent clouds       Cloud:  53%, Precipitation:  32%, Rain:  32%, Snow:   0%, Wind: 27.8 kph, Gust: 50.0 kph, Vis: 16.1 km
-12h Mostly cloudy             Cloud:  78%, Precipitation:  21%, Rain:  21%, Snow:   0%, Wind: 31.5 kph, Gust: 51.9 kph, Vis: 11.3 km
-13h Intermittent clouds       Cloud:  68%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 31.5 kph, Gust: 53.7 kph, Vis: 11.3 km
-14h Intermittent clouds       Cloud:  59%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 33.3 kph, Gust: 57.4 kph, Vis: 11.3 km
-15h Partly sunny              Cloud:  49%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 33.3 kph, Gust: 59.3 kph, Vis: 11.3 km
-16h Partly sunny              Cloud:  44%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 33.3 kph, Gust: 59.3 kph, Vis: 11.3 km
-17h Partly cloudy             Cloud:  38%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 31.5 kph, Gust: 57.4 kph, Vis: 11.3 km
-18h Partly cloudy             Cloud:  33%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 31.5 kph, Gust: 57.4 kph, Vis: 16.1 km
-Weather forecast for Friday 26th January:
-7h: :kite: Windy (:sunny:) [:umbrella: as of 7h]
-8h - 10h: :kite: Windy (:sunny:)
-11h: :kite: Windy (:white_sun_small_cloud:)
-12h: :kite: Windy (:cloud:)
-13h - 18h: :kite: Windy (:white_sun_small_cloud:)
+ 7h Cloudy                    Cloud:  90%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 31.5 kph, Gust: 55.6 kph, Vis:  9.7 km
+ 8h Cloudy                    Cloud:  95%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 29.6 kph, Gust: 57.4 kph, Vis:  9.7 km
+ 9h Cloudy                    Cloud:  99%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 29.6 kph, Gust: 55.6 kph, Vis: 11.3 km
+10h Cloudy                    Cloud: 100%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 27.8 kph, Gust: 55.6 kph, Vis:  9.7 km
+11h Cloudy                    Cloud: 100%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 27.8 kph, Gust: 53.7 kph, Vis:  9.7 km
+12h Cloudy                    Cloud: 100%, Precipitation:   2%, Rain:   2%, Snow:   0%, Wind: 25.9 kph, Gust: 51.9 kph, Vis:  9.7 km
+13h Cloudy                    Cloud: 100%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 25.9 kph, Gust: 51.9 kph, Vis:  9.7 km
+14h Cloudy                    Cloud: 100%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 25.9 kph, Gust: 50.0 kph, Vis:  9.7 km
+15h Cloudy                    Cloud: 100%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 24.1 kph, Gust: 48.2 kph, Vis:  9.7 km
+16h Cloudy                    Cloud: 100%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 24.1 kph, Gust: 46.3 kph, Vis:  8.0 km
+17h Cloudy                    Cloud: 100%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 22.2 kph, Gust: 42.6 kph, Vis:  8.0 km
+18h Cloudy                    Cloud: 100%, Precipitation:  11%, Rain:  11%, Snow:   0%, Wind: 20.4 kph, Gust: 40.7 kph, Vis:  6.4 km
+Weather forecast for Saturday 27th January:
+7h - 18h: :kite: Windy (:cloud:)
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
 Edinburgh
- 7h Mostly cloudy w/ showers  Cloud:  61%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 20.4 kph, Gust: 42.6 kph, Vis: 16.1 km
- 8h Mostly clear              Cloud:  17%, Precipitation:  37%, Rain:  37%, Snow:   0%, Wind: 20.4 kph, Gust: 44.4 kph, Vis: 16.1 km
- 9h Sunny                     Cloud:   2%, Precipitation:  33%, Rain:  33%, Snow:   0%, Wind: 18.5 kph, Gust: 38.9 kph, Vis: 16.1 km
-10h Mostly sunny              Cloud:  14%, Precipitation:  32%, Rain:  32%, Snow:   0%, Wind: 18.5 kph, Gust: 38.9 kph, Vis: 16.1 km
-11h Mostly sunny              Cloud:  26%, Precipitation:  32%, Rain:  32%, Snow:   0%, Wind: 18.5 kph, Gust: 40.7 kph, Vis: 16.1 km
-12h Partly sunny              Cloud:  38%, Precipitation:  22%, Rain:  22%, Snow:   0%, Wind: 20.4 kph, Gust: 51.9 kph, Vis: 16.1 km
-13h Intermittent clouds       Cloud:  50%, Precipitation:   2%, Rain:   2%, Snow:   0%, Wind: 22.2 kph, Gust: 53.7 kph, Vis: 16.1 km
-14h Intermittent clouds       Cloud:  61%, Precipitation:   2%, Rain:   2%, Snow:   0%, Wind: 24.1 kph, Gust: 55.6 kph, Vis: 11.3 km
-15h Intermittent clouds       Cloud:  72%, Precipitation:   2%, Rain:   2%, Snow:   0%, Wind: 25.9 kph, Gust: 57.4 kph, Vis: 11.3 km
-16h Intermittent clouds       Cloud:  54%, Precipitation:   2%, Rain:   2%, Snow:   0%, Wind: 27.8 kph, Gust: 55.6 kph, Vis: 16.1 km
-17h Partly cloudy             Cloud:  36%, Precipitation:   2%, Rain:   2%, Snow:   0%, Wind: 27.8 kph, Gust: 55.6 kph, Vis: 16.1 km
-18h Mostly clear              Cloud:  18%, Precipitation:   1%, Rain:   1%, Snow:   0%, Wind: 27.8 kph, Gust: 53.7 kph, Vis: 16.1 km
-Weather forecast for Friday 26th January:
-7h: :kite: Windy (:white_sun_small_cloud:) [:cloud: as of 7h]
-8h - 11h: :kite: Windy (:sunny:)
-12h - 17h: :kite: Windy (:white_sun_small_cloud:)
-18h: :kite: Windy (:sunny:)
+ 7h Mostly cloudy             Cloud:  82%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 29.6 kph, Gust: 53.7 kph, Vis: 11.3 km
+ 8h Mostly cloudy             Cloud:  89%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 27.8 kph, Gust: 55.6 kph, Vis: 11.3 km
+ 9h Cloudy                    Cloud:  96%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 25.9 kph, Gust: 51.9 kph, Vis: 11.3 km
+10h Cloudy                    Cloud:  92%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 24.1 kph, Gust: 50.0 kph, Vis: 11.3 km
+11h Mostly cloudy             Cloud:  89%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 24.1 kph, Gust: 48.2 kph, Vis: 11.3 km
+12h Mostly cloudy             Cloud:  85%, Precipitation:   1%, Rain:   1%, Snow:   0%, Wind: 24.1 kph, Gust: 46.3 kph, Vis: 11.3 km
+13h Mostly cloudy             Cloud:  89%, Precipitation:   5%, Rain:   5%, Snow:   0%, Wind: 22.2 kph, Gust: 46.3 kph, Vis: 11.3 km
+14h Cloudy                    Cloud:  94%, Precipitation:   5%, Rain:   5%, Snow:   0%, Wind: 20.4 kph, Gust: 44.4 kph, Vis: 16.1 km
+15h Cloudy                    Cloud:  98%, Precipitation:   5%, Rain:   5%, Snow:   0%, Wind: 18.5 kph, Gust: 44.4 kph, Vis: 16.1 km
+16h Cloudy                    Cloud:  99%, Precipitation:   5%, Rain:   5%, Snow:   0%, Wind: 18.5 kph, Gust: 42.6 kph, Vis: 11.3 km
+17h Cloudy                    Cloud:  99%, Precipitation:   5%, Rain:   5%, Snow:   0%, Wind: 18.5 kph, Gust: 42.6 kph, Vis:  9.7 km
+18h Cloudy                    Cloud: 100%, Precipitation:   6%, Rain:   6%, Snow:   0%, Wind: 18.5 kph, Gust: 40.7 kph, Vis:  8.0 km
+Weather forecast for Saturday 27th January:
+7h - 18h: :kite: Windy (:cloud:)
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
