@@ -1,9 +1,10 @@
-*Updated: Tuesday 30th January 20:30*
+*Updated: Tuesday 30th January 21:30*
 
 **Glasgow**
 
-* 22h - 9h: :cyclone: Windy (:cloud:)
+* 23h - 10h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 22h - 9h: :cyclone: Windy (:cloud:)
+* 23h - 9h: :cyclone: Windy (:cloud:)
+* 10h: :umbrella: Rainy
