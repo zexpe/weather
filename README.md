@@ -1,12 +1,10 @@
-*Updated: Saturday 10th February 10:30*
+*Updated: Saturday 10th February 11:30*
 
 **Glasgow**
 
-* 12h: :cloud: Cloudy
 * 13h, 14h: :umbrella: Rainy [:cloud: as of 10h]
-* 15h - 23h: :cloud: Cloudy
+* 15h - 0h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 12h: :cloud: Cloudy [:umbrella: as of 10h]
-* 13h - 23h: :cloud: Cloudy
+* 13h - 0h: :cloud: Cloudy
