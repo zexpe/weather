@@ -1,11 +1,11 @@
-*Updated: Sunday 11th February 03:30*
+*Updated: Sunday 11th February 04:30*
 
 **Glasgow**
 
-* 5h - 9h: :cloud: Cloudy
+* 6h - 9h: :cloud: Cloudy
 * 10h - 14h: :umbrella: Rainy
-* 15h, 16h: :partly_sunny: Partly Cloudy
+* 15h - 17h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 5h - 16h: :cloud: Cloudy
+* 6h - 17h: :cloud: Cloudy
