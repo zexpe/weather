@@ -1,11 +1,13 @@
-*Updated: Wednesday 14th February 23:30*
+*Updated: Wednesday 14th February 00:30*
 
 **Glasgow**
 
-* 1h - 3h: :cloud: Cloudy
+* 2h, 3h: :cloud: Cloudy
 * 4h: :umbrella: Rainy
 * 5h - 12h: :cloud: Cloudy
+* 13h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 1h - 12h: :cloud: Cloudy
+* 2h - 12h: :cloud: Cloudy
+* 13h: :umbrella: Rainy
