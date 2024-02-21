@@ -1,51 +1,45 @@
 Glasgow
-10h Showers                   Cloud:  99%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 33.3 kph, Gust: 59.3 kph, Vis:  6.4 km
-11h Showers                   Cloud:  99%, Precipitation:  57%, Rain:  57%, Snow:   0%, Wind: 29.6 kph, Gust: 59.3 kph, Vis:  8.0 km
-12h Cloudy                    Cloud:  99%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 27.8 kph, Gust: 55.6 kph, Vis:  9.7 km
-13h Intermittent clouds       Cloud:  71%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 27.8 kph, Gust: 57.4 kph, Vis: 11.3 km
-14h Partly sunny              Cloud:  43%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 29.6 kph, Gust: 53.7 kph, Vis: 16.1 km
-15h Mostly sunny              Cloud:  16%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 31.5 kph, Gust: 53.7 kph, Vis: 16.1 km
-16h Mostly cloudy w/ showers  Cloud:  70%, Precipitation:  52%, Rain:  52%, Snow:   0%, Wind: 31.5 kph, Gust: 57.4 kph, Vis:  8.0 km
-17h Mostly sunny              Cloud:  15%, Precipitation:  48%, Rain:  48%, Snow:   0%, Wind: 31.5 kph, Gust: 61.1 kph, Vis: 16.1 km
-18h Mostly clear              Cloud:  14%, Precipitation:  29%, Rain:  29%, Snow:   0%, Wind: 27.8 kph, Gust: 64.8 kph, Vis: 16.1 km
-19h Mostly clear              Cloud:  10%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 22.2 kph, Gust: 51.9 kph, Vis: 16.1 km
-20h Clear                     Cloud:   5%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 16.7 kph, Gust: 40.7 kph, Vis: 16.1 km
-21h Clear                     Cloud:   0%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 13.0 kph, Gust: 31.5 kph, Vis: 16.1 km
-Weather forecast for Tuesday 20th February:
-10h, 11h: :kite: Windy (:cloud:) [:umbrella: as of 10h]
-12h: :kite: Windy (:cloud:)
+10h Rain                      Cloud: 100%, Precipitation:  84%, Rain:  84%, Snow:   0%, Wind: 18.5 kph, Gust: 37.0 kph, Vis:  6.4 km
+11h Rain                      Cloud: 100%, Precipitation:  78%, Rain:  78%, Snow:   0%, Wind: 20.4 kph, Gust: 40.7 kph, Vis:  6.4 km
+12h Rain                      Cloud: 100%, Precipitation:  79%, Rain:  79%, Snow:   0%, Wind: 22.2 kph, Gust: 44.4 kph, Vis:  6.4 km
+13h Intermittent clouds       Cloud:  73%, Precipitation:  25%, Rain:  25%, Snow:   0%, Wind: 24.1 kph, Gust: 48.2 kph, Vis:  8.0 km
+14h Partly sunny              Cloud:  47%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 25.9 kph, Gust: 51.9 kph, Vis: 11.3 km
+15h Mostly sunny              Cloud:  21%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 25.9 kph, Gust: 61.1 kph, Vis: 16.1 km
+16h Mostly sunny              Cloud:  25%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 25.9 kph, Gust: 55.6 kph, Vis: 16.1 km
+17h Mostly sunny              Cloud:  29%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 22.2 kph, Gust: 51.9 kph, Vis: 16.1 km
+18h Intermittent clouds       Cloud:  70%, Precipitation:  16%, Rain:  16%, Snow:   0%, Wind: 18.5 kph, Gust: 44.4 kph, Vis: 16.1 km
+19h Partly cloudy             Cloud:  38%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 18.5 kph, Gust: 44.4 kph, Vis: 11.3 km
+20h Partly cloudy             Cloud:  43%, Precipitation:   7%, Rain:   7%, Snow:   0%, Wind: 22.2 kph, Gust: 42.6 kph, Vis: 11.3 km
+21h Partly cloudy             Cloud:  49%, Precipitation:   6%, Rain:   6%, Snow:   0%, Wind: 25.9 kph, Gust: 42.6 kph, Vis: 11.3 km
+Weather forecast for Wednesday 21st February:
+10h - 12h: :umbrella: Rainy
 13h: :kite: Windy (:cloud:) [:kite:(:white_sun_small_cloud:) as of 10h]
 14h: :kite: Windy (:white_sun_small_cloud:)
-15h: :kite: Windy (:sunny:)
-16h: :kite: Windy (:sunny:) [:cloud: as of 10h]
-17h: :cloud: Cloudy [:kite:(:sunny:) as of 10h]
-18h: :white_sun_small_cloud: Partly Cloudy [:kite:(:sunny:) as of 10h]
-19h - 21h: :kite: Windy (:sunny:)
+15h - 17h: :kite: Windy (:sunny:)
+18h - 20h: :sunny: Clear [:kite:(:white_sun_small_cloud:) as of 10h]
+21h: :kite: Windy (:white_sun_small_cloud:)
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
 Edinburgh
-10h Cloudy                    Cloud: 100%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 25.9 kph, Gust: 50.0 kph, Vis:  8.0 km
-11h Showers                   Cloud: 100%, Precipitation:  57%, Rain:  57%, Snow:   0%, Wind: 27.8 kph, Gust: 53.7 kph, Vis:  9.7 km
-12h Showers                   Cloud: 100%, Precipitation:  60%, Rain:  60%, Snow:   0%, Wind: 29.6 kph, Gust: 57.4 kph, Vis:  9.7 km
-13h Intermittent clouds       Cloud:  67%, Precipitation:  25%, Rain:  25%, Snow:   0%, Wind: 27.8 kph, Gust: 55.6 kph, Vis: 16.1 km
-14h Partly sunny              Cloud:  35%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 27.8 kph, Gust: 53.7 kph, Vis: 16.1 km
-15h Sunny                     Cloud:   3%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 25.9 kph, Gust: 53.7 kph, Vis: 16.1 km
-16h Mostly sunny              Cloud:  11%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 25.9 kph, Gust: 55.6 kph, Vis: 16.1 km
-17h Intermittent clouds       Cloud:  70%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 25.9 kph, Gust: 59.3 kph, Vis: 16.1 km
-18h Mostly clear              Cloud:  28%, Precipitation:  13%, Rain:  13%, Snow:   0%, Wind: 24.1 kph, Gust: 61.1 kph, Vis: 16.1 km
-19h Mostly clear              Cloud:  19%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 24.1 kph, Gust: 57.4 kph, Vis: 16.1 km
-20h Clear                     Cloud:   9%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 24.1 kph, Gust: 53.7 kph, Vis: 16.1 km
-21h Clear                     Cloud:   0%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 22.2 kph, Gust: 51.9 kph, Vis: 16.1 km
-Weather forecast for Tuesday 20th February:
-10h: :kite: Windy (:cloud:)
-11h, 12h: :umbrella: Rainy
+10h Rain                      Cloud:  99%, Precipitation:  72%, Rain:  72%, Snow:   0%, Wind: 20.4 kph, Gust: 37.0 kph, Vis:  8.0 km
+11h Rain                      Cloud:  98%, Precipitation:  65%, Rain:  65%, Snow:   0%, Wind: 22.2 kph, Gust: 44.4 kph, Vis:  8.0 km
+12h Showers                   Cloud:  97%, Precipitation:  63%, Rain:  63%, Snow:   0%, Wind: 24.1 kph, Gust: 48.2 kph, Vis:  8.0 km
+13h Intermittent clouds       Cloud:  71%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 25.9 kph, Gust: 51.9 kph, Vis:  9.7 km
+14h Partly sunny              Cloud:  45%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 27.8 kph, Gust: 59.3 kph, Vis: 11.3 km
+15h Mostly sunny              Cloud:  19%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 29.6 kph, Gust: 64.8 kph, Vis: 16.1 km
+16h Mostly sunny              Cloud:  12%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 29.6 kph, Gust: 61.1 kph, Vis: 16.1 km
+17h Sunny                     Cloud:   6%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 25.9 kph, Gust: 55.6 kph, Vis: 16.1 km
+18h Clear                     Cloud:   0%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 20.4 kph, Gust: 50.0 kph, Vis: 16.1 km
+19h Clear                     Cloud:   1%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 20.4 kph, Gust: 44.4 kph, Vis: 16.1 km
+20h Clear                     Cloud:   3%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 20.4 kph, Gust: 40.7 kph, Vis: 16.1 km
+21h Clear                     Cloud:   4%, Precipitation:   0%, Rain:   0%, Snow:   0%, Wind: 20.4 kph, Gust: 38.9 kph, Vis: 11.3 km
+Weather forecast for Wednesday 21st February:
+10h, 11h: :umbrella: Rainy
+12h: :kite: Windy (:cloud:) [:umbrella: as of 10h]
 13h: :kite: Windy (:cloud:) [:kite:(:white_sun_small_cloud:) as of 10h]
 14h: :kite: Windy (:white_sun_small_cloud:)
-15h: :kite: Windy (:sunny:)
-16h: :kite: Windy (:white_sun_small_cloud:) [:kite:(:sunny:) as of 10h]
-17h: :kite: Windy (:white_sun_small_cloud:)
-18h: :kite: Windy (:cloud:) [:kite:(:sunny:) as of 10h]
-19h, 20h: :kite: Windy (:white_sun_small_cloud:) [:kite:(:sunny:) as of 10h]
+15h - 19h: :kite: Windy (:sunny:)
+20h: :sunny: Clear [:kite:(:sunny:) as of 10h]
 21h: :kite: Windy (:sunny:)
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
