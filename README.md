@@ -1,13 +1,14 @@
-*Updated: Saturday 24th February 04:30*
+*Updated: Saturday 24th February 05:30*
 
 **Glasgow**
 
-* 6h - 12h: :cloud: Cloudy
+* 7h: :cloud: Cloudy [:umbrella: as of 7h]
+* 8h - 12h: :cloud: Cloudy
 * 13h - 17h: :partly_sunny: Partly Cloudy
+* 18h: :sunny: Clear
 
 **Edinburgh**
 
-* 6h: :sunny: Clear
 * 7h, 8h: :partly_sunny: Partly Cloudy
 * 9h - 12h: :cloud: Cloudy
-* 13h - 17h: :partly_sunny: Partly Cloudy
+* 13h - 18h: :partly_sunny: Partly Cloudy
