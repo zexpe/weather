@@ -1,14 +1,14 @@
-*Updated: Monday 26th February 04:30*
+*Updated: Monday 26th February 05:30*
 
 **Glasgow**
 
-* 6h - 9h: :sunny: Clear
+* 7h - 9h: :sunny: Clear
 * 10h, 11h: :partly_sunny: Partly Cloudy
-* 12h - 17h: :cloud: Cloudy
+* 12h - 18h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 6h, 7h: :partly_sunny: Partly Cloudy
+* 7h: :partly_sunny: Partly Cloudy
 * 8h: :cloud: Cloudy
 * 9h: :umbrella: Rainy
-* 10h - 17h: :cloud: Cloudy
+* 10h - 18h: :cloud: Cloudy
