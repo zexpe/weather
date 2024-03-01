@@ -1,17 +1,16 @@
-*Updated: Friday 1st March 18:30*
+*Updated: Friday 1st March 19:30*
 
 **Glasgow**
 
-* 20h - 6h: :cloud: Cloudy
-* 7h: :snowman: Snowy
+* 21h - 6h: :cloud: Cloudy
+* 7h, 8h: :snowman: Snowy
 
 **Edinburgh**
 
-* 20h: :umbrella: Rainy [:cyclone:(:cloud:) as of 10h, :umbrella: as of 20h]
-* 21h: :cyclone: Windy (:cloud:)
+* 21h: :cyclone: Windy (:cloud:) [:umbrella: as of 21h]
 * 22h: :umbrella: Rainy
 * 23h, 0h: :snowman: Snowy
 * 1h: :cloud: Cloudy
 * 2h - 4h: :umbrella: Rainy
 * 5h, 6h: :cloud: Cloudy
-* 7h: :umbrella: Rainy
+* 7h, 8h: :umbrella: Rainy
