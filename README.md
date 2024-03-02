@@ -1,11 +1,12 @@
-*Updated: Saturday 2nd March 21:30*
+*Updated: Saturday 2nd March 22:30*
 
 **Glasgow**
 
-* 23h: :cloud: Cloudy [:umbrella: as of 23h]
-* 0h - 10h: :cloud: Cloudy
+* 0h: :cloud: Cloudy [:umbrella: as of 0h]
+* 1h - 10h: :cloud: Cloudy
+* 11h: :umbrella: Rainy
 
 **Edinburgh**
 
-* 23h: :cloud: Cloudy [:umbrella: as of 23h]
-* 0h - 10h: :cloud: Cloudy
+* 0h: :cloud: Cloudy [:umbrella: as of 0h]
+* 1h - 11h: :cloud: Cloudy
