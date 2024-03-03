@@ -1,10 +1,11 @@
-*Updated: Sunday 3rd March 23:30*
+*Updated: Sunday 3rd March 00:30*
 
 **Glasgow**
 
-* 1h - 10h: :cloud: Cloudy
+* 2h - 10h: :cloud: Cloudy
 * 11h, 12h: :umbrella: Rainy
+* 13h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 1h - 12h: :cloud: Cloudy
+* 2h - 13h: :cloud: Cloudy
