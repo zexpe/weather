@@ -1,11 +1,11 @@
-*Updated: Tuesday 12th March 01:30*
+*Updated: Tuesday 12th March 02:30*
 
 **Glasgow**
 
-* 3h - 12h: :cloud: Cloudy
+* 4h - 12h: :cloud: Cloudy
 * 13h: :cyclone: Windy (:cloud:)
-* 14h: :cloud: Cloudy
+* 14h, 15h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 3h - 14h: :cloud: Cloudy
+* 4h - 15h: :cloud: Cloudy
