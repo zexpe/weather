@@ -1,15 +1,14 @@
-*Updated: Sunday 17th March 01:30*
+*Updated: Sunday 17th March 02:30*
 
 **Glasgow**
 
-* 3h: :umbrella: Rainy
 * 4h - 8h: :cloud: Cloudy
 * 9h, 10h: :umbrella: Rainy
-* 11h - 14h: :cloud: Cloudy
+* 11h - 15h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 3h - 8h: :cloud: Cloudy
+* 4h - 8h: :cloud: Cloudy
 * 9h, 10h: :umbrella: Rainy
 * 11h - 13h: :cloud: Cloudy
-* 14h: :umbrella: Rainy
+* 14h, 15h: :umbrella: Rainy
