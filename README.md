@@ -1,13 +1,13 @@
-*Updated: Tuesday 19th March 03:30*
+*Updated: Tuesday 19th March 04:30*
 
 **Glasgow**
 
-* 5h - 13h: :cyclone: Windy (:partly_sunny:)
+* 6h - 13h: :cyclone: Windy (:partly_sunny:)
 * 14h, 15h: :cyclone: Windy (:cloud:)
-* 16h: :cloud: Cloudy
+* 16h, 17h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 5h: :umbrella: Rainy
 * 6h, 7h: :cyclone: Windy (:cloud:)
 * 8h - 16h: :cyclone: Windy (:partly_sunny:)
+* 17h: :cloud: Cloudy
