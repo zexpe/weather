@@ -1,18 +1,17 @@
-*Updated: Sunday 24th March 03:30*
+*Updated: Sunday 24th March 04:30*
 
 **Glasgow**
 
-* 5h - 9h: :sunny: Clear
+* 6h - 9h: :sunny: Clear
 * 10h, 11h: :partly_sunny: Partly Cloudy
-* 12h - 16h: :cloud: Cloudy
+* 12h - 17h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 5h: :cyclone: Windy (:partly_sunny:) [:partly_sunny: as of 1h, :cyclone:(:partly_sunny:) as of 4h]
-* 6h: :cyclone: Windy (:partly_sunny:) [:partly_sunny: as of 2h]
-* 7h: :cyclone: Windy (:partly_sunny:)
-* 8h, 9h: :cyclone: Windy (:sunny:)
-* 10h: :cyclone: Windy (:partly_sunny:)
+* 6h: :cyclone: Windy (:partly_sunny:) [:partly_sunny: as of 2h, :cloud: as of 6h]
+* 7h: :cyclone: Windy (:partly_sunny:) [:partly_sunny: as of 6h]
+* 8h, 9h: :cyclone: Windy (:sunny:) [:sunny: as of 6h]
+* 10h: :cyclone: Windy (:partly_sunny:) [:partly_sunny: as of 6h]
 * 11h: :partly_sunny: Partly Cloudy
 * 12h, 13h: :cloud: Cloudy
-* 14h - 16h: :partly_sunny: Partly Cloudy
+* 14h - 17h: :partly_sunny: Partly Cloudy
