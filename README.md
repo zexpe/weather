@@ -1,13 +1,14 @@
-*Updated: Friday 29th March 21:30*
+*Updated: Friday 29th March 22:30*
 
 **Glasgow**
 
-* 23h - 8h: :partly_sunny: Partly Cloudy
+* 0h - 8h: :partly_sunny: Partly Cloudy
 * 9h: :sunny: Clear
 * 10h: :partly_sunny: Partly Cloudy
+* 11h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 23h - 4h: :cloud: Cloudy
+* 0h - 4h: :cloud: Cloudy
 * 5h - 9h: :partly_sunny: Partly Cloudy
-* 10h: :cyclone: Windy (:partly_sunny:)
+* 10h, 11h: :cyclone: Windy (:partly_sunny:)
