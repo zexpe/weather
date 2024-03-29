@@ -1,8 +1,8 @@
-*Updated: Friday 29th March 07:30*
+*Updated: Friday 29th March 08:30*
 
 **Glasgow**
 
-* 9h - 11h: :cloud: Cloudy
+* 10h, 11h: :cloud: Cloudy
 * 12h: :cloud: Cloudy [:umbrella: as of 9h]
 * 13h: :umbrella: Rainy
 * 14h: :cloud: Cloudy
@@ -11,10 +11,10 @@
 * 18h: :sunny: Clear [:partly_sunny: as of 9h]
 * 19h: :partly_sunny: Partly Cloudy
 * 20h: :cloud: Cloudy
+* 21h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 9h: :umbrella: Rainy [:cloud: as of 9h]
 * 10h: :cyclone: Windy (:cloud:) [:cloud: as of 6h]
 * 11h: :cyclone: Windy (:cloud:) [:cloud: as of 7h, :partly_sunny: as of 9h]
 * 12h, 13h: :cloud: Cloudy [:partly_sunny: as of 9h]
@@ -24,4 +24,4 @@
 * 17h: :umbrella: Rainy [:cloud: as of 9h]
 * 18h: :umbrella: Rainy
 * 19h: :partly_sunny: Partly Cloudy [:cloud: as of 9h]
-* 20h: :partly_sunny: Partly Cloudy
+* 20h, 21h: :partly_sunny: Partly Cloudy

@@ -1,45 +1,52 @@
 Glasgow
-10h Showers                   Cloud: 100%, Precipitation:  46%, Rain:  46%, Snow:   0%, Wind: 31.5 kph, Gust: 59.3 kph, Vis:  6.4 km
-11h Cloudy                    Cloud: 100%, Precipitation:  45%, Rain:  45%, Snow:   0%, Wind: 29.6 kph, Gust: 59.3 kph, Vis:  6.4 km
-12h Showers                   Cloud: 100%, Precipitation:  53%, Rain:  53%, Snow:   0%, Wind: 27.8 kph, Gust: 57.4 kph, Vis:  6.4 km
-13h Rain                      Cloud:  87%, Precipitation:  64%, Rain:  64%, Snow:   0%, Wind: 24.1 kph, Gust: 48.2 kph, Vis:  8.0 km
-14h Rain                      Cloud:  75%, Precipitation:  66%, Rain:  66%, Snow:   0%, Wind: 18.5 kph, Gust: 40.7 kph, Vis:  8.0 km
-15h Intermittent clouds       Cloud:  63%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 16.7 kph, Gust: 40.7 kph, Vis: 11.3 km
-16h Mostly cloudy             Cloud:  75%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 16.7 kph, Gust: 38.9 kph, Vis: 11.3 km
-17h Mostly cloudy             Cloud:  87%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 18.5 kph, Gust: 37.0 kph, Vis: 16.1 km
-18h Cloudy                    Cloud:  98%, Precipitation:  29%, Rain:  29%, Snow:   0%, Wind: 20.4 kph, Gust: 35.2 kph, Vis: 16.1 km
-19h Cloudy                    Cloud:  98%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 20.4 kph, Gust: 33.3 kph, Vis: 11.3 km
-20h Cloudy                    Cloud:  98%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 20.4 kph, Gust: 33.3 kph, Vis: 11.3 km
-21h Cloudy                    Cloud:  97%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind: 20.4 kph, Gust: 33.3 kph, Vis: 11.3 km
-Weather forecast for Thursday 28th March:
-10h: :kite: Windy (:cloud:) [:umbrella: as of 10h]
-11h: :kite: Windy (:cloud:)
-12h - 14h: :kite: Windy (:cloud:) [:umbrella: as of 9h]
-15h: :kite: Windy (:white_sun_small_cloud:)
-16h: :kite: Windy (:cloud:)
-17h, 18h: :umbrella: Rainy [:kite:(:cloud:) as of 9h]
-19h - 21h: :kite: Windy (:cloud:)
+10h Mostly cloudy             Cloud:  76%, Precipitation:  44%, Rain:  44%, Snow:   0%, Wind:  9.3 kph, Gust: 18.5 kph, Vis: 11.3 km
+11h Mostly cloudy             Cloud:  76%, Precipitation:  48%, Rain:  48%, Snow:   0%, Wind: 11.1 kph, Gust: 20.4 kph, Vis: 16.1 km
+12h Showers                   Cloud:  76%, Precipitation:  52%, Rain:  52%, Snow:   0%, Wind: 11.1 kph, Gust: 22.2 kph, Vis:  8.0 km
+13h Showers                   Cloud:  79%, Precipitation:  63%, Rain:  63%, Snow:   0%, Wind: 11.1 kph, Gust: 25.9 kph, Vis:  8.0 km
+14h Mostly cloudy             Cloud:  82%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 13.0 kph, Gust: 25.9 kph, Vis: 16.1 km
+15h Showers                   Cloud:  84%, Precipitation:  64%, Rain:  64%, Snow:   0%, Wind: 13.0 kph, Gust: 24.1 kph, Vis:  8.0 km
+16h Intermittent clouds       Cloud:  72%, Precipitation:  40%, Rain:  40%, Snow:   0%, Wind: 13.0 kph, Gust: 22.2 kph, Vis: 11.3 km
+17h Intermittent clouds       Cloud:  60%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 11.1 kph, Gust: 18.5 kph, Vis: 11.3 km
+18h Partly sunny              Cloud:  47%, Precipitation:  39%, Rain:  39%, Snow:   0%, Wind: 11.1 kph, Gust: 16.7 kph, Vis: 11.3 km
+19h Partly cloudy             Cloud:  43%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 11.1 kph, Gust: 14.8 kph, Vis:  9.7 km
+20h Mostly cloudy w/ showers  Cloud:  70%, Precipitation:  60%, Rain:  60%, Snow:   0%, Wind: 13.0 kph, Gust: 13.0 kph, Vis:  8.0 km
+21h Partly cloudy             Cloud:  34%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 13.0 kph, Gust: 13.0 kph, Vis:  9.7 km
+Weather forecast for Friday 29th March:
+10h, 11h: :cloud: Cloudy
+12h: :cloud: Cloudy [:umbrella: as of 9h]
+13h: :umbrella: Rainy
+14h: :cloud: Cloudy
+15h: :umbrella: Rainy
+16h, 17h: :white_sun_small_cloud: Partly Cloudy
+18h: :sunny: Clear [:white_sun_small_cloud: as of 9h]
+19h: :white_sun_small_cloud: Partly Cloudy
+20h: :cloud: Cloudy
+21h: :white_sun_small_cloud: Partly Cloudy
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
 Edinburgh
-10h Cloudy                    Cloud:  98%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 29.6 kph, Gust: 51.9 kph, Vis:  6.4 km
-11h Showers                   Cloud:  99%, Precipitation:  41%, Rain:  41%, Snow:   0%, Wind: 31.5 kph, Gust: 51.9 kph, Vis:  6.4 km
-12h Cloudy                    Cloud: 100%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 31.5 kph, Gust: 53.7 kph, Vis:  6.4 km
-13h Showers                   Cloud:  98%, Precipitation:  51%, Rain:  51%, Snow:   0%, Wind: 24.1 kph, Gust: 50.0 kph, Vis:  8.0 km
-14h Showers                   Cloud:  96%, Precipitation:  46%, Rain:  46%, Snow:   0%, Wind: 16.7 kph, Gust: 37.0 kph, Vis:  9.7 km
-15h Cloudy                    Cloud:  95%, Precipitation:  45%, Rain:  45%, Snow:   0%, Wind: 13.0 kph, Gust: 35.2 kph, Vis: 11.3 km
-16h Cloudy                    Cloud:  96%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 14.8 kph, Gust: 38.9 kph, Vis: 16.1 km
-17h Cloudy                    Cloud:  97%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 16.7 kph, Gust: 38.9 kph, Vis: 16.1 km
-18h Cloudy                    Cloud:  99%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 18.5 kph, Gust: 37.0 kph, Vis: 16.1 km
-19h Mostly cloudy             Cloud:  89%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 18.5 kph, Gust: 37.0 kph, Vis: 11.3 km
-20h Mostly cloudy             Cloud:  80%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 18.5 kph, Gust: 37.0 kph, Vis: 11.3 km
-21h Intermittent clouds       Cloud:  70%, Precipitation:  39%, Rain:  39%, Snow:   0%, Wind: 18.5 kph, Gust: 37.0 kph, Vis:  9.7 km
-Weather forecast for Thursday 28th March:
-10h: :kite: Windy (:cloud:)
-11h: :kite: Windy (:cloud:) [:umbrella: as of 9h]
-12h: :kite: Windy (:cloud:)
-13h, 14h: :umbrella: Rainy
-15h - 20h: :kite: Windy (:cloud:)
-21h: :kite: Windy (:white_sun_small_cloud:)
+10h Mostly cloudy             Cloud:  79%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind:  9.3 kph, Gust: 20.4 kph, Vis: 11.3 km
+11h Intermittent clouds       Cloud:  65%, Precipitation:  34%, Rain:  34%, Snow:   0%, Wind: 13.0 kph, Gust: 24.1 kph, Vis: 16.1 km
+12h Intermittent clouds       Cloud:  52%, Precipitation:  39%, Rain:  39%, Snow:   0%, Wind: 14.8 kph, Gust: 27.8 kph, Vis: 16.1 km
+13h Intermittent clouds       Cloud:  61%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 16.7 kph, Gust: 25.9 kph, Vis: 16.1 km
+14h Mostly cloudy w/ showers  Cloud:  71%, Precipitation:  63%, Rain:  63%, Snow:   0%, Wind: 16.7 kph, Gust: 22.2 kph, Vis:  9.7 km
+15h Showers                   Cloud:  81%, Precipitation:  61%, Rain:  61%, Snow:   0%, Wind: 16.7 kph, Gust: 22.2 kph, Vis:  9.7 km
+16h Mostly cloudy             Cloud:  84%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 16.7 kph, Gust: 18.5 kph, Vis:  8.0 km
+17h Mostly cloudy             Cloud:  88%, Precipitation:  49%, Rain:  49%, Snow:   0%, Wind: 14.8 kph, Gust: 16.7 kph, Vis: 11.3 km
+18h Showers                   Cloud:  92%, Precipitation:  55%, Rain:  55%, Snow:   0%, Wind: 13.0 kph, Gust: 16.7 kph, Vis: 11.3 km
+19h Mostly cloudy             Cloud:  79%, Precipitation:  25%, Rain:  25%, Snow:   0%, Wind: 11.1 kph, Gust: 14.8 kph, Vis: 11.3 km
+20h Intermittent clouds       Cloud:  67%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind:  9.3 kph, Gust: 14.8 kph, Vis:  9.7 km
+21h Intermittent clouds       Cloud:  54%, Precipitation:  20%, Rain:  20%, Snow:   0%, Wind:  7.4 kph, Gust: 16.7 kph, Vis:  9.7 km
+Weather forecast for Friday 29th March:
+10h: :kite: Windy (:cloud:) [:cloud: as of 6h]
+11h: :kite: Windy (:cloud:) [:cloud: as of 7h, :white_sun_small_cloud: as of 9h]
+12h, 13h: :cloud: Cloudy [:white_sun_small_cloud: as of 9h]
+14h: :cloud: Cloudy
+15h: :white_sun_small_cloud: Partly Cloudy [:umbrella: as of 9h]
+16h: :white_sun_small_cloud: Partly Cloudy [:cloud: as of 9h]
+17h: :umbrella: Rainy [:cloud: as of 9h]
+18h: :umbrella: Rainy
+19h: :white_sun_small_cloud: Partly Cloudy [:cloud: as of 9h]
+20h, 21h: :white_sun_small_cloud: Partly Cloudy
 Latest here: <https://github.com/zexpe/weather/blob/main/README.md>
 --------------------------------------------
