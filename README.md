@@ -1,12 +1,14 @@
-*Updated: Sunday 31st March 19:30*
+*Updated: Sunday 31st March 20:30*
 
 **Glasgow**
 
-* 21h, 22h: :cyclone: Windy (:partly_sunny:)
-* 23h - 8h: :cyclone: Windy (:cloud:)
+* 22h: :cyclone: Windy (:partly_sunny:)
+* 23h - 9h: :cyclone: Windy (:cloud:)
 
 **Edinburgh**
 
-* 21h, 22h: :partly_sunny: Partly Cloudy
+* 22h: :partly_sunny: Partly Cloudy
 * 23h - 1h: :cloud: Cloudy
-* 2h - 8h: :cyclone: Windy (:cloud:)
+* 2h: :cyclone: Windy (:cloud:) [:cloud: as of 22h]
+* 3h - 8h: :cyclone: Windy (:cloud:)
+* 9h: :umbrella: Rainy
