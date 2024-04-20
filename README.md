@@ -1,11 +1,11 @@
-*Updated: Saturday 20th April 17:30*
+*Updated: Saturday 20th April 18:30*
 
 **Glasgow**
 
-* 19h - 5h: :cloud: Cloudy
-* 6h: :partly_sunny: Partly Cloudy
+* 20h - 5h: :cloud: Cloudy
+* 6h, 7h: :partly_sunny: Partly Cloudy
 
 **Edinburgh**
 
-* 19h - 5h: :cloud: Cloudy
-* 6h: :umbrella: Rainy
+* 20h - 5h: :cloud: Cloudy
+* 6h, 7h: :umbrella: Rainy
