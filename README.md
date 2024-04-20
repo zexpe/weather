@@ -1,14 +1,15 @@
-*Updated: Saturday 20th April 22:30*
+*Updated: Sunday 21st April 23:30*
 
 **Glasgow**
 
-* 0h: :cloud: Cloudy [:umbrella: as of 0h]
-* 1h - 5h: :cloud: Cloudy
+* 1h, 2h: :cloud: Cloudy [:umbrella: as of 1h]
+* 3h - 5h: :cloud: Cloudy
 * 6h - 11h: :partly_sunny: Partly Cloudy
+* 12h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 0h: :cloud: Cloudy [:umbrella: as of 0h]
-* 1h - 5h: :cloud: Cloudy
+* 1h, 2h: :cloud: Cloudy [:umbrella: as of 1h]
+* 3h - 5h: :cloud: Cloudy
 * 6h, 7h: :umbrella: Rainy
-* 8h - 11h: :cloud: Cloudy
+* 8h - 12h: :cloud: Cloudy
