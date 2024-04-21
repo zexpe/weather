@@ -1,9 +1,9 @@
-*Updated: Sunday 21st April 15:30*
+*Updated: Sunday 21st April 16:30*
 
 **Glasgow**
 
-* 17h - 4h: :cloud: Cloudy
+* 18h - 5h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 17h - 4h: :cloud: Cloudy
+* 18h - 5h: :cloud: Cloudy
