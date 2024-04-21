@@ -1,12 +1,12 @@
-*Updated: Sunday 21st April 11:30*
+*Updated: Sunday 21st April 12:30*
 
 **Glasgow**
 
-* 13h: :cloud: Cloudy [:umbrella: as of 13h]
-* 14h - 0h: :cloud: Cloudy
+* 14h: :cloud: Cloudy [:umbrella: as of 14h]
+* 15h - 1h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 13h: :cloud: Cloudy [:umbrella: as of 9h]
 * 14h: :cloud: Cloudy [:umbrella: as of 13h]
-* 15h - 0h: :cloud: Cloudy
+* 15h: :cloud: Cloudy [:umbrella: as of 14h]
+* 16h - 1h: :cloud: Cloudy
