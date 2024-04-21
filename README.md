@@ -1,13 +1,13 @@
-*Updated: Sunday 21st April 04:30*
+*Updated: Sunday 21st April 05:30*
 
 **Glasgow**
 
-* 6h: :partly_sunny: Partly Cloudy [:umbrella: as of 6h]
-* 7h: :partly_sunny: Partly Cloudy [:cloud: as of 6h]
-* 8h - 11h: :partly_sunny: Partly Cloudy
-* 12h - 17h: :cloud: Cloudy
+* 7h: :partly_sunny: Partly Cloudy [:cloud: as of 6h, :umbrella: as of 7h]
+* 8h: :partly_sunny: Partly Cloudy [:umbrella: as of 7h]
+* 9h - 11h: :partly_sunny: Partly Cloudy
+* 12h - 18h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 6h, 7h: :umbrella: Rainy
-* 8h - 17h: :cloud: Cloudy
+* 7h: :umbrella: Rainy
+* 8h - 18h: :cloud: Cloudy
