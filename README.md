@@ -1,13 +1,13 @@
-*Updated: Sunday 28th April 03:30*
+*Updated: Sunday 28th April 04:30*
 
 **Glasgow**
 
-* 5h: :sunny: Clear
 * 6h - 9h: :partly_sunny: Partly Cloudy
 * 10h - 14h: :cloud: Cloudy
 * 15h, 16h: :cyclone: Windy (:cloud:)
+* 17h: :cyclone: Windy (:partly_sunny:)
 
 **Edinburgh**
 
-* 5h: :umbrella: Rainy
-* 6h - 16h: :cloud: Cloudy
+* 6h: :cloud: Cloudy [:umbrella: as of 6h]
+* 7h - 17h: :cloud: Cloudy
