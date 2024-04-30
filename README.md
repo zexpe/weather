@@ -1,12 +1,12 @@
-*Updated: Tuesday 30th April 12:30*
+*Updated: Tuesday 30th April 13:30*
 
 **Glasgow**
 
-* 14h - 18h: :cyclone: Windy (:cloud:)
-* 19h - 1h: :cloud: Cloudy
+* 15h - 18h: :cyclone: Windy (:cloud:)
+* 19h - 2h: :cloud: Cloudy
 
 **Edinburgh**
 
-* 14h - 18h: :cyclone: Windy (:cloud:)
+* 15h - 18h: :cyclone: Windy (:cloud:)
 * 19h: :cyclone: Windy (:cloud:) [:cloud: as of 9h]
-* 20h - 1h: :cloud: Cloudy
+* 20h - 2h: :cloud: Cloudy
